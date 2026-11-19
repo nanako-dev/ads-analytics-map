@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 664" role="img" aria-labelledby="X03-t X03-d">
+<title id="X03-t">予算の上振れの比べ方: Google・Meta・LINEヤフー・ChatGPT</title>
+<desc id="X03-d">例として 1 日の予算を 1 万円にすると、1 日に使われうる最大は Google・LINEヤフー・ChatGPT が 2 万円、Meta が 1.75 万円（一部のアカウントで段階的のため △）。ならす期間の上限は、Google と LINEヤフー検索が月 30.4 万円、LINEヤフーのディスプレイが 31 日の月で 31 万円、Meta と ChatGPT は週（日曜〜土曜）で 7 万円。</desc>
+<defs><marker id="ah-X03" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="664.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">例: 1 日の予算 1 万円</text>
+<text x="24.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#4D4D4D" text-anchor="start">1 日に使われうる最大</text>
+<text x="24.0" y="99.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Google</text>
+<rect x="270.0" y="78.0" width="560.0" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="820.0" y="99.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">2 万円</text>
+<text x="24.0" y="141.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<rect x="270.0" y="120.0" width="490.0" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="750.0" y="141.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">1.75 万円 △</text>
+<text x="24.0" y="183.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー</text>
+<rect x="270.0" y="162.0" width="560.0" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="820.0" y="183.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">2 万円</text>
+<text x="24.0" y="225.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<rect x="270.0" y="204.0" width="560.0" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="820.0" y="225.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">2 万円</text>
+<line x1="270.0" y1="246.0" x2="270.0" y2="252.0" stroke="#909A8B" stroke-width="1"/>
+<text x="270.0" y="266.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">0万</text>
+<line x1="550.0" y1="246.0" x2="550.0" y2="252.0" stroke="#909A8B" stroke-width="1"/>
+<text x="550.0" y="266.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">1万</text>
+<line x1="830.0" y1="246.0" x2="830.0" y2="252.0" stroke="#909A8B" stroke-width="1"/>
+<text x="830.0" y="266.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">2万</text>
+<line x1="550.0" y1="72.0" x2="550.0" y2="240.0" stroke="#000000" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="24.0" y1="290.0" x2="836.0" y2="290.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="316.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#4D4D4D" text-anchor="start">ならす期間の上限</text>
+<rect x="560.0" y="303.0" width="14.0" height="14.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="580.0" y="316.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">月</text>
+<rect x="620.0" y="303.0" width="14.0" height="14.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="3 2"/>
+<text x="640.0" y="316.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">週（日曜〜土曜）</text>
+<text x="24.0" y="349.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Google</text>
+<text x="258.0" y="349.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">月</text>
+<rect x="270.0" y="328.0" width="549.2" height="32.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="809.2" y="349.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">30.4 万円</text>
+<text x="24.0" y="391.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<text x="258.0" y="391.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">週</text>
+<rect x="270.0" y="370.0" width="126.5" height="32.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="386.5" y="391.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">7 万円</text>
+<text x="24.0" y="433.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー 検索</text>
+<text x="258.0" y="433.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">月</text>
+<rect x="270.0" y="412.0" width="549.2" height="32.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="809.2" y="433.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">30.4 万円</text>
+<text x="24.0" y="475.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー ディスプレイ</text>
+<text x="258.0" y="475.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">月</text>
+<rect x="270.0" y="454.0" width="560.0" height="32.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="820.0" y="475.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">31 万円（31 日の月）</text>
+<text x="24.0" y="517.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<text x="258.0" y="517.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">週</text>
+<rect x="270.0" y="496.0" width="126.5" height="32.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="386.5" y="517.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">7 万円</text>
+<line x1="270.0" y1="538.0" x2="270.0" y2="544.0" stroke="#909A8B" stroke-width="1"/>
+<text x="270.0" y="558.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">0万</text>
+<line x1="450.6" y1="538.0" x2="450.6" y2="544.0" stroke="#909A8B" stroke-width="1"/>
+<text x="450.6" y="558.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">10万</text>
+<line x1="631.3" y1="538.0" x2="631.3" y2="544.0" stroke="#909A8B" stroke-width="1"/>
+<text x="631.3" y="558.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">20万</text>
+<line x1="811.9" y1="538.0" x2="811.9" y2="544.0" stroke="#909A8B" stroke-width="1"/>
+<text x="811.9" y="558.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">30万</text>
+<rect x="24.0" y="585.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="594.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">Meta・ChatGPT は週でならす。月末の締めは週の境目で読む</text>
+<text x="42.0" y="622.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">△ Meta の 1.75 倍は「一部のアカウントで段階的」とヘルプが書く</text>
+<text x="24.0" y="650.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: Google 02 §6 ／ M-予算-004・005 ／ LY-予算-012・C-予算-003</text>
+</svg>

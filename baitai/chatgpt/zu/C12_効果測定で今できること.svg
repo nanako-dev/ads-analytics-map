@@ -1,0 +1,45 @@
+<svg viewBox="0 0 860 576" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c12t c12d" class="fig">
+<title id="c12t">C12 効果測定で今できること</title>
+<desc id="c12d">測りたいこと 3 つの成熟度を、左から「公式に無い」「初期のテスト・検討中」「使える」の 3 段の帯で示す。帰属は使える（ピクセル・コンバージョン API、外部の帰属の会社）。増分は「まだ初期段階」で、Haus・Measured・WorkMagic と地域の実験を検討中、管理画面の中の実験の機能は記載なし。ブランドの測定は Kantar・Cint と初期のテストで、広告主が申し込める形は記載なし。2026-10-05 の発表による。2026-11-18 時点。</desc>
+<rect width="860" height="576" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">2026-10-05 の公式の発表と、ヘルプ・開発者文書の本文</text>
+<rect x="176.0" y="52.0" width="220.0" height="34.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="188.0" y="75.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">公式に無い</text>
+<rect x="396.0" y="52.0" width="220.0" height="34.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="408.0" y="75.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">初期のテスト・検討中</text>
+<rect x="616.0" y="52.0" width="220.0" height="34.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="628.0" y="75.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">使える</text>
+<text x="24.0" y="75.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">成熟度 →</text>
+<rect x="24.0" y="86.0" width="812.0" height="128.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="120.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="17" font-weight="700" fill="#000000" text-anchor="start">帰属</text>
+<text x="36.0" y="142.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">どの広告の成果か</text>
+<line x1="176.0" y1="86.0" x2="176.0" y2="214.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="396.0" y1="86.0" x2="396.0" y2="140.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="616.0" y1="86.0" x2="616.0" y2="140.0" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="182.0" y="100.0" width="648.0" height="30.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="188.0" y="158.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">管理画面: ピクセル・コンバージョン API（ラストタッチ、クリック優先）</text>
+<text x="188.0" y="182.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">外部の帰属の会社: AppsFlyer・DV Rockerbox・Triple Whale など</text>
+<rect x="24.0" y="214.0" width="812.0" height="128.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="248.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="17" font-weight="700" fill="#000000" text-anchor="start">増分</text>
+<text x="36.0" y="270.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">広告で何件増えたか</text>
+<line x1="176.0" y1="214.0" x2="176.0" y2="342.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="396.0" y1="214.0" x2="396.0" y2="268.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="616.0" y1="214.0" x2="616.0" y2="268.0" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="182.0" y="228.0" width="428.0" height="30.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="188.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">OpenAI は「まだ初期段階」: Haus・Measured・WorkMagic と地域の実験を検討中</text>
+<text x="188.0" y="310.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">管理画面の中のリフト・A/B の機能 ― <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan></text>
+<rect x="24.0" y="342.0" width="812.0" height="128.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="376.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="17" font-weight="700" fill="#000000" text-anchor="start">ブランド</text>
+<text x="36.0" y="398.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">認知・好意</text>
+<line x1="176.0" y1="342.0" x2="176.0" y2="470.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="396.0" y1="342.0" x2="396.0" y2="396.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="616.0" y1="342.0" x2="616.0" y2="396.0" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="182.0" y="356.0" width="428.0" height="30.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="188.0" y="414.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">Kantar・Cint と初期のテスト（新しい掲載面で）</text>
+<text x="188.0" y="438.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">広告主が申し込める形 <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">？</tspan></text>
+<rect x="24.0" y="501.0" width="638.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="520.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">管理画面の「コンバージョン」は増分ではない（ラストタッチ・表示後 1 日を既定で含む）</text>
+<line x1="24.0" y1="540.0" x2="836.0" y2="540.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="560.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-計測-026・028・029 ／ ads.openai.com/blog/more-ways-to-measure ／ help 20001416</text>
+</svg>

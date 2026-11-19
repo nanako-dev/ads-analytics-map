@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 606" role="img" aria-labelledby="L29-t L29-d">
+<title id="L29-t">検索の「出ない・取れない」は上から順に外す（LINEヤフー、〔当てはめ〕）</title>
+<desc id="L29-d">運用の型06§4 の制約の順を LINEヤフーの検索に当てはめた〔当てはめ〕。a 審査（審査否認・審査中・残高。直して再審査、開始の 3 営業日前に入稿）、b 入札（自分の縛り。「入札単価の上限／下限」、目標値が実績より 20% 以上低い。上限・下限を外し、目標値を 20% 以内で緩める）、c 予算（「予算制限」、損失率（予算）。予算を 20% 以内で増やす）、d 品質・ランク（損失率（ランク）、品質インデックスの要素。広告の関連性、LP、推定クリック値の順に直す）、e 構造・需要（「配信対象の過小」「検索数が少ない」。範囲を広げる）。LINEヤフーの損失率（予算）には入札価格と残高の損失も入るので、c の前に b を外す。予算で止まっている間は広告グループの損失率（ランク）が 0.00 と出るので、c を外してから d を見る。</desc>
+<defs><marker id="ah-L29" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="606.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">検索の「出ない・取れない」は上から順に外す</text>
+<text x="836.0" y="46.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">〔当てはめ〕順は運用の型06§4</text>
+<text x="24.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">制約と、検索での見え方</text>
+<text x="512.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">打ち手</text>
+<rect x="24.0" y="76.0" width="812.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="24.0" y="76.0" width="44.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="115.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="middle">a</text>
+<text x="82.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">審査</text>
+<text x="82.0" y="125.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">審査否認・審査中・残高</text>
+<line x1="500.0" y1="76.0" x2="500.0" y2="138.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="512.0" y="113.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">直して再審査（開始の 3 営業日前に入稿）</text>
+<line x1="46.0" y1="138.0" x2="46.0" y2="162.0" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L29)"/>
+<rect x="24.0" y="162.0" width="812.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="24.0" y="162.0" width="44.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="201.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="middle">b</text>
+<text x="82.0" y="188.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">入札（自分の縛り）</text>
+<text x="82.0" y="211.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">「入札単価の上限／下限」、目標値が実績より 20% 以上低い</text>
+<line x1="500.0" y1="162.0" x2="500.0" y2="224.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="512.0" y="199.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">上限・下限を外す、目標値を 20% 以内で緩める</text>
+<line x1="46.0" y1="224.0" x2="46.0" y2="268.0" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L29)"/>
+<rect x="72.0" y="243.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<text x="90.0" y="252.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">損失率（予算）には入札価格・残高の損失も入る → b を先に外す</text>
+<rect x="24.0" y="268.0" width="812.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="24.0" y="268.0" width="44.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="307.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="middle">c</text>
+<text x="82.0" y="294.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">予算</text>
+<text x="82.0" y="317.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">「予算制限」、損失率（予算）</text>
+<line x1="500.0" y1="268.0" x2="500.0" y2="330.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="512.0" y="305.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">予算を 20% 以内で増やす</text>
+<line x1="46.0" y1="330.0" x2="46.0" y2="374.0" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L29)"/>
+<rect x="72.0" y="349.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<text x="90.0" y="358.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">予算で止まる間、広告グループの損失率（ランク）は 0.00 → c を外してから d</text>
+<rect x="24.0" y="374.0" width="812.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="24.0" y="374.0" width="44.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="413.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="middle">d</text>
+<text x="82.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">品質・ランク</text>
+<text x="82.0" y="423.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">損失率（ランク）、品質インデックスの要素</text>
+<line x1="500.0" y1="374.0" x2="500.0" y2="436.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="512.0" y="411.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">広告の関連性 → LP → 推定クリック値の順に直す</text>
+<line x1="46.0" y1="436.0" x2="46.0" y2="460.0" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L29)"/>
+<rect x="24.0" y="460.0" width="812.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="24.0" y="460.0" width="44.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="499.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#000000" text-anchor="middle">e</text>
+<text x="82.0" y="486.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">構造・需要</text>
+<text x="82.0" y="509.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">「配信対象の過小」「検索数が少ない」</text>
+<line x1="500.0" y1="460.0" x2="500.0" y2="522.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="512.0" y="497.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">範囲を広げる（インテントマッチなど）</text>
+<rect x="24.0" y="553.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="562.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">品質が先、入札は後。損失率（予算）だけで予算の制約と決めない</text>
+<text x="24.0" y="592.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 36 §1-4 ／ 90 §6-2 ／ ヘルプ H000044896</text>
+</svg>

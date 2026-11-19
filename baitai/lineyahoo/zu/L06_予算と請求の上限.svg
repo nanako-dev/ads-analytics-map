@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 624" role="img" aria-labelledby="L06-t L06-d">
+<title id="L06-t">予算と請求の上限（例: 1 日の予算 1 万円）</title>
+<desc id="L06-d">例として 1 日の予算を 1 万円にすると、1 日の請求対象は検索・ディスプレイとも 2 万円（200%）まで。1 か月の請求限度額は、検索が × 30.4 で 30.4 万円、ディスプレイがその月の日数で、31 日の月は 31 万円、30 日の月は 30 万円、28 日の月は 28 万円。月の途中で予算を変えたら、変更までの費用に変更後の予算 × 残り日数を足す。例: 15 日までに 15 万円使い、16 日から 2 万円にすると 47 万円。</desc>
+<defs><marker id="ah-L06" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="624.0" fill="#FFFFFF"/>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">例: 1 日の予算 1 万円</text>
+<text x="24.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#4D4D4D" text-anchor="start">1 日の上限（検索・ディスプレイ共通）</text>
+<text x="24.0" y="99.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">1 日の予算</text>
+<rect x="230.0" y="78.0" width="295.0" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="515.0" y="99.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">1 万円</text>
+<text x="24.0" y="141.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">1 日の上限</text>
+<rect x="230.0" y="120.0" width="590.0" height="32.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="810.0" y="141.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">2 万円（200%）</text>
+<line x1="230.0" y1="162.0" x2="230.0" y2="168.0" stroke="#909A8B" stroke-width="1"/>
+<text x="230.0" y="182.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">0万</text>
+<line x1="525.0" y1="162.0" x2="525.0" y2="168.0" stroke="#909A8B" stroke-width="1"/>
+<text x="525.0" y="182.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">1万</text>
+<line x1="820.0" y1="162.0" x2="820.0" y2="168.0" stroke="#909A8B" stroke-width="1"/>
+<text x="820.0" y="182.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">2万</text>
+<line x1="24.0" y1="204.0" x2="836.0" y2="204.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="230.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#4D4D4D" text-anchor="start">1 か月の上限（月初から月末まで、予算を変えないとき）</text>
+<text x="24.0" y="263.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">検索</text>
+<rect x="230.0" y="242.0" width="578.6" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="798.6" y="263.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">30.4 万円（× 30.4）</text>
+<text x="24.0" y="305.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ディスプレイ 31 日の月</text>
+<rect x="230.0" y="284.0" width="590.0" height="32.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="810.0" y="305.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">31 万円</text>
+<text x="24.0" y="347.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ディスプレイ 30 日の月</text>
+<rect x="230.0" y="326.0" width="571.0" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="791.0" y="347.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">30 万円</text>
+<text x="24.0" y="389.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ディスプレイ 28 日の月</text>
+<rect x="230.0" y="368.0" width="532.9" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="752.9" y="389.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="end">28 万円</text>
+<line x1="230.0" y1="410.0" x2="230.0" y2="416.0" stroke="#909A8B" stroke-width="1"/>
+<text x="230.0" y="430.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">0万</text>
+<line x1="420.3" y1="410.0" x2="420.3" y2="416.0" stroke="#909A8B" stroke-width="1"/>
+<text x="420.3" y="430.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">10万</text>
+<line x1="610.6" y1="410.0" x2="610.6" y2="416.0" stroke="#909A8B" stroke-width="1"/>
+<text x="610.6" y="430.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">20万</text>
+<line x1="801.0" y1="410.0" x2="801.0" y2="416.0" stroke="#909A8B" stroke-width="1"/>
+<text x="801.0" y="430.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">30万</text>
+<line x1="808.6" y1="236.0" x2="808.6" y2="404.0" stroke="#000000" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="24.0" y="455.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="464.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">Google と違う: ディスプレイは「その月の日数」で数える（検索と Google は × 30.4）</text>
+<line x1="24.0" y1="490.0" x2="836.0" y2="490.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="516.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#4D4D4D" text-anchor="start">月の途中で変えたとき（例: 31 日の月の 16 日に 2 万円へ）</text>
+<text x="24.0" y="549.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">1 か月の上限</text>
+<rect x="230.0" y="528.0" width="188.3" height="32.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="240.0" y="549.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">使った 15 万円</text>
+<rect x="418.3" y="528.0" width="401.7" height="32.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="428.3" y="549.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">2 万円 × 残り 16 日</text>
+<text x="820.0" y="584.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="end">＝ 47 万円</text>
+<text x="24.0" y="610.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: LY-予算-001・003・012 ／ 02 §8 ／ ヘルプ H000044428</text>
+</svg>

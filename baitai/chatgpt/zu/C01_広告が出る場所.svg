@@ -1,0 +1,52 @@
+<svg viewBox="0 0 860 761" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c01t c01d" class="fig">
+<title id="c01t">C01 広告が出る場所</title>
+<desc id="c01d">チャットの画面の模式図。利用者の質問、ChatGPT の回答、その下に「スポンサー」と分けて広告カードが 1 つ出る。広告は回答に影響しない。カードはアイコンとブランド名・「広告」・タイトル・説明・画像・「詳細を見る」。タイトルは画面の目安 32 字・文書の上限 50 字、説明は目安 54 字・上限 100 字（△ 数字が違う）。全角も 1 字で、目安を超えると切れる。広告の中身は架空の例。2026-11-18 時点。</desc>
+<rect width="860" height="761" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">チャットの画面（模式図。要素の並びは実際と違うことがある）</text>
+<text x="40.0" y="88.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="start">利用者の質問</text>
+<rect x="200.0" y="68.0" width="288.0" height="62.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="214.0" y="90.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">例: 3 泊の出張に向く、機内に持ち込める</text>
+<text x="214.0" y="111.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">スーツケースの選び方は?</text>
+<text x="40.0" y="164.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="start">ChatGPT の回答</text>
+<rect x="40.0" y="176.0" width="448.0" height="9.0" fill="#E6E6E6"/>
+<rect x="40.0" y="194.0" width="428.0" height="9.0" fill="#E6E6E6"/>
+<rect x="40.0" y="212.0" width="448.0" height="9.0" fill="#E6E6E6"/>
+<rect x="40.0" y="230.0" width="396.0" height="9.0" fill="#E6E6E6"/>
+<rect x="40.0" y="248.0" width="300.0" height="9.0" fill="#E6E6E6"/>
+<line x1="40.0" y1="284.0" x2="488.0" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="40.0" y="308.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">スポンサー</text>
+<rect x="56.0" y="336.0" width="32.0" height="32.0" fill="#F5F8F4" stroke="#909A8B" stroke-width="1"/>
+<text x="100.0" y="350.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">ハコビ鞄店（架空）</text>
+<text x="100.0" y="367.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">広告</text>
+<text x="56.0" y="404.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="600" fill="#000000" text-anchor="start">機内に持ち込めて 3 泊分入る、2.1kg のスーツケース</text>
+<text x="56.0" y="432.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">ポケットが 4 つで荷物を仕分けやすく、静かに転がる双輪キャス</text>
+<text x="56.0" y="453.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">ター。購入から 2 年の修理つき。</text>
+<rect x="56.0" y="475.0" width="150.0" height="150.0" fill="#E6E6E6"/>
+<text x="131.0" y="555.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#676E64" text-anchor="middle">画像</text>
+<text x="222.0" y="619.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">詳細を見る ↗</text>
+<rect x="40.0" y="320.0" width="448.0" height="321.0" fill="none" stroke="#000000" stroke-width="1"/>
+<rect x="24.0" y="48.0" width="480.0" height="613.0" fill="none" stroke="#909A8B" stroke-width="1"/>
+<line x1="488.0" y1="216.0" x2="534.0" y2="216.0" stroke="#909A8B" stroke-width="1"/>
+<rect x="540.0" y="204.0" width="151.0" height="24.0" fill="#C9F7DC"/>
+<text x="548.0" y="221.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">回答には影響しない</text>
+<line x1="488.0" y1="284.0" x2="534.0" y2="284.0" stroke="#909A8B" stroke-width="1"/>
+<text x="540.0" y="289.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">回答の下に分けて 1 つ</text>
+<line x1="488.0" y1="350.0" x2="534.0" y2="350.0" stroke="#909A8B" stroke-width="1"/>
+<text x="540.0" y="355.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">アイコンとブランド名・「広告」</text>
+<line x1="488.0" y1="399.0" x2="534.0" y2="399.0" stroke="#909A8B" stroke-width="1"/>
+<text x="540.0" y="404.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" text-anchor="start"><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="600" fill="#000000" font-size="14">タイトル  </tspan><tspan font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-weight="400" fill="#4D4D4D" font-size="13">29/32</tspan></text>
+<text x="540.0" y="425.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">画面の目安 32 字 ／ 文書の上限 50 字 △</text>
+<polyline points="488.0,427.0 514.0,427.0 530.0,454.0 534.0,454.0" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="540.0" y="459.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" text-anchor="start"><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="600" fill="#000000" font-size="14">説明  </tspan><tspan font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-weight="400" fill="#4D4D4D" font-size="13">48/54</tspan></text>
+<text x="540.0" y="480.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">画面の目安 54 字 ／ 文書の上限 100 字 △</text>
+<line x1="488.0" y1="530.0" x2="534.0" y2="530.0" stroke="#909A8B" stroke-width="1"/>
+<text x="540.0" y="535.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">画像 1 枚</text>
+<text x="540.0" y="556.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">正方形 4〜6 枚の形もある</text>
+<line x1="488.0" y1="614.0" x2="534.0" y2="614.0" stroke="#909A8B" stroke-width="1"/>
+<text x="540.0" y="619.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">「詳細を見る ↗」→ LP</text>
+<rect x="24.0" y="686.0" width="413.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="705.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">全角も 1 字。目安を超えると配置によって「…」で切れる</text>
+<line x1="24.0" y1="725.0" x2="836.0" y2="725.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="745.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: 62#3・#4・#5〔画面〕 ／ C-広告-001 ／ help 20001207</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg viewBox="0 0 860 528" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c04t c04d" class="fig">
+<title id="c04t">C04 入札の移行の年表</title>
+<desc id="c04d">2026-11-01 から 2027-01-20 の日付の軸。2026-11-09 から新規は目標 CPA／目標 CPC。2026-11-18 から API は新しい欄を推奨し、旧欄の値は平均の目標として扱う。2026-12-31 に旧欄の受け付けが終わり、2027-01-01 に上限入札（画面では「手動入札」）が廃止。払う額は最終的な落札の入札額（ヘルプ）で、報道の 2 位価格と食い違う（△）。2026-11-18 時点。</desc>
+<rect width="860" height="528" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">日付の軸（2026-11-01 〜 2027-01-20）</text>
+<text x="240.6" y="62.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="600" fill="#000000" text-anchor="start">2026-11-09</text>
+<text x="240.6" y="81.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">新規は目標 CPA／目標 CPC</text>
+<line x1="236.6" y1="88.0" x2="236.6" y2="150.0" stroke="#000000" stroke-width="1"/>
+<text x="315.5" y="106.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="600" fill="#000000" text-anchor="start">2026-11-18</text>
+<text x="315.5" y="125.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">API は新しい欄を推奨</text>
+<line x1="311.5" y1="132.0" x2="311.5" y2="150.0" stroke="#000000" stroke-width="1"/>
+<text x="665.5" y="62.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="600" fill="#000000" text-anchor="end">2026-12-31</text>
+<text x="665.5" y="81.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="end">旧欄の受け付けの終わり</text>
+<line x1="669.5" y1="88.0" x2="669.5" y2="150.0" stroke="#000000" stroke-width="1"/>
+<text x="681.8" y="106.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="600" fill="#000000" text-anchor="start">2027-01-01</text>
+<text x="681.8" y="125.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">上限入札の廃止</text>
+<line x1="677.8" y1="132.0" x2="677.8" y2="150.0" stroke="#000000" stroke-width="1"/>
+<line x1="170.0" y1="150.0" x2="836.0" y2="150.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="170.0" y1="150.0" x2="170.0" y2="156.0" stroke="#000000" stroke-width="1"/>
+<text x="173.0" y="170.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">11 月</text>
+<line x1="419.8" y1="150.0" x2="419.8" y2="156.0" stroke="#000000" stroke-width="1"/>
+<text x="422.8" y="170.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">12 月</text>
+<line x1="677.8" y1="150.0" x2="677.8" y2="156.0" stroke="#000000" stroke-width="1"/>
+<text x="680.8" y="170.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">2027 年 1 月</text>
+<text x="24.0" y="212.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="start">管理画面</text>
+<text x="24.0" y="230.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">新規のキャンペーン</text>
+<rect x="170.0" y="198.0" width="66.6" height="36.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="176.0" y="221.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">上限入札</text>
+<rect x="236.6" y="198.0" width="599.4" height="36.0" fill="#C9F7DC" stroke="#909A8B" stroke-width="1"/>
+<text x="242.6" y="221.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">目標 CPA（コンバージョン）・目標 CPC（クリック）</text>
+<text x="24.0" y="266.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="start">管理画面</text>
+<text x="24.0" y="284.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">既存の上限入札</text>
+<rect x="170.0" y="252.0" width="507.8" height="36.0" fill="#FFE7B8" stroke="#909A8B" stroke-width="1"/>
+<text x="176.0" y="275.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">残る（画面では「手動入札」）</text>
+<rect x="677.8" y="252.0" width="158.2" height="36.0" fill="#FFD6D6" stroke="#909A8B" stroke-width="1"/>
+<text x="683.8" y="275.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">廃止</text>
+<text x="24.0" y="320.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="start">API</text>
+<text x="24.0" y="338.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">新しい欄</text>
+<rect x="311.5" y="306.0" width="524.5" height="36.0" fill="#C9F7DC" stroke="#909A8B" stroke-width="1"/>
+<text x="317.5" y="329.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">目標 CPA・目標 CPC の欄を推奨</text>
+<text x="24.0" y="374.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="start">API</text>
+<text x="24.0" y="392.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">旧欄（上限）</text>
+<rect x="170.0" y="360.0" width="141.5" height="36.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="176.0" y="383.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">上限として扱う</text>
+<rect x="311.5" y="360.0" width="366.3" height="36.0" fill="#FFE7B8" stroke="#909A8B" stroke-width="1"/>
+<text x="317.5" y="383.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">値は平均の目標として扱う</text>
+<rect x="677.8" y="360.0" width="158.2" height="36.0" fill="#FFD6D6" stroke="#909A8B" stroke-width="1"/>
+<text x="683.8" y="383.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">非推奨</text>
+<line x1="311.5" y1="150.0" x2="311.5" y2="410.0" stroke="#000000" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="315.5" y="426.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">この図の時点</text>
+<text x="24.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" text-anchor="start"><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700" fill="#000000" font-size="15">払う額＝「最終的な落札の入札額」（ヘルプ）</tspan><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="500" fill="#4D4D4D" font-size="14">　△ 報道の要約は「2 位価格」</tspan></text>
+<line x1="24.0" y1="492.0" x2="836.0" y2="492.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="512.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-入札-006・012・015 ／ help 20001634 ／ 62#14〔画面〕</text>
+</svg>

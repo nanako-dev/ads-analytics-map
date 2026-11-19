@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 678" role="img" aria-labelledby="L31-t L31-d">
+<title id="L31-t">LINE 広告の移行ツールで移るもの・移らないもの（2026-11-18 時点）</title>
+<desc id="L31-d">LINE 広告から LINEヤフー広告 ディスプレイ広告へ、移行ツールで移るのは、キャンペーン・広告グループ・広告の設定、素材、オーディエンスに溜まったユーザー、審査の承認（自動承認）、グループ（MCC へ）と広告アカウント、カード情報と権限（任意）。キャンペーンは配信オフで作られ、承認は移るが移行後に LINEヤフー広告の基準で否認されうる。移らないのは、過去の実績とレポート、自動入札の学習、LINE Tag とコンバージョン設定、「商品フィードから販売」の目的、外部ツールの API 連携、操作履歴と免税設定。計測タグに貼り替えてコンバージョン設定を作り直し、学習は一からになる。</desc>
+<defs><marker id="ah-L31" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="678.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINE 広告の移行ツールで移るもの・移らないもの</text>
+<text x="24.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">LINE 広告</text>
+<text x="397.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="middle">移行ツール</text>
+<text x="452.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー広告 ディスプレイ広告</text>
+<rect x="386.0" y="80.0" width="22.0" height="514.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<rect x="24.0" y="80.0" width="330.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">キャンペーン・広告グループ・広告の設定</text>
+<line x1="354.0" y1="97.0" x2="448.0" y2="97.0" stroke="#000000" stroke-width="1.2" marker-end="url(#ah-L31)"/>
+<rect x="24.0" y="122.0" width="330.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="144.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">素材</text>
+<line x1="354.0" y1="139.0" x2="448.0" y2="139.0" stroke="#000000" stroke-width="1.2" marker-end="url(#ah-L31)"/>
+<rect x="24.0" y="164.0" width="330.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="186.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">オーディエンスに溜まったユーザー</text>
+<line x1="354.0" y1="181.0" x2="448.0" y2="181.0" stroke="#000000" stroke-width="1.2" marker-end="url(#ah-L31)"/>
+<rect x="24.0" y="206.0" width="330.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="228.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">審査の承認（自動承認）</text>
+<line x1="354.0" y1="223.0" x2="448.0" y2="223.0" stroke="#000000" stroke-width="1.2" marker-end="url(#ah-L31)"/>
+<rect x="24.0" y="248.0" width="330.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="270.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">グループ（→ MCC）・広告アカウント</text>
+<line x1="354.0" y1="265.0" x2="448.0" y2="265.0" stroke="#000000" stroke-width="1.2" marker-end="url(#ah-L31)"/>
+<rect x="24.0" y="290.0" width="330.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="312.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">カード情報・権限（任意）</text>
+<line x1="354.0" y1="307.0" x2="448.0" y2="307.0" stroke="#000000" stroke-width="1.2" marker-end="url(#ah-L31)"/>
+<rect x="452.0" y="80.0" width="384.0" height="244.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="468.0" y="110.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">移る</text>
+<text x="468.0" y="134.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">キャンペーンは配信オフで作られる</text>
+<rect x="468.0" y="219.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<text x="484.0" y="228.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">承認は移るが、移行後に否認されうる</text>
+<line x1="24.0" y1="337.0" x2="836.0" y2="337.0" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="24.0" y="350.0" width="330.0" height="34.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="372.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">過去の実績・レポート</text>
+<line x1="354.0" y1="367.0" x2="384.0" y2="367.0" stroke="#909A8B" stroke-width="1.2"/>
+<line x1="384.0" y1="359.0" x2="384.0" y2="375.0" stroke="#000000" stroke-width="2"/>
+<rect x="24.0" y="392.0" width="330.0" height="34.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="414.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">自動入札の学習</text>
+<line x1="354.0" y1="409.0" x2="384.0" y2="409.0" stroke="#909A8B" stroke-width="1.2"/>
+<line x1="384.0" y1="401.0" x2="384.0" y2="417.0" stroke="#000000" stroke-width="2"/>
+<rect x="24.0" y="434.0" width="330.0" height="34.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="456.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">LINE Tag とコンバージョン設定</text>
+<line x1="354.0" y1="451.0" x2="384.0" y2="451.0" stroke="#909A8B" stroke-width="1.2"/>
+<line x1="384.0" y1="443.0" x2="384.0" y2="459.0" stroke="#000000" stroke-width="2"/>
+<rect x="24.0" y="476.0" width="330.0" height="34.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="498.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">「商品フィードから販売」の目的</text>
+<line x1="354.0" y1="493.0" x2="384.0" y2="493.0" stroke="#909A8B" stroke-width="1.2"/>
+<line x1="384.0" y1="485.0" x2="384.0" y2="501.0" stroke="#000000" stroke-width="2"/>
+<rect x="24.0" y="518.0" width="330.0" height="34.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="540.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">外部ツールの API 連携</text>
+<line x1="354.0" y1="535.0" x2="384.0" y2="535.0" stroke="#909A8B" stroke-width="1.2"/>
+<line x1="384.0" y1="527.0" x2="384.0" y2="543.0" stroke="#000000" stroke-width="2"/>
+<rect x="24.0" y="560.0" width="330.0" height="34.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="582.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">操作履歴・免税設定</text>
+<line x1="354.0" y1="577.0" x2="384.0" y2="577.0" stroke="#909A8B" stroke-width="1.2"/>
+<line x1="384.0" y1="569.0" x2="384.0" y2="585.0" stroke="#000000" stroke-width="2"/>
+<polyline points="452.0,350.0 442.0,350.0 442.0,594.0 452.0,594.0" fill="none" stroke="#000000" stroke-width="1"/>
+<text x="458.0" y="380.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">移らない</text>
+<text x="458.0" y="404.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">計測タグに貼り替え、コンバージョン設定を作り直す</text>
+<text x="458.0" y="426.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">学習は一からになる</text>
+<rect x="24.0" y="625.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="634.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">移行直後の成果で良し悪しを決めない。学習も実績も引き継がれない</text>
+<text x="24.0" y="664.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: LY-統合-012・013 ／ LY-学習-012 ／ 61 §4-3</text>
+</svg>

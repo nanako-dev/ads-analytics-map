@@ -1,0 +1,37 @@
+<svg viewBox="0 0 860 474" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m08t m08d" class="fig">
+<title id="m08t">M08 Advantage+ オーディエンスの制御と提案</title>
+<desc id="m08d">Advantage+ オーディエンスで守られるのは地域・最低年齢・除外するカスタムオーディエンス・言語だけで、年齢・性別・詳細ターゲット・含めるカスタムオーディエンスは「提案」として外にも広がる。絞りが必須の商材は制御に置けるもので守るか［オーディエンスをさらに制限する］を使う（特別な広告カテゴリでは使えず、類似は除外できない）。</desc>
+<rect width="860" height="474" fill="#FFFFFF"/>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">オーディエンス制御（実線）＝ 越えられない境界。配信はこの外に出ない</text>
+<rect x="24.0" y="44.0" width="812.0" height="330.0" fill="#FFFFFF" stroke="#000000" stroke-width="2.5"/>
+<rect x="64.0" y="44.0" width="50.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="76.0" y="66.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">地域</text>
+<rect x="24.0" y="194.0" width="199.2" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="36.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">最低年齢（18 歳未満は不可）</text>
+<rect x="64.0" y="340.0" width="219.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="76.0" y="362.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">除外するカスタムオーディエンス</text>
+<rect x="786.0" y="100.0" width="50.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="798.0" y="122.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">言語</text>
+<rect x="260.0" y="124.0" width="370.0" height="176.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25" stroke-dasharray="6 4"/>
+<text x="276.0" y="152.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">オーディエンスの提案（点線）</text>
+<text x="276.0" y="170.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">優先して届ける範囲</text>
+<rect x="276.0" y="184.0" width="163.0" height="42.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="288.0" y="210.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">年齢</text>
+<rect x="451.0" y="184.0" width="163.0" height="42.0" fill="#C9F7DC" stroke="#909A8B" stroke-width="1"/>
+<text x="463.0" y="210.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">性別</text>
+<rect x="276.0" y="236.0" width="163.0" height="42.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="288.0" y="262.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">詳細ターゲット設定</text>
+<rect x="451.0" y="236.0" width="163.0" height="42.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="463.0" y="254.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">含めるカスタム</text>
+<text x="463.0" y="270.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">オーディエンス</text>
+<line x1="614.0" y1="205.0" x2="825.0" y2="205.0" stroke="#000000" stroke-width="1.5"/><path d="M832.0 205.0 L825.0 201.0 L825.0 209.0 Z" fill="#000000"/>
+<line x1="836.0" y1="193.0" x2="836.0" y2="217.0" stroke="#000000" stroke-width="4"/>
+<text x="733.0" y="195.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="middle">提案の外にも出る</text>
+<text x="824.0" y="231.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="end">制御の線で止まる</text>
+<line x1="526.4" y1="124.0" x2="526.4" y2="55.0" stroke="#000000" stroke-width="1.5"/><path d="M526.4 48.0 L522.4 55.0 L530.4 55.0 Z" fill="#000000"/>
+<line x1="514.4" y1="44.0" x2="538.4" y2="44.0" stroke="#000000" stroke-width="4"/>
+<text x="516.4" y="90.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="end">外にも出る</text>
+<text x="24.0" y="406.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">例: 性別で「女性」を提案しても、反応しそうなら男性にも出る（点線は越えるが、実線は越えない）</text>
+<text x="24.0" y="432.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">特別な広告カテゴリでは Advantage+ オーディエンスを使えない ／ 類似オーディエンスは除外できない</text>
+<text x="24.0" y="464.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 938372127764391・793748385630490 ／ M-ターゲティング-001・002 ／ 2026-11-18 時点</text>
+</svg>

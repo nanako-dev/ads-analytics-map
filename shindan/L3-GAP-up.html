@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>管理画面と実績のずれが上がった｜運用の地図</title>
+
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" href="../assets/site.css?v=1795074534">
+</head><body>
+<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-19 に作成</div>
+<header class="nav"><div class="nav-in"><a class="brand" href="../index.html"><i></i>運用の地図</a><nav><a href="../index.html">入口</a><a href="../shindan/index.html" class="on">症状</a><a href="../kata/index.html">判断の型</a><a href="../shikiichi.html">しきい値</a><a href="../shiyou.html">規則</a><a href="../yogo.html">用語</a><a href="../mondai.html">問題</a><a href="../menu/index.html">メニュー</a><a href="../check/index.html">点検</a><a href="../sim/index.html">試算</a><a href="../kaisetsu/index.html">解説</a><a href="../baitai/index.html">媒体</a><a href="../search.html">検索</a></nav></div></header>
+<main>
+<p class="crumb"><a href="../index.html">入口</a> / <a href="index.html">症状</a> / L3 成果 / GAP-上</p>
+<section class="hero"><div><p class="tag">[ SYMPTOM / L3 · GAP ↑ ]</p><h1>管理画面と実績のずれが<br><mark>上がった</mark></h1>
+<p class="lead">打ち手に飛ぶ前に、上の段から順に疑う。元の節:「管理画面の成果と、GA4・自社の実績とのずれ（GAP）」</p>
+<div class="acts"><a class="btn" href="#flow">切り分けを始める ›</a><a class="btn ghost" href="#tree">要因の木 ›</a></div></div>
+<div class="stats"><div><b>13</b><span>要因</span></div><div><b>9</b><span>分類</span></div><div><b>10</b><span>公式の根拠</span></div><div><b>5</b><span>経験則</span></div></div></section>
+<nav class="quick" aria-label="実務の近道"><span>実務の近道</span><a href="#flow">切り分ける順番</a><a href="#tree">要因の木</a><a href="#rows">要因ごとの確かめ方（13）</a><a href="#src">出典</a></nav>
+<div class="ribbon" aria-hidden="true"><i style="left:4%;width:9%"></i><i class="p" style="left:16%;width:3%"></i><i style="left:41%;width:14%"></i><i class="s" style="left:63%;width:20%"></i><i style="left:88%;width:5%"></i></div>
+<section class="sec" id="flow"><p class="num">01</p><div><h2>切り分ける順番</h2><p class="desc">STEP 1 から右へ。元はこの節の「まず切り分ける順番」。</p><div class="fig-box"><svg viewBox="0 0 960 284" class="fig" role="img" aria-label="切り分ける順番: 上の段で当たれば、その分類の要因を見る。当たらなければ次へ">
+<rect x="20.0" y="40" width="210.5" height="104" rx="0" fill="#000000" stroke="#000000"/>
+<text x="32.0" y="64" font-family="'Chivo Mono',monospace" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="start">STEP 1</text>
+<text x="32.0" y="90" font-family="'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="start">比べ方</text>
+<line x1="232.5" y1="92" x2="250.5" y2="92" stroke="#4D4D4D" stroke-width="1.25"/>
+<path d="M254.5 92 l-6 -4 v8 z" fill="#4D4D4D"/>
+<rect x="256.5" y="40" width="210.5" height="104" rx="0" fill="#FFFFFF" stroke="#000000"/>
+<text x="268.5" y="64" font-family="'Chivo Mono',monospace" font-size="10.5" font-weight="600" fill="#0B8F45" text-anchor="start">STEP 2</text>
+<text x="268.5" y="90" font-family="'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">設定の変更</text>
+<line x1="469.0" y1="92" x2="487.0" y2="92" stroke="#4D4D4D" stroke-width="1.25"/>
+<path d="M491.0 92 l-6 -4 v8 z" fill="#4D4D4D"/>
+<rect x="493.0" y="40" width="210.5" height="104" rx="0" fill="#FFFFFF" stroke="#000000"/>
+<text x="505.0" y="64" font-family="'Chivo Mono',monospace" font-size="10.5" font-weight="600" fill="#0B8F45" text-anchor="start">STEP 3</text>
+<text x="505.0" y="90" font-family="'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">実装の変更</text>
+<line x1="705.5" y1="92" x2="723.5" y2="92" stroke="#4D4D4D" stroke-width="1.25"/>
+<path d="M727.5 92 l-6 -4 v8 z" fill="#4D4D4D"/>
+<rect x="729.5" y="40" width="210.5" height="104" rx="0" fill="#FFFFFF" stroke="#000000"/>
+<text x="741.5" y="64" font-family="'Chivo Mono',monospace" font-size="10.5" font-weight="600" fill="#0B8F45" text-anchor="start">STEP 4</text>
+<text x="741.5" y="90" font-family="'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">どちら側が動い</text>
+<text x="741.5" y="109" font-family="'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">たか</text>
+<text x="20" y="276" font-family="'Noto Sans JP',sans-serif" font-size="11" font-weight="400" fill="#676E64" text-anchor="start">当たらなければ右へ。この木の分類は段の番号を持たないので、下の要因の木と合わせて見る</text>
+</svg></div><div class="ask"><p class="ts-l">Claude に聞くなら（ochinana_ads を登録済みの Claude Code で。実績を読めるのは Google 広告だけ）</p><p class="ts-q">「先週、うちのアカウントの管理画面と実績のずれが上がった理由を、この順番で調べて」</p><p class="ts-tools">Claude は <code>kb_logic_tree</code>（この症状の木）で順番と基準を引き、<code>get_performance</code>・<code>get_search_terms</code>・<code>run_checks</code> で実績を読んで（読むだけ）、どの段で変わったかを答えます。<a href="../index.html#scenes">つながり方を見る ›</a></p></div></div></section>
+<section class="sec" id="tree"><p class="num">02</p><div><h2>要因の木</h2><p class="desc">分類ごとに要因を並べた。要因を押すと、確かめ方と打ち手へ飛ぶ。分け方は表の「分類」列。</p><div class="fig-box"><svg viewBox="0 0 960 391" class="fig" role="img" aria-label="管理画面と実績のずれが上がった の要因の木（9 分類・13 要因）">
+<rect x="20" y="167.5" width="150" height="56" rx="0" fill="#000000"/>
+<text x="36" y="191.5" font-family="'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">管理画面と実績の…</text>
+<text x="36" y="211.5" font-family="'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">上がった</text>
+<path d="M 170 195.5 C 195 195.5 175 31.5 200 31.5" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="20.0" width="190" height="23" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="36.5" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">A</text>
+<text x="232" y="36.5" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">計測</text>
+<text x="378" y="36.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">1</text>
+<path d="M 390 31.5 C 410 31.5 410 33.5 430 33.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-01">
+<text x="436" y="37.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#01</text>
+<text x="472" y="38.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">二重計測</text>
+<circle cx="900" cy="33.5" r="4.5" fill="#FFA9FD"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 58.5 200 58.5" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="47.0" width="190" height="23" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="63.5" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">B</text>
+<text x="232" y="63.5" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">定義</text>
+<text x="378" y="63.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">1</text>
+<path d="M 390 58.5 C 410 58.5 410 60.5 430 60.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-02">
+<text x="436" y="64.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#02</text>
+<text x="472" y="65.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">広告の成果がボタンのクリックや途中の行動で、自社は完了を数…</text>
+<circle cx="900" cy="60.5" r="4.5" fill="#FFA9FD"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 99.0 200 99.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="82.0" width="190" height="34" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="104.0" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">C</text>
+<text x="232" y="104.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">推定</text>
+<text x="378" y="104.0" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">2</text>
+<path d="M 390 99.0 C 410 99.0 410 87.5 430 87.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-03">
+<text x="436" y="91.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#03</text>
+<text x="472" y="92.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">推定・拡張コンバージョンの開始</text>
+<circle cx="900" cy="87.5" r="4.5" fill="#19E76E"/>
+</a>
+<path d="M 390 99.0 C 410 99.0 410 114.5 430 114.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-13">
+<text x="436" y="118.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#13</text>
+<text x="472" y="119.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">クロスデバイスの成果</text>
+<circle cx="900" cy="114.5" r="4.5" fill="#19E76E"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 153.0 200 153.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="136.0" width="190" height="34" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="158.0" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">D</text>
+<text x="232" y="158.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">帰属</text>
+<text x="378" y="158.0" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">2</text>
+<path d="M 390 153.0 C 410 153.0 410 141.5 430 141.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-04">
+<text x="436" y="145.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#04</text>
+<text x="472" y="146.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">データドリブン・計測期間の延長</text>
+<circle cx="900" cy="141.5" r="4.5" fill="#19E76E"/>
+<circle cx="914" cy="141.5" r="4.5" fill="#FFA9FD"/>
+</a>
+<path d="M 390 153.0 C 410 153.0 410 168.5 430 168.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-05">
+<text x="436" y="172.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#05</text>
+<text x="472" y="173.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">ビュースルー・エンゲージビューが入った</text>
+<circle cx="900" cy="168.5" r="4.5" fill="#19E76E"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 207.0 200 207.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="190.0" width="190" height="34" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="212.0" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">E</text>
+<text x="232" y="212.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">GA4側</text>
+<text x="378" y="212.0" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">2</text>
+<path d="M 390 207.0 C 410 207.0 410 195.5 430 195.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-06">
+<text x="436" y="199.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#06</text>
+<text x="472" y="200.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">GA4 のタグの故障、同意で GA4 だけ欠ける、GA4 …</text>
+<circle cx="900" cy="195.5" r="4.5" fill="#19E76E"/>
+<circle cx="914" cy="195.5" r="4.5" fill="none" stroke="#676E64"/>
+</a>
+<path d="M 390 207.0 C 410 207.0 410 222.5 430 222.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-12">
+<text x="436" y="226.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#12</text>
+<text x="472" y="227.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">GA4 のキーイベントのカウントを「セッションごとに 1 …</text>
+<circle cx="900" cy="222.5" r="4.5" fill="#19E76E"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 247.5 200 247.5" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="236.0" width="190" height="23" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="252.5" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">F</text>
+<text x="232" y="252.5" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">自社側</text>
+<text x="378" y="252.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">1</text>
+<path d="M 390 247.5 C 410 247.5 410 249.5 430 249.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-07">
+<text x="436" y="253.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#07</text>
+<text x="472" y="254.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">キャンセル・返品・無効なリード</text>
+<circle cx="900" cy="249.5" r="4.5" fill="#19E76E"/>
+<circle cx="914" cy="249.5" r="4.5" fill="#FFA9FD"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 274.5 200 274.5" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="263.0" width="190" height="23" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="279.5" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">G</text>
+<text x="232" y="279.5" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">計上日</text>
+<text x="378" y="279.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">1</text>
+<path d="M 390 274.5 C 410 274.5 410 276.5 430 276.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-08">
+<text x="436" y="280.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#08</text>
+<text x="472" y="281.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">クリック日と発生日の違い</text>
+<circle cx="900" cy="276.5" r="4.5" fill="#19E76E"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 301.5 200 301.5" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="290.0" width="190" height="23" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="306.5" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">H</text>
+<text x="232" y="306.5" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">質</text>
+<text x="378" y="306.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">1</text>
+<path d="M 390 301.5 C 410 301.5 410 303.5 430 303.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-09">
+<text x="436" y="307.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#09</text>
+<text x="472" y="308.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">スパム・テストの成果</text>
+<circle cx="900" cy="303.5" r="4.5" fill="#FFA9FD"/>
+</a>
+<path d="M 170 195.5 C 195 195.5 175 342.0 200 342.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<rect x="200" y="325.0" width="190" height="34" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="212" y="347.0" font-family="'Chivo Mono',monospace" font-size="12" font-weight="700" fill="#0B8F45" text-anchor="start">I</text>
+<text x="232" y="347.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">比べ方</text>
+<text x="378" y="347.0" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="end">2</text>
+<path d="M 390 342.0 C 410 342.0 410 330.5 430 330.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-10">
+<text x="436" y="334.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#10</text>
+<text x="472" y="335.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">GA4 で google / cpc のラストクリックだけ…</text>
+<circle cx="900" cy="330.5" r="4.5" fill="#19E76E"/>
+</a>
+<path d="M 390 342.0 C 410 342.0 410 357.5 430 357.5" fill="none" stroke="#B9C2B4"/>
+<a href="#GAP-上-11">
+<text x="436" y="361.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#11</text>
+<text x="472" y="362.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">タイムゾーンの違い</text>
+<circle cx="900" cy="357.5" r="4.5" fill="#19E76E"/>
+</a>
+</svg></div><p class="cap">[ 根拠 ] <span class="lg"><i class="d d-off"></i>公式 <b>10</b></span><span class="lg"><i class="d d-dat"></i>データあり <b>0</b></span><span class="lg"><i class="d d-exp"></i>経験則 <b>5</b></span><span class="lg"><i class="d d-inf"></i>推測 <b>1</b></span></p></div></section>
+<section class="sec" id="rows"><p class="num">03</p><div><h2>要因ごとの確かめ方 <button data-open class="btn sm">すべて開く</button></h2><div class="toolbar"><div class="seg" role="group" aria-label="分類で絞る"><button class="on" data-f="all">すべて 13</button><button data-f="A">A 計測</button><button data-f="B">B 定義</button><button data-f="C">C 推定</button><button data-f="D">D 帰属</button><button data-f="E">E GA4側</button><button data-f="F">F 自社側</button><button data-f="G">G 計上日</button><button data-f="H">H 質</button><button data-f="I">I 比べ方</button></div></div><div class="rows"><details class="fr" id="GAP-上-01" data-g="A"><summary><span class="rid">GAP-上-01</span><span class="rg">A</span><span class="rw">二重計測</span><span class="rd"><i class="d d-exp"></i></span></summary>
+<div class="why">広告だけ倍になる</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アクション別・日別に GA4 と比べる。注文の実数</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>片方をサブに、取引 ID</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>入札が水増しで学習</p></div></div>
+<p class="src">根拠: 経験則 T2-7-16、T2-12-3</p></details>
+<details class="fr" id="GAP-上-02" data-g="B"><summary><span class="rid">GAP-上-02</span><span class="rg">B</span><span class="rw">広告の成果がボタンのクリックや途中の行動で、自社は完了を数えている</span><span class="rd"><i class="d d-exp"></i></span></summary>
+<div class="why">途中で離脱した人も広告の成果になる</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アクションの定義と、自社の完了数の比</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>完了を返す（コンバージョン API、オフライン取り込み）、途中の行動はサブ</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>件数は減る</p></div></div>
+<p class="src">根拠: 経験則 T6-4-1〜4-4</p></details>
+<details class="fr" id="GAP-上-03" data-g="C"><summary><span class="rid">GAP-上-03</span><span class="rg">C</span><span class="rw">推定・拡張コンバージョンの開始</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">直接測れない分を推定で足す</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>開始日、拡張の診断</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>正常。差の比率の新しい基準を置く</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 公式 00§7-1</p></details>
+<details class="fr" id="GAP-上-13" data-g="C"><summary><span class="rid">GAP-上-13</span><span class="rg">C</span><span class="rw">クロスデバイスの成果</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">広告は推定で結び、GA4 は結べない</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>GA4 の Google シグナルの設定、端末をまたぐ商材か</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>差として受け入れる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 公式 06§1、7457111</p></details>
+<details class="fr" id="GAP-上-04" data-g="D"><summary><span class="rid">GAP-上-04</span><span class="rg">D</span><span class="rw">データドリブン・計測期間の延長</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">他の接点の成果が広告に配られる</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>モデル比較、変更日</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>比べるときは GA4 の帰属をそろえる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>一致はしない</p></div></div>
+<p class="src">根拠: 公式 06§1／経験則 T2-8-7</p></details>
+<details class="fr" id="GAP-上-05" data-g="D"><summary><span class="rid">GAP-上-05</span><span class="rg">D</span><span class="rw">ビュースルー・エンゲージビューが入った</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">クリックしていない人の成果</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「ビュースルー コンバージョン」列、キャンペーンの種類</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>報告で分ける</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 公式 7457111</p></details>
+<details class="fr" id="GAP-上-06" data-g="E"><summary><span class="rid">GAP-上-06</span><span class="rg">E</span><span class="rw">GA4 のタグの故障、同意で GA4 だけ欠ける、GA4 の設定変更（キーイベントの解除、データの保持・フィルタ）</span><span class="rd"><i class="d d-off"></i><i class="d d-inf"></i></span></summary>
+<div class="why">GA4 側が減る</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>GA4 の他チャネルも同時に落ちたか、GA4 のリアルタイムで発火</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>GA4 を直す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>取り込みを GA4 にしているなら広告も減るはず。広告側だけ残るならタグ直接の計測</p></div></div>
+<p class="src">根拠: 推測／公式 06§3</p></details>
+<details class="fr" id="GAP-上-12" data-g="E"><summary><span class="rid">GAP-上-12</span><span class="rg">E</span><span class="rw">GA4 のキーイベントのカウントを「セッションごとに 1 回」に変えた</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">GA4 だけ件数が減る</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>GA4 のキーイベントの設定と変更日</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>比べる定義をそろえる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>帰属が「有料とオーガニック」なら Google 広告側も GA4 の設定を引き継ぐ</p></div></div>
+<p class="src">根拠: 公式 06§2</p></details>
+<details class="fr" id="GAP-上-07" data-g="F"><summary><span class="rid">GAP-上-07</span><span class="rg">F</span><span class="rw">キャンセル・返品・無効なリード</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">自社の実績からは消える</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>CRM の無効理由、返品率</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>撤回・調整の取り込み、有効な成果だけをメインに（オフライン取り込み）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 公式 7686447／経験則 T3-7-1〜7-3</p></details>
+<details class="fr" id="GAP-上-08" data-g="G"><summary><span class="rid">GAP-上-08</span><span class="rg">G</span><span class="rw">クリック日と発生日の違い</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">期間の端で差が出る</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「コンバージョンの日時別」列で比べ直す</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>比べ方を直す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 公式 06§1</p></details>
+<details class="fr" id="GAP-上-09" data-g="H"><summary><span class="rid">GAP-上-09</span><span class="rg">H</span><span class="rw">スパム・テストの成果</span><span class="rd"><i class="d d-exp"></i></span></summary>
+<div class="why">自社で無効</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>CRM の無効判定、同じ時刻の集中</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>スパム対策、撤回</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 経験則 T3-7-12、T3-7-21</p></details>
+<details class="fr" id="GAP-上-10" data-g="I"><summary><span class="rid">GAP-上-10</span><span class="rg">I</span><span class="rw">GA4 で google / cpc のラストクリックだけと比べた、GA4 の当日分（Unassigned が多い）と比べた</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">比較の相手が小さい</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>GA4 の帰属設定、期間</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>GA4 の [広告] セクションのレポートと比べる、確定した日で比べる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>—</p></div></div>
+<p class="src">根拠: 公式 06§3</p></details>
+<details class="fr" id="GAP-上-11" data-g="I"><summary><span class="rid">GAP-上-11</span><span class="rg">I</span><span class="rw">タイムゾーンの違い</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">日の区切りがずれ、日別で差が出る</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アカウントとプロパティのタイムゾーン設定</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>週・月で比べる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>日別の差は合計では小さくなる</p></div></div>
+<p class="src">根拠: 公式 06§1</p></details></div></div></section>
+<p class="cap" id="src">[ 元 ] <code>ロジックツリー/L3_コンバージョン率と獲得単価.md</code> §5 ／ 確認日 2026-11-17 ／ 各要因の根拠は「要因ごとの確かめ方」の行の中</p>
+<div class="pager"><a class="btn ghost" href="L3-GAP-down.html">↓ 管理画面と実績のずれが下がった ›</a><a class="btn ghost" href="index.html">すべての症状 ›</a></div>
+<script>document.querySelectorAll('.seg button').forEach(function(b){b.addEventListener('click',function(){
+document.querySelectorAll('.seg button').forEach(function(x){x.classList.remove('on')});b.classList.add('on');var f=b.dataset.f;
+document.querySelectorAll('.fr').forEach(function(c){c.hidden=!(f==='all'||c.dataset.g===f)});});});</script>
+
+</main>
+<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="../index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="../shindan/index.html">すべての症状</a><a href="../shindan/L3-CVR-down.html">CVR が下がった</a><a href="../shindan/L3-CPA-up.html">CPA が上がった</a><a href="../shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="../menu/index.html">メニューの選び方</a><a href="../check/index.html">入稿前の点検</a><a href="../kata/index.html">判断の型 14 章</a><a href="../kata/06.html">状態の判定</a><a href="../kata/07.html">優先順位</a><a href="../kata/08.html">判断の規則集</a><a href="../kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="../shikiichi.html">しきい値</a><a href="../kata/90.html">式の一覧</a><a href="../shiyou.html">仕様の規則</a><a href="../dekiru.html">できる・できない 早見表</a><a href="../kata/92.html">食い違いと裁定</a><a href="../kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="../yogo.html">用語集</a><a href="../mondai.html">問題集</a><a href="../sim/index.html">試算（CPA・配分・曲線）</a><a href="../kaisetsu/index.html">解説（知識メモ）</a><a href="../search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="../baitai/index.html">媒体の一覧</a><a href="../baitai/meta/index.html">Meta</a><a href="../baitai/lineyahoo/index.html">LINEヤフー</a><a href="../baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-19</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-19 に作りました。</span></div></footer>
+<script>
+document.querySelectorAll('[data-open]').forEach(function(b){b.addEventListener('click',function(){var o=b.dataset.state!=='1';
+ document.querySelectorAll('details').forEach(function(d){if(!d.hidden)d.open=o});b.dataset.state=o?'1':'0';b.textContent=o?'すべて閉じる':'すべて開く'})});
+document.querySelectorAll('.dg-filt button').forEach(function(b){b.addEventListener('click',function(){var f=b.dataset.f;
+ document.querySelectorAll('.dg-filt button').forEach(function(x){x.classList.toggle('on',x===b)});
+ document.querySelectorAll('[data-st]').forEach(function(e){e.classList.toggle('off',!!f&&e.dataset.st.split(' ').indexOf(f)<0)});
+ var bar=document.getElementById('fbar');if(!bar){bar=document.createElement('div');bar.id='fbar';bar.className='dg-fbar';document.body.appendChild(bar);}
+ if(f){bar.innerHTML=f+' の規則だけを表示中（'+document.querySelectorAll('.rcard:not(.off)').length+' 個） <button type="button">すべて表示に戻す</button>';bar.hidden=false;
+  bar.querySelector('button').onclick=function(){document.querySelector('.dg-filt button[data-f=""]').click()};}else{bar.hidden=true;}})});
+document.querySelectorAll('.tbl .tv').forEach(function(b){b.addEventListener('click',function(){var t=b.parentNode;var c=t.classList.toggle('k-plain');t.classList.toggle('k-cards',!c);b.textContent=c?'カードで見る':'表で見る'})});
+(function(){var pr=document.querySelector('.prose');if(!pr)return;var hs=[].slice.call(pr.querySelectorAll('h2[id],h3[id]'));if(hs.filter(function(h){return h.tagName==='H2'}).length<3)return;
+ var b=document.createElement('button');b.type='button';b.className='toc-btn';b.textContent='目次';var p=document.createElement('nav');p.className='toc-pan';p.hidden=true;p.setAttribute('aria-label','このページの目次');
+ p.innerHTML=hs.map(function(h){return '<a class="'+h.tagName.toLowerCase()+'" href="#'+h.id+'">'+h.textContent.replace(/^\s+|\s+$/g,'')+'</a>'}).join('');
+ var top=document.createElement('a');top.className='toc-top';top.href='#';top.textContent='↑ 上へ';
+ document.body.appendChild(p);document.body.appendChild(b);document.body.appendChild(top);
+ b.addEventListener('click',function(){p.hidden=!p.hidden});p.addEventListener('click',function(e){if(e.target.tagName==='A')p.hidden=true});
+ var links=[].slice.call(p.querySelectorAll('a'));function spy(){var cur=null;hs.forEach(function(h,i){if(h.getBoundingClientRect().top<120)cur=i});links.forEach(function(a,i){a.classList.toggle('on',i===cur)});
+  b.textContent=cur===null?'目次':'目次 · '+hs[cur].textContent.replace(/^\s+|\s+$/g,'').slice(0,18);}
+ window.addEventListener('scroll',spy,{passive:true});spy();})();
+document.addEventListener('keydown',function(e){if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)){var q=document.getElementById('sq-all');if(q){e.preventDefault();q.focus()}else{location.href=document.querySelector('.brand').getAttribute('href').replace('index.html','search.html')}}});
+if(location.hash){var t=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(t&&t.tagName==='DETAILS')t.open=true;}
+</script>
+</body></html>

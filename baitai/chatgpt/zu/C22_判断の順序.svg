@@ -1,0 +1,48 @@
+<svg viewBox="0 0 860 558" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c22t c22d" class="fig">
+<title id="c22t">C22 判断の順序</title>
+<desc id="c22d">運用の型の判断の順序を ChatGPT の広告に当てはめたもの（当てはめ）。上から順に確かめる。問 0 出ているか: 24 時間待つ、認証・請求・上限、名前の変更、期間・今日と今週の予算・国、入札、広告の状態の理由の順。問 1 計測は信用できるか: テストで 1 件、重複除外の鍵、oppref の受け渡し、台帳との比、EQS の警告。問 2 教える中身は正しいか: 目的・イベント・課金とビュースルーの扱い。問 3・4 過渡の最中か・件数は足りるか: 学習中の表示が無いので自分の記録で。問 5・6 効率と量: 週でビューの窓をそろえて。2026-11-18 時点。</desc>
+<rect width="860" height="558" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">上から順に確かめる〔当てはめ〕（90§12・36§1-4）</text>
+<text x="24.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">問い</text>
+<text x="410.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">確かめること（この順で）</text>
+<rect x="24.0" y="72.0" width="330.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="38.0" y="108.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">問 0  出ているか</text>
+<rect x="410.0" y="72.0" width="426.0" height="62.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="422.0" y="97.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">24 時間待つ → 認証・請求・上限 → 名前の変更 → 期間・今日と今</text>
+<text x="422.0" y="117.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">週の予算・国 → 入札 → 広告の状態の理由</text>
+<line x1="354.0" y1="103.0" x2="410.0" y2="103.0" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<polyline points="64.0,134.0 64.0,152.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M64.0 158.0 l-4 -7 h8 z" fill="#000000"/>
+<rect x="24.0" y="158.0" width="330.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="194.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">問 1  計測は信用できるか</text>
+<rect x="410.0" y="158.0" width="426.0" height="62.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="422.0" y="183.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">テストで 1 件、重複除外の鍵、oppref の受け渡し、台帳との比、</text>
+<text x="422.0" y="203.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">EQS の警告</text>
+<line x1="354.0" y1="189.0" x2="410.0" y2="189.0" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<polyline points="64.0,220.0 64.0,238.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M64.0 244.0 l-4 -7 h8 z" fill="#000000"/>
+<rect x="24.0" y="244.0" width="330.0" height="52.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="275.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">問 2  教える中身は正しいか</text>
+<rect x="410.0" y="244.0" width="426.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="422.0" y="274.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">目的・イベント・課金とビュースルーの扱い。直すなら作り直し</text>
+<line x1="354.0" y1="270.0" x2="410.0" y2="270.0" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<polyline points="64.0,296.0 64.0,314.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M64.0 320.0 l-4 -7 h8 z" fill="#000000"/>
+<rect x="24.0" y="320.0" width="330.0" height="52.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="351.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">問 3・4  過渡の最中か・件数は足りるか</text>
+<rect x="410.0" y="320.0" width="426.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="422.0" y="350.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">学習中の表示は無いので自分の記録で。少額ではたいてい足りない</text>
+<line x1="354.0" y1="346.0" x2="410.0" y2="346.0" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<polyline points="64.0,372.0 64.0,390.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M64.0 396.0 l-4 -7 h8 z" fill="#000000"/>
+<rect x="24.0" y="396.0" width="330.0" height="52.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="427.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">問 5・6  効率と量</text>
+<rect x="410.0" y="396.0" width="426.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="422.0" y="426.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">週（日曜〜土曜）で、ビューの窓をそろえて読む</text>
+<line x1="354.0" y1="422.0" x2="410.0" y2="422.0" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="24.0" y="483.0" width="515.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="502.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">配信が出ないとき、入札より先に認証・請求・名前の変更・週の枠を見る</text>
+<line x1="24.0" y1="522.0" x2="836.0" y2="522.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="542.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: 90§12 ／ 36§1-4 ／ 02§8-1</text>
+</svg>

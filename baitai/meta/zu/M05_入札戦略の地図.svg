@@ -1,0 +1,56 @@
+<svg viewBox="0 0 860 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m05t m05d" class="fig">
+<title id="m05t">M05 入札戦略の地図</title>
+<desc id="m05d">日本語ヘルプの入札は「消化金額に基づく・目標に基づく・手動」の 3 型で、手動は入札価格上限だけ（開発者文書は目標に基づく 2 つも manual bidding と呼ぶ △）。結果の単価目標は過去 30 日の平均より 10〜20% 高く始め、変えたら 7 日待ち、3 週間安定してから広げ、5〜10% 刻みで直す。</desc>
+<rect width="860" height="540" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">日本語ヘルプの 3 つの型</text>
+<rect x="24.0" y="40.0" width="260.0" height="260.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="68.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">消化金額に基づく</text>
+<text x="38.0" y="90.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">予算を使い切る</text>
+<rect x="36.0" y="106.0" width="236.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="50.0" y="132.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">最大数量</text>
+<text x="50.0" y="152.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">LOWEST_COST_WITHOUT_CAP</text>
+<rect x="36.0" y="176.0" width="236.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="50.0" y="202.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">バリュー最大化</text>
+<text x="50.0" y="222.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">LOWEST_COST_WITHOUT_CAP</text>
+<rect x="300.0" y="40.0" width="260.0" height="260.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="314.0" y="68.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">目標に基づく</text>
+<text x="314.0" y="90.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">週平均を目標付近に</text>
+<rect x="536.0" y="58.0" width="10" height="10" fill="#19E76E"/>
+<rect x="312.0" y="106.0" width="236.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="326.0" y="132.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">結果の単価目標</text>
+<text x="326.0" y="152.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">COST_CAP</text>
+<rect x="312.0" y="176.0" width="236.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="326.0" y="202.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ROAS 目標</text>
+<text x="326.0" y="222.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">LOWEST_COST_WITH_MIN_ROAS</text>
+<text x="314.0" y="266.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">週 50〜100 件で最もよく働く</text>
+<text x="314.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">守られる保証は無い</text>
+<rect x="576.0" y="40.0" width="260.0" height="260.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="590.0" y="68.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">手動</text>
+<text x="590.0" y="90.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">入札の上限を決める</text>
+<rect x="588.0" y="106.0" width="236.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="602.0" y="132.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">入札価格上限</text>
+<text x="602.0" y="152.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">LOWEST_COST_WITH_BID_CAP</text>
+<rect x="24.0" y="334.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="344.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">結果の単価目標の始め方と動かし方</text>
+<line x1="44.0" y1="418.0" x2="816.0" y2="418.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="124.0" y1="410.0" x2="124.0" y2="426.0" stroke="#000000" stroke-width="1.5"/>
+<text x="124.0" y="380.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">初期値</text>
+<text x="124.0" y="400.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">0 日</text>
+<text x="124.0" y="448.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">過去 30 日の平均より 10〜</text>
+<text x="124.0" y="467.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">20% 高く</text>
+<line x1="328.0" y1="410.0" x2="328.0" y2="426.0" stroke="#000000" stroke-width="1.5"/>
+<text x="328.0" y="380.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">待つ</text>
+<text x="328.0" y="400.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">7 日以上</text>
+<text x="328.0" y="448.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">変えたら 7 日以上待つ</text>
+<line x1="532.0" y1="410.0" x2="532.0" y2="426.0" stroke="#000000" stroke-width="1.5"/>
+<text x="532.0" y="380.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">広げる</text>
+<text x="532.0" y="400.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">3 週間以上</text>
+<text x="532.0" y="448.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">安定してから拡大</text>
+<line x1="736.0" y1="410.0" x2="736.0" y2="426.0" stroke="#000000" stroke-width="1.5"/>
+<text x="736.0" y="380.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">直す</text>
+<text x="736.0" y="400.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">随時</text>
+<text x="736.0" y="448.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">5〜10% 刻みで動かす</text>
+<rect x="124.0" y="414.0" width="204.0" height="8.0" fill="#C9F7DC"/>
+<text x="24.0" y="498.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">日予算は結果の単価目標の 5 倍以上</text>
+<text x="24.0" y="530.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 1619591734742116・176339196621566 ／ M-入札-012・013 ／ 2026-11-18 時点</text>
+</svg>

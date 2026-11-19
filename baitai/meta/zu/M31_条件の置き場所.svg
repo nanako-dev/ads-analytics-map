@@ -1,0 +1,66 @@
+<svg viewBox="0 0 860 484" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m31t m31d" class="fig">
+<title id="m31t">M31 オーディエンスの条件の置き場所</title>
+<desc id="m31d">外の人に出ると困る条件は、全キャンペーン共通ならアカウント制御、そのキャンペーンだけならオーディエンス制御に置き、困らない条件は提案として渡す。どうしても絞りたいときは［オーディエンスをさらに制限する］で制御にできるが Advantage+ オーディエンスを手放す（仕分けは〔推測〕、各機能の扱いは公式）。</desc>
+<rect width="860" height="484" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">〔推測〕「誰に出す・出さない」の条件は、外の人に出て困るかで置き場所を分ける</text>
+<rect x="220.0" y="46.0" width="420.0" height="44.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="430.0" y="72.2" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">その条件の外の人に出たら困るか</text>
+<line x1="430.0" y1="90.0" x2="430.0" y2="106.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="224.0" y1="106.0" x2="636.0" y2="106.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="224.0" y1="106.0" x2="224.0" y2="127.0" stroke="#000000" stroke-width="1.25"/><path d="M224.0 134.0 L228.0 127.0 L220.0 127.0 Z" fill="#000000"/>
+<line x1="636.0" y1="106.0" x2="636.0" y2="127.0" stroke="#000000" stroke-width="1.25"/><path d="M636.0 134.0 L640.0 127.0 L632.0 127.0 Z" fill="#000000"/>
+<text x="232.0" y="126.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">困る（法令・事業で外せない）</text>
+<text x="644.0" y="126.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">困らない</text>
+<rect x="24.0" y="134.0" width="400.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="224.0" y="157.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">全キャンペーンに共通か</text>
+<rect x="436.0" y="134.0" width="400.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="636.0" y="157.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">成果より、その人への到達が大事か</text>
+<line x1="224.0" y1="174.0" x2="224.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="224.0" y1="188.0" x2="121.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="121.0" y1="188.0" x2="121.0" y2="211.0" stroke="#000000" stroke-width="1.25"/><path d="M121.0 218.0 L125.0 211.0 L117.0 211.0 Z" fill="#000000"/>
+<text x="127.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">はい</text>
+<line x1="224.0" y1="174.0" x2="224.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="224.0" y1="188.0" x2="327.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="327.0" y1="188.0" x2="327.0" y2="211.0" stroke="#000000" stroke-width="1.25"/><path d="M327.0 218.0 L331.0 211.0 L323.0 211.0 Z" fill="#000000"/>
+<text x="333.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">いいえ</text>
+<line x1="636.0" y1="174.0" x2="636.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="636.0" y1="188.0" x2="533.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="533.0" y1="188.0" x2="533.0" y2="211.0" stroke="#000000" stroke-width="1.25"/><path d="M533.0 218.0 L537.0 211.0 L529.0 211.0 Z" fill="#000000"/>
+<text x="539.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">はい</text>
+<line x1="636.0" y1="174.0" x2="636.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="636.0" y1="188.0" x2="739.0" y2="188.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="739.0" y1="188.0" x2="739.0" y2="211.0" stroke="#000000" stroke-width="1.25"/><path d="M739.0 218.0 L743.0 211.0 L735.0 211.0 Z" fill="#000000"/>
+<text x="745.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">いいえ</text>
+<rect x="24.0" y="218.0" width="194.0" height="96.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="260.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">アカウント制御</text>
+<text x="36.0" y="281.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">最低年齢・地域・配置</text>
+<rect x="230.0" y="218.0" width="194.0" height="96.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="242.0" y="251.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">オーディエンス制御</text>
+<text x="242.0" y="272.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">地域・最低年齢・言語・カス</text>
+<text x="242.0" y="290.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">タムの除外</text>
+<rect x="436.0" y="218.0" width="194.0" height="96.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="448.0" y="250.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">［オーディエンスをさらに</text>
+<text x="448.0" y="270.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">制限する］</text>
+<text x="448.0" y="291.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">年齢・性別なども制御にする</text>
+<rect x="642.0" y="218.0" width="194.0" height="96.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="654.0" y="251.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">提案</text>
+<text x="654.0" y="272.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">年齢・性別・詳細・含めるカ</text>
+<text x="654.0" y="290.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">スタム・類似</text>
+<rect x="24.0" y="324.0" width="194.0" height="51.5" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="32.0" y="345.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">特別な広告カテゴリには効かな</text>
+<text x="32.0" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">い</text>
+<rect x="436.0" y="324.0" width="194.0" height="51.5" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="444.0" y="345.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">Advantage+ オーディエンスを</text>
+<text x="444.0" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">手放す</text>
+<rect x="642.0" y="324.0" width="194.0" height="38.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="650.0" y="347.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">外の人にも出る</text>
+<line x1="24.0" y1="380.0" x2="630.0" y2="380.0" stroke="#000000" stroke-width="1.5"/>
+<line x1="24.0" y1="374.0" x2="24.0" y2="380.0" stroke="#000000" stroke-width="1.5"/>
+<line x1="630.0" y1="374.0" x2="630.0" y2="380.0" stroke="#000000" stroke-width="1.5"/>
+<text x="327.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="middle">制御（守られる囲い）</text>
+<line x1="642.0" y1="380.0" x2="836.0" y2="380.0" stroke="#909A8B" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="739.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="middle">手がかり</text>
+<rect x="24.0" y="432.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="442.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">Advantage+ オーディエンスでは類似を除外できない。除外として守られるのはカスタムオーディエンス</text>
+<text x="24.0" y="474.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 23 §13-1・§2-2 ／ ヘルプ 938372127764391・1438478636941047 ／ M-ターゲティング-003・010 ／ 2026-11-18 時点</text>
+</svg>

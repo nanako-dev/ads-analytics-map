@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>検索｜運用の地図</title>
+
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" href="assets/site.css?v=1795074534">
+</head><body>
+<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-19 に作成</div>
+<header class="nav"><div class="nav-in"><a class="brand" href="index.html"><i></i>運用の地図</a><nav><a href="index.html">入口</a><a href="shindan/index.html">症状</a><a href="kata/index.html">判断の型</a><a href="shikiichi.html">しきい値</a><a href="shiyou.html">規則</a><a href="yogo.html">用語</a><a href="mondai.html">問題</a><a href="menu/index.html">メニュー</a><a href="check/index.html">点検</a><a href="sim/index.html">試算</a><a href="kaisetsu/index.html">解説</a><a href="baitai/index.html">媒体</a><a href="search.html" class="on">検索</a></nav></div></header>
+<main>
+<p class="crumb"><a href="index.html">入口</a> / 検索</p>
+<section class="hero"><div><p class="tag">[ 検索 ]</p><h1>サイトの中を<mark>探す</mark></h1>
+<p class="lead">症状・判断の規則・しきい値・仕様の規則・用語・問題・解説の節を、まとめて探せます。言葉を空白で区切ると、全部を含むものだけが残ります。どのページでも「/」キーでここへ来られます。</p></div>
+<div class="stats"><div><b>7,845</b><span>探せる項目</span></div><div><b>16</b><span>種類</span></div></div></section>
+<section class="sec"><p class="num">01</p><div>
+<div class="toolbar"><input id="sq-all" type="search" placeholder="例: 学習中 何日、部分一致、CVR 下がった、上限クリック単価" aria-label="サイトの中を探す" autofocus></div>
+<div class="schips" role="group" aria-label="種類で絞る"><button class="on" data-t="">すべて <small>7845</small></button><button data-t="ほかの媒体">ほかの媒体 <small>50</small></button><button data-t="症状">症状 <small>57</small></button><button data-t="症状の要因">症状の要因 <small>824</small></button><button data-t="判断の型">判断の型 <small>15</small></button><button data-t="判断の規則">判断の規則 <small>175</small></button><button data-t="しきい値">しきい値 <small>37</small></button><button data-t="仕様の規則">仕様の規則 <small>1738</small></button><button data-t="用語">用語 <small>478</small></button><button data-t="問題">問題 <small>426</small></button><button data-t="解説">解説 <small>44</small></button><button data-t="付録">付録 <small>3</small></button><button data-t="節">節 <small>3986</small></button><button data-t="ページ">ページ <small>6</small></button></div>
+<p id="sn-all" class="cap"></p><div id="sres"></div></div></section>
+<script>
+(function(){var data=[],q=document.getElementById('sq-all'),res=document.getElementById('sres'),n=document.getElementById('sn-all'),type='';
+function esc(s){return s.replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function hl(s,ws){s=esc(s);ws.forEach(function(w){if(!w)return;var i=s.toLowerCase().indexOf(w);if(i>=0)s=s.slice(0,i)+'<mark>'+s.slice(i,i+w.length)+'</mark>'+s.slice(i+w.length)});return s}
+function run(){var ws=q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);if(!ws.length&&!type){res.innerHTML='';n.textContent='言葉を入れるか、種類を選んでください。';return}
+ var hit=data.filter(function(d){if(type&&d.t!==type)return false;var s=(d.n+' '+d.x).toLowerCase();return ws.every(function(w){return s.indexOf(w)>=0})});
+ hit.sort(function(a,b){var an=ws.length&&a.n.toLowerCase().indexOf(ws[0])>=0?0:1,bn=ws.length&&b.n.toLowerCase().indexOf(ws[0])>=0?0:1;return an-bn});
+ n.textContent=hit.length+' 件'+(hit.length>200?'（上から 200 件）':'');
+ res.innerHTML=hit.slice(0,200).map(function(d){return '<a class="sr" href="'+d.u+'"><span class="st">'+d.t+'</span><b>'+hl(d.n,ws)+'</b><span class="sx">'+hl(d.x||'',ws)+'</span></a>'}).join('');}
+fetch('assets/search.json').then(function(r){return r.json()}).then(function(d){data=d;var p=new URLSearchParams(location.search).get('q');if(p)q.value=p;run()});
+q.addEventListener('input',run);
+document.querySelectorAll('.schips button').forEach(function(b){b.addEventListener('click',function(){type=b.dataset.t;document.querySelectorAll('.schips button').forEach(function(x){x.classList.toggle('on',x===b)});run()})});})();
+</script>
+
+</main>
+<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="shindan/index.html">すべての症状</a><a href="shindan/L3-CVR-down.html">CVR が下がった</a><a href="shindan/L3-CPA-up.html">CPA が上がった</a><a href="shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="menu/index.html">メニューの選び方</a><a href="check/index.html">入稿前の点検</a><a href="kata/index.html">判断の型 14 章</a><a href="kata/06.html">状態の判定</a><a href="kata/07.html">優先順位</a><a href="kata/08.html">判断の規則集</a><a href="kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="shikiichi.html">しきい値</a><a href="kata/90.html">式の一覧</a><a href="shiyou.html">仕様の規則</a><a href="dekiru.html">できる・できない 早見表</a><a href="kata/92.html">食い違いと裁定</a><a href="kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="yogo.html">用語集</a><a href="mondai.html">問題集</a><a href="sim/index.html">試算（CPA・配分・曲線）</a><a href="kaisetsu/index.html">解説（知識メモ）</a><a href="search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="baitai/index.html">媒体の一覧</a><a href="baitai/meta/index.html">Meta</a><a href="baitai/lineyahoo/index.html">LINEヤフー</a><a href="baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-19</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-19 に作りました。</span></div></footer>
+<script>
+document.querySelectorAll('[data-open]').forEach(function(b){b.addEventListener('click',function(){var o=b.dataset.state!=='1';
+ document.querySelectorAll('details').forEach(function(d){if(!d.hidden)d.open=o});b.dataset.state=o?'1':'0';b.textContent=o?'すべて閉じる':'すべて開く'})});
+document.querySelectorAll('.dg-filt button').forEach(function(b){b.addEventListener('click',function(){var f=b.dataset.f;
+ document.querySelectorAll('.dg-filt button').forEach(function(x){x.classList.toggle('on',x===b)});
+ document.querySelectorAll('[data-st]').forEach(function(e){e.classList.toggle('off',!!f&&e.dataset.st.split(' ').indexOf(f)<0)});
+ var bar=document.getElementById('fbar');if(!bar){bar=document.createElement('div');bar.id='fbar';bar.className='dg-fbar';document.body.appendChild(bar);}
+ if(f){bar.innerHTML=f+' の規則だけを表示中（'+document.querySelectorAll('.rcard:not(.off)').length+' 個） <button type="button">すべて表示に戻す</button>';bar.hidden=false;
+  bar.querySelector('button').onclick=function(){document.querySelector('.dg-filt button[data-f=""]').click()};}else{bar.hidden=true;}})});
+document.querySelectorAll('.tbl .tv').forEach(function(b){b.addEventListener('click',function(){var t=b.parentNode;var c=t.classList.toggle('k-plain');t.classList.toggle('k-cards',!c);b.textContent=c?'カードで見る':'表で見る'})});
+(function(){var pr=document.querySelector('.prose');if(!pr)return;var hs=[].slice.call(pr.querySelectorAll('h2[id],h3[id]'));if(hs.filter(function(h){return h.tagName==='H2'}).length<3)return;
+ var b=document.createElement('button');b.type='button';b.className='toc-btn';b.textContent='目次';var p=document.createElement('nav');p.className='toc-pan';p.hidden=true;p.setAttribute('aria-label','このページの目次');
+ p.innerHTML=hs.map(function(h){return '<a class="'+h.tagName.toLowerCase()+'" href="#'+h.id+'">'+h.textContent.replace(/^\s+|\s+$/g,'')+'</a>'}).join('');
+ var top=document.createElement('a');top.className='toc-top';top.href='#';top.textContent='↑ 上へ';
+ document.body.appendChild(p);document.body.appendChild(b);document.body.appendChild(top);
+ b.addEventListener('click',function(){p.hidden=!p.hidden});p.addEventListener('click',function(e){if(e.target.tagName==='A')p.hidden=true});
+ var links=[].slice.call(p.querySelectorAll('a'));function spy(){var cur=null;hs.forEach(function(h,i){if(h.getBoundingClientRect().top<120)cur=i});links.forEach(function(a,i){a.classList.toggle('on',i===cur)});
+  b.textContent=cur===null?'目次':'目次 · '+hs[cur].textContent.replace(/^\s+|\s+$/g,'').slice(0,18);}
+ window.addEventListener('scroll',spy,{passive:true});spy();})();
+document.addEventListener('keydown',function(e){if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)){var q=document.getElementById('sq-all');if(q){e.preventDefault();q.focus()}else{location.href=document.querySelector('.brand').getAttribute('href').replace('index.html','search.html')}}});
+if(location.hash){var t=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(t&&t.tagName==='DETAILS')t.open=true;}
+</script>
+</body></html>

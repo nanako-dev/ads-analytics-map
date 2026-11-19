@@ -1,0 +1,46 @@
+<svg viewBox="0 0 860 498" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c29t c29d" class="fig">
+<title id="c29t">C29 強化で法の点検の外に出る道</title>
+<desc id="c29d">クリエイティブの強化と日本の法規の関係の模式図（法の側の読みは推測）。広告主が法律の確認を通した範囲は、確認済みの広告の文と、打消し表示・特商法の表示を置いた選んだ LP。強化はその文と LP の中身を材料に、書き換えた見出しと説明、別の言語に翻訳した文、サイト内の別のページへのリンク先を作ることがあり、これらは広告主が点検していない。自動で生まれた表現の責任と、書き換え後の文面が審査されるかは公式に記載なし。2026-11-18 時点。</desc>
+<rect width="860" height="498" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">〔推測〕法の側の読み（31§4）。強化の動きは公式</text>
+<rect x="24.0" y="56.0" width="360.0" height="250.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="38.0" y="82.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">法律の確認を通した範囲</text>
+<text x="38.0" y="104.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">広告主が点検した文と LP</text>
+<rect x="38.0" y="122.0" width="332.0" height="70.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="50.0" y="148.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">広告の文</text>
+<text x="50.0" y="169.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">No.1・価格・効能などの言い回しを確認済み</text>
+<rect x="38.0" y="206.0" width="332.0" height="84.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="50.0" y="232.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">選んだ LP</text>
+<text x="50.0" y="253.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">打消し表示・特商法の表示を置いた</text>
+<rect x="418.0" y="136.0" width="150.0" height="90.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="493.0" y="176.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">クリエイティブ</text>
+<text x="493.0" y="198.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">の強化</text>
+<polyline points="370.0,157.0 412.0,157.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M418.0 157.0 l-7 -4 v8 z" fill="#000000"/>
+<polyline points="370.0,248.0 404.0,248.0 404.0,206.0 412.0,206.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M418.0 206.0 l-7 -4 v8 z" fill="#000000"/>
+<text x="493.0" y="248.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">文と LP が材料</text>
+<text x="602.0" y="70.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#4D4D4D" text-anchor="start">点検していない文・ページ</text>
+<rect x="602.0" y="82.0" width="234.0" height="66.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="614.0" y="117.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">書き換えた・新しい見出しと説明</text>
+<polyline points="568.0,181.0 584.0,181.0 584.0,115.0 596.0,115.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M602.0 115.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="602.0" y="160.0" width="234.0" height="66.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="614.0" y="195.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">翻訳した文（条件は <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan>）</text>
+<polyline points="568.0,181.0 584.0,181.0 584.0,193.0 596.0,193.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M602.0 193.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="602.0" y="238.0" width="234.0" height="66.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="614.0" y="263.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">サイト内の別のページ（表示事項が</text>
+<text x="614.0" y="283.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">無いかもしれない）</text>
+<polyline points="568.0,181.0 584.0,181.0 584.0,271.0 596.0,271.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M602.0 271.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="24.0" y="346.0" width="400.0" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="36.0" y="370.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">自動で生まれた表現の責任: <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan></text>
+<rect x="436.0" y="346.0" width="400.0" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="448.0" y="370.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">書き換え後の文面が審査されるか: <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan></text>
+<rect x="24.0" y="423.0" width="530.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="442.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">法律の確認を通した案件は、キャンペーンで強化をオフにして公開〔推測〕</text>
+<line x1="24.0" y1="462.0" x2="836.0" y2="462.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="482.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: 31§4 ／ C-広告-004・005 ／ help 20001614</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 710" role="img" aria-labelledby="L30-t L30-d">
+<title id="L30-t">立ち上げの時間割（LINEヤフー、〔当てはめ〕）</title>
+<desc id="L30-d">縦の軸は日数に比例し、42 日より後は省略している（W 14 日・L 7 日のとき、〔当てはめ〕）。開始の 5〜3 営業日前に入稿とタグのテスト（審査は 3 営業日前後、ディスプレイの画像・動画は広告に設定した日から）。0 日に、検索は CV 数の最大化（目標値なし）、ディスプレイは目標値なしか拡張クリック単価で開始。1〜7 日は事故だけ見て、検索ではキーワードを足さない。7 日でディスプレイの学習中が続けば公式の見直し項目を点検。14 日に中間点検。21 日（W ＋ L）から初めて達否を見て、確定で検索 30 件なら目標値を付け、ディスプレイ 40 件なら目標値ありへ。目標値を付けてから W の後に、検索は規換-08 の刻み、ディスプレイは 2 週間見て ±20%。2 か月以上で増額や検索クエリーマッチングの検討、ディスプレイは面とリストの整理。</desc>
+<defs><marker id="ah-L30" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="710.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">立ち上げの時間割（検索とディスプレイ）</text>
+<text x="836.0" y="46.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">〔当てはめ〕W 14 日・L 7 日のとき</text>
+<text x="212.0" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索</text>
+<text x="532.0" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ディスプレイ</text>
+<line x1="140.0" y1="116.0" x2="208.0" y2="116.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="166.0" x2="208.0" y2="166.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="201.0" x2="208.0" y2="201.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="236.0" x2="208.0" y2="236.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="306.0" x2="208.0" y2="306.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="376.0" x2="208.0" y2="376.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="516.0" x2="208.0" y2="516.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="140.0" y1="616.0" x2="208.0" y2="616.0" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="148.0" y="96.0" width="20.0" height="70.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="174.0" y="136.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">審査</text>
+<rect x="148.0" y="166.0" width="20.0" height="140.0" fill="#F5F8F4" stroke="#909A8B" stroke-width="1"/>
+<text x="174.0" y="241.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#000000" text-anchor="start">W</text>
+<rect x="148.0" y="306.0" width="20.0" height="70.0" fill="#FFE7B8" stroke="#909A8B" stroke-width="1"/>
+<text x="174.0" y="346.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#000000" text-anchor="start">L</text>
+<line x1="140.0" y1="96.0" x2="140.0" y2="586.0" stroke="#909A8B" stroke-width="1"/>
+<line x1="140.0" y1="600.0" x2="140.0" y2="616.0" stroke="#909A8B" stroke-width="1"/>
+<line x1="133.0" y1="593.0" x2="147.0" y2="587.0" stroke="#000000" stroke-width="1"/>
+<line x1="133.0" y1="599.0" x2="147.0" y2="593.0" stroke="#000000" stroke-width="1"/>
+<text x="152.0" y="598.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">軸を省略</text>
+<line x1="134.0" y1="116.0" x2="140.0" y2="116.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="120.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">−5 営業日</text>
+<line x1="134.0" y1="166.0" x2="140.0" y2="166.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="170.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">0 日</text>
+<line x1="134.0" y1="236.0" x2="140.0" y2="236.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="240.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">7 日</text>
+<line x1="134.0" y1="306.0" x2="140.0" y2="306.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="310.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">14 日</text>
+<line x1="134.0" y1="376.0" x2="140.0" y2="376.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="380.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">21 日</text>
+<line x1="134.0" y1="516.0" x2="140.0" y2="516.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="520.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">21 日＋W</text>
+<line x1="134.0" y1="616.0" x2="140.0" y2="616.0" stroke="#000000" stroke-width="1"/>
+<text x="130.0" y="620.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2 か月〜</text>
+<rect x="212.0" y="102.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="121.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">入稿・タグのテスト（審査 3 営業日）</text>
+<rect x="532.0" y="102.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="121.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">同じ。画像・動画は広告に設定した日から</text>
+<rect x="212.0" y="152.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="171.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">開始: CV 数の最大化（目標値なし）</text>
+<rect x="532.0" y="152.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="171.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">開始: 目標値なしか拡張クリック単価</text>
+<rect x="212.0" y="187.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">事故だけ見る。キーワードを足さない</text>
+<rect x="532.0" y="187.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">事故だけ見る</text>
+<rect x="532.0" y="222.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="241.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">学習中が続けば、公式の見直し項目を点検</text>
+<rect x="212.0" y="292.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="311.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">中間点検（検索クエリー・率）</text>
+<rect x="532.0" y="292.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="311.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">中間点検（面の内訳・率）</text>
+<rect x="212.0" y="362.0" width="304.0" height="28.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="381.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">確定 30 件なら目標値を付ける</text>
+<rect x="532.0" y="362.0" width="304.0" height="28.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="381.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">確定 40 件なら目標値ありへ</text>
+<rect x="212.0" y="502.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="521.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">目標値の刻み（規換-08）</text>
+<rect x="532.0" y="502.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="521.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">2 週間見て ±20%（公式の目安）</text>
+<rect x="212.0" y="602.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="222.0" y="621.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">増額、検索クエリーマッチングの検討</text>
+<rect x="532.0" y="602.0" width="304.0" height="28.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="542.0" y="621.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#000000" text-anchor="start">面・リストの整理、類似ユーザー</text>
+<rect x="24.0" y="657.0" width="10.0" height="10.0" fill="#19E76E"/><text x="42.0" y="666.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">最初の達否は W ＋ L ＝ 21 日から。件数（検索 30・ディスプレイ 40）に届くまで目標値は付けない</text>
+<text x="24.0" y="696.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 36 §4-6 ／ LY-入札-011・028・031 ／ LY-ポリシー-001</text>
+</svg>

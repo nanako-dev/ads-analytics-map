@@ -1,0 +1,58 @@
+<svg viewBox="0 0 860 578" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m27t m27d" class="fig">
+<title id="m27t">M27 Google の常識と Meta の実際</title>
+<desc id="m27d">学習は時間でなく件数で抜け、日予算は月でなく週で平均し、年齢・性別・興味は絞り込みでなく提案になり、成果の既定の窓にビュー 1 日が入り、CAPI は 7 日より古い成果を受け付けない。Google の知識で答えそうになったら、00 §12 の読み替えと 96 の行を引いてから答える。</desc>
+<rect width="860" height="578" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">Google の知識をそのまま持ち込むと間違える所（96 の上位）</text>
+<text x="110.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Google の常識</text>
+<rect x="446.0" y="48.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="462.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Meta では</text>
+<text x="24.0" y="106.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">学習</text>
+<rect x="110.0" y="70.0" width="300.0" height="62.0" fill="#E6E6E6"/>
+<text x="122.0" y="95.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">時間で終わる: 最長 7 日</text>
+<text x="122.0" y="116.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">広告文の変更では「学習中」にならない</text>
+<line x1="416.0" y1="101.0" x2="433.0" y2="101.0" stroke="#000000" stroke-width="1.5"/><path d="M440.0 101.0 L433.0 97.0 L433.0 105.0 Z" fill="#000000"/>
+<rect x="446.0" y="70.0" width="390.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="458.0" y="95.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">件数で抜ける: 1 週間に約 50 件</text>
+<text x="458.0" y="116.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">素材の変更・広告の追加・7 日以上の停止でやり直し</text>
+<text x="24.0" y="180.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">日予算</text>
+<rect x="110.0" y="144.0" width="300.0" height="62.0" fill="#E6E6E6"/>
+<text x="122.0" y="169.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">1 日 2 倍まで</text>
+<text x="122.0" y="190.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">月で平均（30.4 倍）</text>
+<line x1="416.0" y1="175.0" x2="433.0" y2="175.0" stroke="#000000" stroke-width="1.5"/><path d="M440.0 175.0 L433.0 171.0 L433.0 179.0 Z" fill="#000000"/>
+<rect x="446.0" y="144.0" width="390.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="458.0" y="169.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">1 日 175% まで</text>
+<text x="458.0" y="190.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">週（日〜土）で平均（7 倍）</text>
+<text x="24.0" y="254.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">絞り込み</text>
+<rect x="110.0" y="218.0" width="300.0" height="62.0" fill="#E6E6E6"/>
+<text x="122.0" y="243.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">語句で出す先を囲える</text>
+<text x="122.0" y="264.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">どの検索に出すかを語句で決める</text>
+<line x1="416.0" y1="249.0" x2="433.0" y2="249.0" stroke="#000000" stroke-width="1.5"/><path d="M440.0 249.0 L433.0 245.0 L433.0 253.0 Z" fill="#000000"/>
+<rect x="446.0" y="218.0" width="390.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="458.0" y="243.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">年齢・性別・興味は「提案」</text>
+<text x="458.0" y="264.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">外の人にも出る。守られるのは地域・最低年齢・言語・除外</text>
+<text x="24.0" y="328.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">手動入札</text>
+<rect x="110.0" y="292.0" width="300.0" height="62.0" fill="#E6E6E6"/>
+<text x="122.0" y="326.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">目標値つきは「自動入札」</text>
+<line x1="416.0" y1="323.0" x2="433.0" y2="323.0" stroke="#000000" stroke-width="1.5"/><path d="M440.0 323.0 L433.0 319.0 L433.0 327.0 Z" fill="#000000"/>
+<rect x="446.0" y="292.0" width="390.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="458.0" y="317.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">△ 呼び方が文書で違う</text>
+<text x="458.0" y="338.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">開発者文書は単価目標・ROAS 目標も manual bidding と呼ぶ</text>
+<text x="24.0" y="402.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">成果の窓</text>
+<rect x="110.0" y="366.0" width="300.0" height="62.0" fill="#E6E6E6"/>
+<text x="122.0" y="400.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">クリックの計測期間は既定 30 日</text>
+<line x1="416.0" y1="397.0" x2="433.0" y2="397.0" stroke="#000000" stroke-width="1.5"/><path d="M440.0 397.0 L433.0 393.0 L433.0 401.0 Z" fill="#000000"/>
+<rect x="446.0" y="366.0" width="390.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="458.0" y="391.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">API の既定はクリック 7 日 ＋ ビュー 1 日</text>
+<text x="458.0" y="412.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">見ただけの人の成果も入る</text>
+<text x="24.0" y="476.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">後から送る</text>
+<rect x="110.0" y="440.0" width="300.0" height="62.0" fill="#E6E6E6"/>
+<text x="122.0" y="465.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">成果を後から取り込める</text>
+<text x="122.0" y="486.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">オフライン取り込みの感覚</text>
+<line x1="416.0" y1="471.0" x2="433.0" y2="471.0" stroke="#000000" stroke-width="1.5"/><path d="M440.0 471.0 L433.0 467.0 L433.0 475.0 Z" fill="#000000"/>
+<rect x="446.0" y="440.0" width="390.0" height="62.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="458.0" y="465.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">event_time は送る時点から 7 日前まで</text>
+<text x="458.0" y="486.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">古いイベントがあるとリクエスト全体がエラー</text>
+<rect x="24.0" y="526.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="536.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">Google と同じ言葉でも意味が違う。答える前に 00 §12 の読み替えの表を引く</text>
+<text x="24.0" y="568.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 96 #1・#2・#5・#9・#12・#16・#21 ／ M-学習-002・M-予算-005 ／ 2026-11-18 時点</text>
+</svg>

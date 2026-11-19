@@ -1,0 +1,60 @@
+<svg viewBox="0 0 860 736" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c30t c30d" class="fig">
+<title id="c30t">C30 日本の運用者が今やれること</title>
+<desc id="c30d">61§4 のやれることを、出稿の前・出稿のとき・計測が安定した後の 3 つの時期に並べた。出稿の前: LP のクローラーの点検（費用ゼロ）、アカウントを作り事業者の確認を先に、国・通貨・タイムゾーンを決める、強化の設定を確かめる、既存顧客の除外。出稿のとき: クリック目的（目標 CPC）で始める（推測）、ピクセルとコンバージョン API を同じイベント ID で、文脈ヒントを具体文で広告グループを分けて。計測が安定した後: コンバージョン目的を新しいキャンペーンで（推測）。やらないこと 6 つ: 回答の中で薦めさせる広告として提案する、規制業種の出稿計画、日本向けの商品フィード広告を前提にする、キーワード設計を移す、上限入札で新しく組む、どんな会話で出たかの報告を約束する。2026-11-18 時点。</desc>
+<rect width="860" height="736" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">時期の分け方はこの図で 61§4 から</text>
+<rect x="24.0" y="52.0" width="246.7" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">出稿の前</text>
+<rect x="306.7" y="52.0" width="246.7" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="318.7" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">出稿のとき</text>
+<polyline points="270.7,72.0 300.7,72.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M306.7 72.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="589.3" y="52.0" width="246.7" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="601.3" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">計測が安定した後</text>
+<polyline points="553.3,72.0 583.3,72.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M589.3 72.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="24.0" y="106.0" width="246.7" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="128.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">LP のクローラーの点検（費用ゼロ）</text>
+<rect x="24.0" y="156.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="178.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">アカウントを作り、事業者の確認を先</text>
+<text x="36.0" y="198.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">に済ませる</text>
+<rect x="24.0" y="226.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="248.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">国・通貨・タイムゾーンを決める（後</text>
+<text x="36.0" y="268.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">で変えられない）</text>
+<rect x="24.0" y="296.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="318.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">強化の設定を確かめる（表現の管理が</text>
+<text x="36.0" y="338.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">要る業種はオフ）</text>
+<rect x="24.0" y="366.0" width="246.7" height="40.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="388.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">既存顧客の除外（人数の下限なし）</text>
+<rect x="306.7" y="106.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="318.7" y="128.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">クリック目的（目標 CPC）で始める</text>
+<text x="318.7" y="148.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">〔推測〕</text>
+<rect x="306.7" y="176.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="318.7" y="198.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">ピクセル＋コンバージョン API（同</text>
+<text x="318.7" y="218.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">じイベント ID）</text>
+<rect x="306.7" y="246.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="318.7" y="268.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">文脈ヒントを具体文で。広告グループ</text>
+<text x="318.7" y="288.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">を分けて比べる</text>
+<rect x="589.3" y="106.0" width="246.7" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="601.3" y="128.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">コンバージョン目的（目標 CPA）を</text>
+<text x="601.3" y="148.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">新しいキャンペーンで作る〔推測〕</text>
+<text x="24.0" y="456.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">やらないこと</text>
+<rect x="24.0" y="472.0" width="400.0" height="46.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="36.0" y="497.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">「AI の回答の中で薦めさせる広告」として提案する</text>
+<rect x="436.0" y="472.0" width="400.0" height="46.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="448.0" y="487.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">健康食品・クリニック・金融・士業・酒・ギャンブルの出稿計</text>
+<text x="448.0" y="507.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">画</text>
+<rect x="24.0" y="528.0" width="400.0" height="46.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="36.0" y="553.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">日本向けに商品フィード広告を前提にする</text>
+<rect x="436.0" y="528.0" width="400.0" height="46.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="448.0" y="553.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">Google のキーワード・除外キーワードの設計を移す</text>
+<rect x="24.0" y="584.0" width="400.0" height="46.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="36.0" y="609.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">上限入札で新しく組む（既存は年内に移す）</text>
+<rect x="436.0" y="584.0" width="400.0" height="46.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="448.0" y="609.4" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">「どんな会話で出たか」の報告を約束する</text>
+<rect x="24.0" y="661.0" width="380.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="680.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">費用ゼロのクローラーの点検と事業者の確認から先に</text>
+<line x1="24.0" y1="700.0" x2="836.0" y2="700.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="720.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: 61§4 ／ C-審査-002 ／ C-アカウント-002</text>
+</svg>

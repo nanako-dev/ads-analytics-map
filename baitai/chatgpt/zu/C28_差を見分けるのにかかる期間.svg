@@ -1,0 +1,48 @@
+<svg viewBox="0 0 860 442" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c28t c28d" class="fig">
+<title id="c28t">C28 差を見分けるのにかかる期間</title>
+<desc id="c28d">月 5 件のアカウントを 2 群に分けて比べたとき（1 群 月 2.5 件）、差を見分けるのにかかる期間の計算（両側 5%・検出力 80%、1 群に要る成果はおよそ 15.7 ÷ 差の 2 乗）。2 倍の差なら 1 群 約 16 件で約 6 か月、50% の差なら約 63 件で約 2 年、30% の差なら約 174 件で約 6 年。運用の型の時間切れ 8 週を縦の線で示した。2026-11-18 時点。</desc>
+<rect width="860" height="442" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">〔計算〕月 5 件を 2 群に（1 群 月 2.5 件）・両側 5%・検出力 80%</text>
+<text x="24.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">見つけたい差</text>
+<text x="220.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">かかる期間（か月）</text>
+<text x="24.0" y="108.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">2 倍（100%）</text>
+<text x="24.0" y="130.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">1 群に 約 16 件</text>
+<rect x="220.0" y="92.0" width="48.3" height="40.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="278.3" y="118.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">約 6 か月</text>
+<text x="24.0" y="174.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">50%</text>
+<text x="24.0" y="196.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">1 群に 約 63 件</text>
+<rect x="220.0" y="158.0" width="193.3" height="40.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="423.3" y="184.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">約 2 年</text>
+<text x="24.0" y="240.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">30%</text>
+<text x="24.0" y="262.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">1 群に 約 174 件</text>
+<rect x="220.0" y="224.0" width="580.0" height="40.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="790.0" y="250.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="end">約 6 年</text>
+<line x1="220.0" y1="284.0" x2="800.0" y2="284.0" stroke="#000000" stroke-width="1"/>
+<line x1="220.0" y1="284.0" x2="220.0" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="220.0" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">0</text>
+<line x1="316.7" y1="284.0" x2="316.7" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="316.7" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">12</text>
+<line x1="316.7" y1="82.0" x2="316.7" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="413.3" y1="284.0" x2="413.3" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="413.3" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">24</text>
+<line x1="413.3" y1="82.0" x2="413.3" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="510.0" y1="284.0" x2="510.0" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="510.0" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">36</text>
+<line x1="510.0" y1="82.0" x2="510.0" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="606.7" y1="284.0" x2="606.7" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="606.7" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">48</text>
+<line x1="606.7" y1="82.0" x2="606.7" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="703.3" y1="284.0" x2="703.3" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="703.3" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">60</text>
+<line x1="703.3" y1="82.0" x2="703.3" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="800.0" y1="284.0" x2="800.0" y2="289.0" stroke="#000000" stroke-width="1"/>
+<text x="800.0" y="306.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">72</text>
+<line x1="800.0" y1="82.0" x2="800.0" y2="284.0" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="234.8" y1="76.0" x2="234.8" y2="284.0" stroke="#0B8F45" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="24.0" y="336.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" text-anchor="start"><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="600" fill="#0B8F45" font-size="13">縦の破線 </tspan><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="500" fill="#000000" font-size="13">運用の型の時間切れ 8 週（約 1.8 か月）</tspan></text>
+<rect x="24.0" y="367.0" width="471.5" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="386.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">月 5 件の規模で見分けられるのは「2 倍くらいの差」だけ〔計算〕</text>
+<line x1="24.0" y1="406.0" x2="836.0" y2="406.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="426.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: 26§6-2 ／ 90§6-4 ／ G26§4.1</text>
+</svg>

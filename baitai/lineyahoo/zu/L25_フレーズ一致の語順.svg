@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" role="img" aria-labelledby="L25-t L25-d">
+<title id="L25-t">フレーズ一致: キーワードは語順を問わず、除外は語順を問う（LINEヤフー）</title>
+<desc id="L25-d">例はキーワードも対象外キーワードも「液晶 テレビ」。除外の 3 列はヘルプの例で、キーワードの列は同じ語にキーワードの定義を当てた〔当てはめ〕。「液晶 テレビ」はキーワードのフレーズ一致で出て、除外は 3 種とも止まる。「格安 液晶 テレビ」（前後に他の語）はキーワードで出て、除外の完全一致では出る、フレーズ一致と部分一致で止まる。「テレビ 液晶」（語順の入れ替え）はキーワードで出る（意味が変わる入れ替えは除く）が、除外は完全一致とフレーズ一致では止まらず、部分一致でだけ止まる。「液晶とテレビ」（間に他の語）はキーワードで出るかの記載が無く、除外は部分一致でだけ止まる。語順を入れ替えた検索には広告が出るのにフレーズの除外では止まらないので、止めたい語は除外の部分一致で入れる〔推測〕。除外には類似パターンも効かない。</desc>
+<defs><marker id="ah-L25" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="440.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">フレーズ一致: キーワードは語順を問わず、除外は語順を問う</text>
+<text x="24.0" y="52.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">例: キーワードも対象外キーワードも「液晶 テレビ」（除外の列はヘルプの例）</text>
+<text x="325.0" y="88.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="middle">キーワード</text>
+<text x="626.0" y="88.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="middle">対象外キーワード（除外）</text>
+<line x1="416.0" y1="96.0" x2="836.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="325.0" y="120.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="middle">フレーズ一致</text>
+<text x="486.0" y="120.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="middle">完全一致</text>
+<text x="626.0" y="120.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="middle">フレーズ一致</text>
+<text x="766.0" y="120.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="middle">部分一致</text>
+<text x="325.0" y="138.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">〔当てはめ〕</text>
+<text x="24.0" y="140.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">検索クエリー</text>
+<rect x="24.0" y="148.0" width="216.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="180.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">液晶 テレビ</text>
+<rect x="250.0" y="148.0" width="150.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="325.0" y="179.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="416.0" y="148.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="486.0" y="179.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="556.0" y="148.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="626.0" y="179.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="696.0" y="148.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="766.0" y="179.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="24.0" y="200.0" width="216.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="222.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">格安 液晶 テレビ</text>
+<text x="36.0" y="242.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">前後に他の語</text>
+<rect x="250.0" y="200.0" width="150.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="325.0" y="231.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="416.0" y="200.0" width="140.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="486.0" y="231.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="556.0" y="200.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="626.0" y="231.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="696.0" y="200.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="766.0" y="231.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="24.0" y="252.0" width="216.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="274.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">テレビ 液晶</text>
+<text x="36.0" y="294.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">語順の入れ替え</text>
+<rect x="250.0" y="252.0" width="150.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="325.0" y="279.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<text x="325.0" y="297.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="middle">意味が変わらなければ</text>
+<rect x="260.0" y="261.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<rect x="416.0" y="252.0" width="140.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="486.0" y="283.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="556.0" y="252.0" width="140.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="626.0" y="283.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="566.0" y="261.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<rect x="696.0" y="252.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="766.0" y="283.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="24.0" y="304.0" width="216.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="326.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">液晶とテレビ</text>
+<text x="36.0" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">間に他の語</text>
+<rect x="250.0" y="304.0" width="150.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="325.0" y="335.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#B42318" text-anchor="middle">記載なし</text>
+<rect x="416.0" y="304.0" width="140.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="486.0" y="335.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="556.0" y="304.0" width="140.0" height="52.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="626.0" y="335.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">出る</text>
+<rect x="696.0" y="304.0" width="140.0" height="52.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="766.0" y="335.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="middle">止まる</text>
+<rect x="24.0" y="387.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="396.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">語順を入れ替えた検索には、広告は出るのにフレーズの除外では止まらない。止めたい語は除外の部分一致で〔推測〕</text>
+<text x="24.0" y="426.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: LY-キーワード-004・017 ／ 04 §6-1 ／ ヘルプ H000045054</text>
+</svg>

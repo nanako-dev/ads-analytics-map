@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 534" role="img" aria-labelledby="X04-t X04-d">
+<title id="X04-t">計測の部品の対応: Google・Meta・LINEヤフー・ChatGPT</title>
+<desc id="X04-d">ブラウザのタグは、Google タグ、Meta ピクセル、LINEヤフーは検索が旧タグ（サイトジェネラルタグ＋コンバージョン測定タグ）でディスプレイが計測タグ、ChatGPT は OpenAI ピクセル。サーバー連携は、Google がサーバーサイド GTM、Meta がコンバージョン API、LINEヤフーは検索用と計測タグ用の 2 つのコンバージョン API、ChatGPT がコンバージョン API。クリックの ID は gclid、fbc、yclid（ディスプレイは記載なし）、oppref。ビュースルーは、Google が既定 1 日でディスプレイでは成果の列に入らない、Meta が 1 日で既定に入る（△）、LINEヤフーのディスプレイが 1 日固定で入らない、ChatGPT が 0〜1 日で 1 日なら入る（△ 開発者文書と食い違い）。</desc>
+<defs><marker id="ah-X04" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="534.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<rect x="150.0" y="34.0" width="167.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="160.0" y="57.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Google</text>
+<rect x="323.0" y="34.0" width="167.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="333.0" y="57.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<rect x="496.0" y="34.0" width="167.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="506.0" y="57.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー</text>
+<rect x="669.0" y="34.0" width="167.0" height="34.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="679.0" y="57.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<text x="24.0" y="123.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ブラウザのタグ</text>
+<rect x="150.0" y="76.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="164.0" y="105.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Google タグ</text>
+<rect x="323.0" y="76.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="337.0" y="105.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ピクセル</text>
+<rect x="496.0" y="76.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="510.0" y="105.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索 旧タグ</text>
+<text x="510.0" y="139.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ディスプレイ 計測タグ</text>
+<rect x="669.0" y="76.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="683.0" y="105.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ピクセル</text>
+<text x="24.0" y="213.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">サーバー連携</text>
+<rect x="150.0" y="166.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="164.0" y="195.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">サーバー GTM</text>
+<rect x="323.0" y="166.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="337.0" y="195.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">CAPI</text>
+<rect x="496.0" y="166.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="510.0" y="195.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索 CV API</text>
+<text x="510.0" y="229.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ディスプレイ CV API</text>
+<rect x="669.0" y="166.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="683.0" y="195.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">CV API</text>
+<text x="24.0" y="303.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">クリックの ID</text>
+<rect x="150.0" y="256.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="164.0" y="285.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">gclid</text>
+<rect x="323.0" y="256.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="337.0" y="285.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">fbc</text>
+<rect x="496.0" y="256.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="510.0" y="285.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索 yclid</text>
+<text x="510.0" y="319.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#B42318" text-anchor="start">ディスプレイ 記載なし</text>
+<rect x="669.0" y="256.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="683.0" y="285.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">oppref</text>
+<text x="24.0" y="393.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ビュースルー</text>
+<rect x="150.0" y="346.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<rect x="156.0" y="354.0" width="155.0" height="30.0" fill="#E6E6E6"/>
+<text x="164.0" y="375.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">1 日（既定）</text>
+<rect x="323.0" y="346.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<rect x="329.0" y="354.0" width="155.0" height="30.0" fill="#C9F7DC"/>
+<text x="337.0" y="375.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">1 日 △</text>
+<rect x="496.0" y="346.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="510.0" y="375.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索 —</text>
+<rect x="502.0" y="388.0" width="155.0" height="30.0" fill="#E6E6E6"/>
+<text x="510.0" y="409.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ディスプレイ 1 日固定</text>
+<rect x="669.0" y="346.0" width="167.0" height="84.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<rect x="675.0" y="354.0" width="155.0" height="30.0" fill="#C9F7DC"/>
+<text x="683.0" y="375.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">0〜1 日 △</text>
+<rect x="24.0" y="447.0" width="14.0" height="14.0" fill="#C9F7DC"/>
+<text x="44.0" y="460.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">ビューが成果の合計に入る</text>
+<rect x="250.0" y="447.0" width="14.0" height="14.0" fill="#E6E6E6"/>
+<text x="270.0" y="460.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">入らない（Google はディスプレイの場合）</text>
+<rect x="24.0" y="483.0" width="10.0" height="10.0" fill="#19E76E"/><text x="42.0" y="492.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">LINEヤフーだけ検索とディスプレイで系統が分かれる</text>
+<text x="24.0" y="520.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: Google 24 §1・§6 ／ M-計測-001・012 ／ LY-計測-012・026・C-計測-004・010</text>
+</svg>

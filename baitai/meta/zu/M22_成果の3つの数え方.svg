@@ -1,0 +1,36 @@
+<svg viewBox="0 0 860 496" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m22t m22d" class="fig">
+<title id="m22t">M22 管理画面の成果・増分の結果・リフトの違い</title>
+<desc id="m22d">管理画面の成果は窓の中の成果をすべて数え、増分の結果の列はそのうち「広告がなければ起きなかった」と機械学習が推定した分（ヘルプの例では 100 件中 70 件）、コンバージョンリフトは無作為に分けたテスト群とコントロール群の差を実験で測る。報告では 3 つを別の行に書き、リフトの結果を広告マネージャの数字と並べて差を議論しない。</desc>
+<rect width="860" height="496" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">同じ「成果」に 3 つの数え方がある（報告では別の行に書く〔推測〕）</text>
+<text x="24.0" y="62.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">① 管理画面の成果（標準アトリビューション）</text>
+<text x="836.0" y="62.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">窓の中の成果をすべて数える</text>
+<rect x="24.0" y="74.0" width="812.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="38.0" y="103.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">例 100 件</text>
+<text x="119.7" y="103.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">広告がなくても起きた成果も入る</text>
+<line x1="592.4" y1="120.0" x2="592.4" y2="186.0" stroke="#909A8B" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="24.0" y="174.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">② 増分の結果（インクリメンタルの列）</text>
+<text x="836.0" y="174.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="end">推定（機械学習のモデル）</text>
+<rect x="24.0" y="186.0" width="568.4" height="46.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<rect x="592.4" y="186.0" width="243.6" height="46.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="38.0" y="215.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">例 70 件</text>
+<text x="111.0" y="215.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">「広告がなければ起きなかった」とみなした分</text>
+<text x="604.4" y="215.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">例 30 件 増分とみなさない</text>
+<text x="24.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">③ コンバージョンリフト（実験）</text>
+<text x="836.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="end">無作為に分けた 2 つの群の差</text>
+<text x="24.0" y="320.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">テスト群</text>
+<text x="24.0" y="338.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">広告を見る機会あり</text>
+<rect x="174.0" y="298.0" width="662.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<rect x="597.7" y="298.0" width="238.3" height="46.0" fill="#C9F7DC" stroke="#000000" stroke-width="1.5"/>
+<text x="716.8" y="327.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">差 ＝ 増分</text>
+<text x="186.0" y="327.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">見なかった人も入る（ITT）</text>
+<text x="24.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">コントロール群</text>
+<text x="24.0" y="396.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">広告を見せない</text>
+<rect x="174.0" y="356.0" width="423.7" height="46.0" fill="#E6E6E6" stroke="#000000" stroke-width="1.25"/>
+<text x="186.0" y="385.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">テスト群と同じ規模に調整して比べる</text>
+<line x1="597.7" y1="356.0" x2="597.7" y2="410.0" stroke="#000000" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="836.0" y="420.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">棒の長さは模式（リフトの数字の例は無い）</text>
+<rect x="24.0" y="444.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="454.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">③ の結果は ① の広告マネージャの数字と比べない（同じキャンペーンでも数え方が違う）</text>
+<text x="24.0" y="486.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 26 §3 ／ ヘルプ 1271619100603114・221353413010930・365383970855344 ／ 2026-11-18 時点</text>
+</svg>

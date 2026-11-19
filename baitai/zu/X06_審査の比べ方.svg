@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 556" role="img" aria-labelledby="X06-t X06-d">
+<title id="X06-t">審査の比べ方: Google・Meta・LINEヤフー・ChatGPT</title>
+<desc id="X06-d">4 媒体の審査を、審査の時間、承認済みの広告を編集したときに配信が続くか、再審査で再び却下されたらどうなるか、の 3 つで並べた。審査の時間は、Google がほとんど 1 営業日（デマンド ジェネレーションは 3〜5 営業日、複雑な形式は最長 7 営業日）、Meta がほとんど 24 時間以内、LINEヤフーが新規で 3 営業日前後（画像・動画は広告に設定した日から約 3 営業日）、ChatGPT は記載なし（事業者の認証は最大 7 営業日）。承認済みの広告を編集したとき、LINEヤフーは編集内容審査中も元の内容で配信が続き否認されても元のまま。Google・Meta・ChatGPT は記載なし（Google の承認済みの再審査中は止まるが別の場面、Meta は編集した広告を新規として審査、ChatGPT は新しい版として再審査）。再審査で再び却下されたら、Google は異議が 1 広告 3 回まで、Meta は同じ広告はもう再審査を頼めない、LINEヤフーと ChatGPT は回数の上限の記載なし（LINEヤフーは違反の繰り返し入稿がアカウント停止の理由、ChatGPT は異議が 7 日で決まらなければサポートへ）。</desc>
+<defs><marker id="ah-X06" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="556.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<rect x="24.0" y="34.0" width="140.0" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start"></text>
+<rect x="164.0" y="34.0" width="224.0" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="176.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">審査の時間</text>
+<rect x="388.0" y="34.0" width="224.0" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="400.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">承認済みの広告を編集したとき</text>
+<rect x="612.0" y="34.0" width="224.0" height="40.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="624.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">再審査で再び却下されたら</text>
+<rect x="24.0" y="74.0" width="140.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Google</text>
+<rect x="164.0" y="74.0" width="224.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="176.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">ほとんど 1 営業日</text>
+<text x="176.0" y="124.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">DG は 3〜5 営業日</text>
+<text x="176.0" y="146.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">複雑な形式は最長 7 営業日</text>
+<rect x="388.0" y="74.0" width="224.0" height="92.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="400.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="400.0" y="124.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">承認済みの「再審査中」は</text>
+<text x="400.0" y="146.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">止まる（別の場面）</text>
+<rect x="612.0" y="74.0" width="224.0" height="92.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="624.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">異議は 1 広告 3 回まで</text>
+<text x="624.0" y="124.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">通らなければサポートへ</text>
+<rect x="24.0" y="166.0" width="140.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="194.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<rect x="164.0" y="166.0" width="224.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="176.0" y="194.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">ほとんど 24 時間以内</text>
+<text x="176.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">特別な広告カテゴリでも同じ</text>
+<rect x="388.0" y="166.0" width="224.0" height="92.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="400.0" y="194.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="400.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">編集した広告は</text>
+<text x="400.0" y="238.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">新規として審査される</text>
+<rect x="612.0" y="166.0" width="224.0" height="92.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="624.0" y="194.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">同じ広告はもう頼めない</text>
+<text x="624.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">表現を変えた新しい広告に</text>
+<rect x="24.0" y="258.0" width="140.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー</text>
+<rect x="164.0" y="258.0" width="224.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="176.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">新規は 3 営業日前後</text>
+<text x="176.0" y="308.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">画像・動画は広告に</text>
+<text x="176.0" y="330.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">設定した日から約 3 営業日</text>
+<rect x="388.0" y="258.0" width="224.0" height="92.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="400.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">元の内容で配信が続く</text>
+<text x="400.0" y="308.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">否認されても元のまま</text>
+<rect x="612.0" y="258.0" width="224.0" height="92.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="624.0" y="286.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#B42318" text-anchor="start">回数の上限は記載なし</text>
+<text x="624.0" y="308.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">違反の繰り返し入稿は</text>
+<text x="624.0" y="330.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">アカウント停止の理由</text>
+<rect x="24.0" y="350.0" width="140.0" height="92.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<rect x="164.0" y="350.0" width="224.0" height="92.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="176.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="176.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">事業者の認証は</text>
+<text x="176.0" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">最大 7 営業日</text>
+<rect x="388.0" y="350.0" width="224.0" height="92.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="400.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="400.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">編集は新しい版として</text>
+<text x="400.0" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">再審査される</text>
+<rect x="612.0" y="350.0" width="224.0" height="92.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="624.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#B42318" text-anchor="start">回数の上限は記載なし</text>
+<text x="624.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">異議が 7 日で決まらなければ</text>
+<text x="624.0" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">サポートへ</text>
+<rect x="24.0" y="459.0" width="16.0" height="16.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">配信が続く</text>
+<rect x="139.0" y="459.0" width="16.0" height="16.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="161.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">回数に上限</text>
+<rect x="254.0" y="459.0" width="16.0" height="16.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="276.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">もう頼めない</text>
+<rect x="382.0" y="459.0" width="16.0" height="16.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="404.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#B42318" text-anchor="start">記載なし</text>
+<rect x="24.0" y="503.0" width="10.0" height="10.0" fill="#19E76E"/><text x="42.0" y="512.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">編集中も元の広告が出続けると公式が書くのは LINEヤフーだけ（ほかは記載なし）</text>
+<text x="24.0" y="542.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 各媒体の 34 §0・§0-1 ／ M-ポリシー-024 ／ LY-ポリシー-019</text>
+</svg>

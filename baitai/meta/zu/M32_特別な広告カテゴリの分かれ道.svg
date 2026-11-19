@@ -1,0 +1,46 @@
+<svg viewBox="0 0 860 564" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m32t m32d" class="fig">
+<title id="m32t">M32 特別な広告カテゴリの欄の埋め方</title>
+<desc id="m32d">米国拠点・米国向け・米国カナダ欧州の信用機会の広告はカテゴリを選ぶ必要があり、それ以外（日本の事業者が日本向けなど）は欄は必須だが制限に入るか NONE で外れるかを選べる。カテゴリを選ぶと Advantage+ オーディエンスとアカウント制御が使えないので、日本向けだけなら NONE が普通になりうる（〔推測〕）が、差別の禁止と日本の法律は別にかかる。</desc>
+<rect width="860" height="564" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">住宅・雇用・金融商品とサービスの広告で、特別な広告カテゴリの欄をどう埋めるか</text>
+<rect x="24.0" y="46.0" width="520.0" height="44.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="72.2" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">住宅・雇用・金融商品とサービスの広告か</text>
+<line x1="544.0" y1="68.0" x2="601.0" y2="68.0" stroke="#000000" stroke-width="1.25"/><path d="M608.0 68.0 L601.0 64.0 L601.0 72.0 Z" fill="#000000"/>
+<text x="554.0" y="62.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">いいえ</text>
+<rect x="608.0" y="46.0" width="228.0" height="44.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="620.0" y="62.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">NONE</text>
+<text x="620.0" y="81.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">当たらない</text>
+<line x1="64.0" y1="90.0" x2="64.0" y2="113.0" stroke="#000000" stroke-width="1.25"/><path d="M64.0 120.0 L68.0 113.0 L60.0 113.0 Z" fill="#000000"/>
+<text x="74.0" y="110.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">はい</text>
+<rect x="24.0" y="120.0" width="812.0" height="42.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="146.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">米国拠点の広告主か、米国のオーディエンス向けか、米国・カナダ・欧州の特定地域で信用機会の広告か</text>
+<line x1="223.0" y1="162.0" x2="223.0" y2="195.0" stroke="#000000" stroke-width="1.25"/><path d="M223.0 202.0 L227.0 195.0 L219.0 195.0 Z" fill="#000000"/>
+<line x1="637.0" y1="162.0" x2="637.0" y2="195.0" stroke="#000000" stroke-width="1.25"/><path d="M637.0 202.0 L641.0 195.0 L633.0 195.0 Z" fill="#000000"/>
+<text x="231.0" y="188.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">はい</text>
+<text x="629.0" y="188.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">いいえ（例: 日本の事業者が日本向け）</text>
+<rect x="24.0" y="202.0" width="398.0" height="64.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="228.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">カテゴリを選ぶ（選ぶ必要がある）</text>
+<text x="36.0" y="249.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">選ぶべきなのに選ばないと却下されうる</text>
+<rect x="438.0" y="202.0" width="398.0" height="64.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="450.0" y="228.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">欄は必須。どちらかを選べる</text>
+<text x="450.0" y="249.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">制限に入る（選ぶ）か、NONE で外れるか</text>
+<rect x="24.0" y="266.0" width="398.0" height="148.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="289.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">米国・カナダ・欧州向けの制限</text>
+<rect x="36.0" y="300.0" width="186.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="48.0" y="319.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">年齢は 18〜65 歳以上で固定</text><rect x="228.0" y="300.0" width="111.5" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="240.0" y="319.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">性別を選べない</text><rect x="36.0" y="336.0" width="215.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="48.0" y="355.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">地域の除外不可・半径 25 km 以上</text><rect x="36.0" y="372.0" width="186.5" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="48.0" y="391.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">行動・属性と類似が使えない</text>
+<line x1="534.5" y1="266.0" x2="534.5" y2="283.0" stroke="#000000" stroke-width="1.25"/><path d="M534.5 290.0 L538.5 283.0 L530.5 283.0 Z" fill="#000000"/>
+<line x1="739.5" y1="266.0" x2="739.5" y2="283.0" stroke="#000000" stroke-width="1.25"/><path d="M739.5 290.0 L743.5 283.0 L735.5 283.0 Z" fill="#000000"/>
+<rect x="438.0" y="290.0" width="193.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="534.5" y="313.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">制限に入る</text>
+<rect x="643.0" y="290.0" width="193.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="739.5" y="313.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">NONE で外れる</text>
+<line x1="223.0" y1="414.0" x2="223.0" y2="433.0" stroke="#000000" stroke-width="1.25"/><path d="M223.0 440.0 L227.0 433.0 L219.0 433.0 Z" fill="#000000"/>
+<line x1="534.5" y1="330.0" x2="534.5" y2="433.0" stroke="#000000" stroke-width="1.25"/><path d="M534.5 440.0 L538.5 433.0 L530.5 433.0 Z" fill="#000000"/>
+<line x1="739.5" y1="330.0" x2="739.5" y2="433.0" stroke="#000000" stroke-width="1.25"/><path d="M739.5 440.0 L743.5 433.0 L735.5 433.0 Z" fill="#000000"/>
+<rect x="24.0" y="440.0" width="607.0" height="46.0" fill="#FFD6D6" stroke="#000000" stroke-width="1.25"/>
+<text x="36.0" y="469.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">カテゴリを選ぶと: Advantage+ オーディエンス・アカウント制御が使えない</text>
+<rect x="643.0" y="440.0" width="193.0" height="46.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<text x="655.0" y="469.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">使える</text>
+<rect x="24.0" y="512.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="522.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">〔推測〕日本向けだけなら NONE が普通になりうる。差別の禁止と日本の法律は別にかかる</text>
+<text x="24.0" y="554.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 399587795372584 ／ M-ポリシー-012〜014 ／ M-ターゲティング-007・010 ／ 2026-11-18 時点</text>
+</svg>

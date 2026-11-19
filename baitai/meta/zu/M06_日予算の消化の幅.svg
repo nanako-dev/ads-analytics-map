@@ -1,0 +1,58 @@
+<svg viewBox="0 0 860 742" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m06t m06d" class="fig">
+<title id="m06t">M06 日予算の消化の幅</title>
+<desc id="m06d">日予算は日曜〜土曜の週の平均で、1 日は 175%（予算共有オンで 210%）まで使われうるが、週では 7 倍を超えない。点検は週単位で行い、月の予算は週の合計で組む（ヘルプは 75% の引き上げを「一部のアカウントで段階的」とも書き、開発者文書は 25% のまま △）。</desc>
+<rect width="860" height="742" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">例: 日予算 $100 のとき（倍率は公式、$100 は例）</text>
+<text x="750.4" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">Google と違う</text><rect x="734.4" y="16.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="24.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">1 日（深夜 0 時まで）</text>
+<text x="24.0" y="100.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">日予算</text>
+<rect x="232.0" y="80.0" width="254.3" height="28.0" fill="#E6E6E6"/>
+<text x="494.3" y="100.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">$100</text>
+<text x="24.0" y="138.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">1 日の上限（175%）</text>
+<rect x="232.0" y="118.0" width="445.0" height="28.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="685.0" y="138.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">$175</text>
+<text x="24.0" y="176.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">予算共有オン（210%）</text>
+<rect x="232.0" y="156.0" width="534.0" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="774.0" y="176.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">$210</text>
+<rect x="24.0" y="204.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="40.0" y="214.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#676E64" text-anchor="start">Google の 1 日（2 倍）</text>
+<rect x="232.0" y="194.0" width="508.6" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="748.6" y="214.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#676E64" text-anchor="start">$200</text>
+<text x="24.0" y="252.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">1 週間（日曜〜土曜）</text>
+<text x="24.0" y="294.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">週の上限（7 倍）</text>
+<rect x="232.0" y="274.0" width="445.0" height="28.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="685.0" y="294.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">$700</text>
+<text x="24.0" y="332.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">予算共有オン（840%）</text>
+<rect x="232.0" y="312.0" width="534.0" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="774.0" y="332.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">$840</text>
+<line x1="24.0" y1="370.0" x2="836.0" y2="370.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ある週の日ごとの消化（作り例）</text>
+<line x1="499.0" y1="426.0" x2="499.0" y2="644.0" stroke="#000000" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="503.0" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#000000" text-anchor="start">日予算 $100</text>
+<line x1="699.2" y1="426.0" x2="699.2" y2="644.0" stroke="#000000" stroke-width="1.25"/>
+<text x="703.2" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#000000" text-anchor="start">1 日の上限 $175</text>
+<text x="218.0" y="451.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">日</text>
+<rect x="232.0" y="434.0" width="160.2" height="22.0" fill="#E6E6E6"/>
+<text x="398.2" y="450.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$60</text>
+<text x="218.0" y="481.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">月</text>
+<rect x="232.0" y="464.0" width="467.2" height="22.0" fill="#C9F7DC"/>
+<text x="705.2" y="480.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$175</text>
+<text x="218.0" y="511.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">火</text>
+<rect x="232.0" y="494.0" width="240.3" height="22.0" fill="#E6E6E6"/>
+<text x="478.3" y="510.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$90</text>
+<text x="218.0" y="541.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">水</text>
+<rect x="232.0" y="524.0" width="267.0" height="22.0" fill="#E6E6E6"/>
+<text x="505.0" y="540.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$100</text>
+<text x="218.0" y="571.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">木</text>
+<rect x="232.0" y="554.0" width="213.6" height="22.0" fill="#E6E6E6"/>
+<text x="451.6" y="570.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$80</text>
+<text x="218.0" y="601.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">金</text>
+<rect x="232.0" y="584.0" width="320.4" height="22.0" fill="#E6E6E6"/>
+<text x="558.4" y="600.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$120</text>
+<text x="218.0" y="631.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="end">土</text>
+<rect x="232.0" y="614.0" width="200.2" height="22.0" fill="#E6E6E6"/>
+<text x="438.2" y="630.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">$75</text>
+<text x="24.0" y="674.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">7 日の合計 $700 ＝ 週の上限。1 日だけ見て「使いすぎ」と判断しない</text>
+<text x="24.0" y="700.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">1 日の途中で日予算を変えた日の上限は、その日の最も高い日予算 ＋75%</text>
+<text x="24.0" y="732.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 190490051321426 ／ M-予算-004・005・010・026 ／ 02 §5-5 ／ 2026-11-18 時点</text>
+</svg>

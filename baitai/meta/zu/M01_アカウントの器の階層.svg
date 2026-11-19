@@ -1,0 +1,48 @@
+<svg viewBox="0 0 860 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m01t m01d" class="fig">
+<title id="m01t">M01 アカウントの器の階層</title>
+<desc id="m01d">広告は広告アカウントの中のキャンペーン → 広告セット → 広告に入り、ページ・Instagram・データセット・カタログは広告アカウントと並ぶ「資産」としてポートフォリオが持つ。代理店に渡すときは広告アカウントの権限だけでなく、名義（ページ・Instagram）とデータセットの権限もそろえる。</desc>
+<rect width="860" height="450" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">器（下へ入れ子）</text>
+<text x="474.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">資産（ポートフォリオが持つ）</text>
+<rect x="24.0" y="40.0" width="380.0" height="56.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="74.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ビジネスポートフォリオ</text>
+<text x="390.0" y="74.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">1 人 2 つまで作成</text>
+<line x1="64.0" y1="96.0" x2="64.0" y2="109.0" stroke="#000000" stroke-width="1.25"/><path d="M64.0 116.0 L68.0 109.0 L60.0 109.0 Z" fill="#000000"/>
+<rect x="24.0" y="116.0" width="380.0" height="56.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="150.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">広告アカウント</text>
+<text x="390.0" y="150.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">1 人 25 まで管理</text>
+<line x1="64.0" y1="172.0" x2="64.0" y2="185.0" stroke="#000000" stroke-width="1.25"/><path d="M64.0 192.0 L68.0 185.0 L60.0 185.0 Z" fill="#000000"/>
+<rect x="24.0" y="192.0" width="380.0" height="56.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="226.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">キャンペーン</text>
+<text x="390.0" y="226.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">1 アカウントに 5,000</text>
+<line x1="64.0" y1="248.0" x2="64.0" y2="261.0" stroke="#000000" stroke-width="1.25"/><path d="M64.0 268.0 L68.0 261.0 L60.0 261.0 Z" fill="#000000"/>
+<rect x="24.0" y="268.0" width="380.0" height="56.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="302.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">広告セット</text>
+<text x="390.0" y="302.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">1 アカウントに 5,000</text>
+<line x1="64.0" y1="324.0" x2="64.0" y2="337.0" stroke="#000000" stroke-width="1.25"/><path d="M64.0 344.0 L68.0 337.0 L60.0 337.0 Z" fill="#000000"/>
+<rect x="24.0" y="344.0" width="380.0" height="56.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">広告</text>
+<text x="390.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">1 広告セットに 50</text>
+<rect x="462.0" y="34.0" width="374.0" height="372.0" fill="#F5F8F4"/>
+<line x1="404.0" y1="68.0" x2="455.0" y2="68.0" stroke="#000000" stroke-width="1.25"/><path d="M462.0 68.0 L455.0 64.0 L455.0 72.0 Z" fill="#000000"/>
+<rect x="474.0" y="58.0" width="10" height="10" fill="#19E76E"/>
+<text x="490.0" y="68.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">資産は 1 つのポートフォリオにだけ属せる</text>
+<text x="490.0" y="86.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">広告アカウントも資産の 1 つ</text>
+<rect x="474.0" y="116.0" width="350.0" height="56.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="488.0" y="150.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">データセット（ピクセル）</text>
+<text x="810.0" y="150.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">イベントの器</text>
+<rect x="474.0" y="192.0" width="350.0" height="56.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="488.0" y="226.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">カタログ</text>
+<text x="810.0" y="226.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">商品データ</text>
+<rect x="474.0" y="268.0" width="350.0" height="56.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="488.0" y="302.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Instagram・Threads</text>
+<text x="810.0" y="302.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">名義</text>
+<rect x="474.0" y="344.0" width="350.0" height="56.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="488.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Facebook ページ</text>
+<text x="810.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">名義</text>
+<line x1="404.0" y1="372.0" x2="474.0" y2="372.0" stroke="#909A8B" stroke-width="1.25" stroke-dasharray="4 3"/>
+<line x1="422.0" y1="372.0" x2="422.0" y2="296.0" stroke="#909A8B" stroke-width="1.25" stroke-dasharray="4 3"/>
+<line x1="422.0" y1="296.0" x2="474.0" y2="296.0" stroke="#909A8B" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="427.0" y="338.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">名義</text>
+<text x="24.0" y="440.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 1710077379203657・1026272311098874 ／ M-上限-001・002 ／ 2026-11-18 時点</text>
+</svg>

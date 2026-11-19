@@ -1,0 +1,62 @@
+<svg viewBox="0 0 860 579" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c23t c23d" class="fig">
+<title id="c23t">C23 Google の常識と ChatGPT の違い</title>
+<desc id="c23d">Google 広告の常識と ChatGPT の広告での実際の対。#3 キーワードと除外キーワード → キーワードは無く、文脈ヒントは配信を保証しない関連性の材料。#5 上限入札で単価を抑える → 2026-11-09 から新規は目標 CPA／CPC で、上限入札は 2027-01-01 に廃止。#6 同じキャンペーンを目標 CPA に切り替える → 目的と成果のイベントは変えられず、新しいキャンペーンを作る。#7 1 日の予算は月でならす → 7 日（日曜〜土曜）の平均で 1 日 2 倍・週 7 倍まで。#17 LP は人が見られれば通る → OAI-AdsBot が読めないと通らない。#22 MCC でまとめて管理 → 広告主ごとに別アカウントで、自分で作れるのは所属 10 まで。番号は 96 の行。2026-11-18 時点。</desc>
+<rect width="860" height="579" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">番号は 96 の行</text>
+<text x="72.0" y="56.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#4D4D4D" text-anchor="start">Google の常識</text>
+<text x="450.0" y="56.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ChatGPT の広告では</text>
+<text x="24.0" y="107.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">#3</text>
+<rect x="72.0" y="72.0" width="330.0" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="84.0" y="95.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">キーワードで出す語を決め、除外キーワードで</text>
+<text x="84.0" y="116.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">外す</text>
+<polyline points="408.0,102.0 438.0,102.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M444.0 102.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="72.0" width="386.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="462.0" y="95.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">キーワードは無い。文脈ヒントは関連性の材料で、配信</text>
+<text x="462.0" y="116.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">を保証しない</text>
+<text x="24.0" y="179.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">#5</text>
+<rect x="72.0" y="144.0" width="330.0" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="84.0" y="177.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">上限入札（上限 CPC）で単価を抑える</text>
+<polyline points="408.0,174.0 438.0,174.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M444.0 174.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="144.0" width="386.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="462.0" y="167.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">2026-11-09 から新規は目標 CPA／CPC（平均の目標）。</text>
+<text x="462.0" y="188.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">上限入札は 2027-01-01 に廃止</text>
+<text x="24.0" y="251.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">#6</text>
+<rect x="72.0" y="216.0" width="330.0" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="84.0" y="239.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">手動で始め、同じキャンペーンを目標 CPA に切</text>
+<text x="84.0" y="260.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">り替える</text>
+<polyline points="408.0,246.0 438.0,246.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M444.0 246.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="216.0" width="386.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="462.0" y="239.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">目的と成果のイベントは作成後に変えられない。新しい</text>
+<text x="462.0" y="260.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">キャンペーンを作る</text>
+<text x="24.0" y="312.5" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">#7</text>
+<rect x="72.0" y="288.0" width="330.0" height="39.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="84.0" y="311.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">1 日の予算は月（30.4 倍）でならす</text>
+<polyline points="408.0,307.5 438.0,307.5" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M444.0 307.5 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="288.0" width="386.0" height="39.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="462.0" y="311.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">7 日（日曜〜土曜）の平均。1 日 2 倍・週 7 倍まで</text>
+<text x="24.0" y="374.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">#17</text>
+<rect x="72.0" y="339.0" width="330.0" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="84.0" y="372.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">LP は人が見られれば審査に通る</text>
+<polyline points="408.0,369.0 438.0,369.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M444.0 369.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="339.0" width="386.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="462.0" y="362.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">OAI-AdsBot が読めないと通らない。403 などを返す</text>
+<text x="462.0" y="383.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">と不可</text>
+<text x="24.0" y="446.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="13" font-weight="500" fill="#676E64" text-anchor="start">#22</text>
+<rect x="72.0" y="411.0" width="330.0" height="60.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="84.0" y="444.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">MCC で複数の広告主をまとめて管理する</text>
+<polyline points="408.0,441.0 438.0,441.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M444.0 441.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="411.0" width="386.0" height="60.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="462.0" y="434.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">広告主ごとに別アカウント。自分で作れるのは所属 10 ま</text>
+<text x="462.0" y="455.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">で</text>
+<rect x="24.0" y="504.0" width="375.8" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="523.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Google の手順書・自動化の道具をそのまま移さない</text>
+<line x1="24.0" y1="543.0" x2="836.0" y2="543.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="563.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: 96#3・#5〜#7・#17・#22 ／ C-種類-002 ／ C-予算-002・003</text>
+</svg>

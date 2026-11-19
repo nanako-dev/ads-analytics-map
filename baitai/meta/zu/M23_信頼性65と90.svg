@@ -1,0 +1,75 @@
+<svg viewBox="0 0 860 702" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m23t m23d" class="fig">
+<title id="m23t">M23 A/B テストとリフトの「信頼性」</title>
+<desc id="m23d">Meta の［テスト］は A/B テストを信頼性 65% 以上、リフトテストを 90% 以上で「統計的に信頼できる」とし、65% は同じテストを繰り返すと 3 回に 1 回強は違う結果になりうる水準（〔計算〕）。素材の入れ替えのような戻せる判断は 65% で採り、構成の作り直しや予算の大きな移動は運用の型の 95% の区間で効いたと言えるまで待つ（〔当てはめ〕）。</desc>
+<rect width="860" height="702" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">Meta の［テスト］の「信頼性」は、同じテストを繰り返して同じ結果になる見込み</text>
+<text x="24.0" y="74.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">A/B テスト</text>
+<rect x="170.0" y="50.0" width="660.0" height="36.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="368.0" y="50.0" width="462.0" height="36.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<line x1="368.0" y1="46.0" x2="368.0" y2="90.0" stroke="#000000" stroke-width="2"/>
+<text x="380.0" y="74.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">65% 以上で「統計的に信頼できる」</text>
+<text x="24.0" y="124.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">リフトテスト</text>
+<rect x="170.0" y="100.0" width="660.0" height="36.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="698.0" y="100.0" width="132.0" height="36.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.25"/>
+<line x1="698.0" y1="96.0" x2="698.0" y2="140.0" stroke="#000000" stroke-width="2"/>
+<text x="686.0" y="124.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="end">90% 以上で「信頼できる」</text>
+<line x1="170.0" y1="154.0" x2="830.0" y2="154.0" stroke="#000000" stroke-width="1"/>
+<line x1="170.0" y1="154.0" x2="170.0" y2="159.0" stroke="#000000" stroke-width="1"/>
+<text x="170.0" y="175.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">50%</text>
+<line x1="302.0" y1="154.0" x2="302.0" y2="159.0" stroke="#000000" stroke-width="1"/>
+<text x="302.0" y="175.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">60%</text>
+<line x1="434.0" y1="154.0" x2="434.0" y2="159.0" stroke="#000000" stroke-width="1"/>
+<text x="434.0" y="175.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">70%</text>
+<line x1="566.0" y1="154.0" x2="566.0" y2="159.0" stroke="#000000" stroke-width="1"/>
+<text x="566.0" y="175.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">80%</text>
+<line x1="698.0" y1="154.0" x2="698.0" y2="159.0" stroke="#000000" stroke-width="1"/>
+<text x="698.0" y="175.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">90%</text>
+<line x1="830.0" y1="154.0" x2="830.0" y2="159.0" stroke="#000000" stroke-width="1"/>
+<text x="830.0" y="175.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">100%</text>
+<text x="24.0" y="175.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">信頼性</text>
+<text x="24.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">65% の勝ちを 20 回繰り返したら〔計算〕</text>
+<text x="836.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="end">3 回に 1 回強は逆の結果になりうる</text>
+<rect x="24.0" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="64.9" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="105.8" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="146.7" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="187.6" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="228.5" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="269.4" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="310.3" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="351.2" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="392.1" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="433.0" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="473.9" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="514.8" y="230.0" width="34.9" height="30.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="555.7" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<rect x="596.6" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<rect x="637.5" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<rect x="678.4" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<rect x="719.3" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<rect x="760.2" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<rect x="801.1" y="230.0" width="34.9" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="24.0" y="280.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">13 回は同じ勝ち</text>
+<text x="555.7" y="280.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">7 回は違う結果</text>
+<text x="24.0" y="324.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">結果をどう使うか〔当てはめ〕</text>
+<rect x="230.0" y="338.0" width="400.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="430.0" y="361.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">A/B で信頼性 65% 以上の勝ち</text>
+<line x1="430.0" y1="378.0" x2="430.0" y2="394.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="223.0" y1="394.0" x2="637.0" y2="394.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="223.0" y1="394.0" x2="223.0" y2="409.0" stroke="#000000" stroke-width="1.25"/><path d="M223.0 416.0 L227.0 409.0 L219.0 409.0 Z" fill="#000000"/>
+<line x1="637.0" y1="394.0" x2="637.0" y2="409.0" stroke="#000000" stroke-width="1.25"/><path d="M637.0 416.0 L641.0 409.0 L633.0 409.0 Z" fill="#000000"/>
+<rect x="24.0" y="416.0" width="398.0" height="64.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="442.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">戻せる判断</text>
+<text x="36.0" y="463.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">例: 素材の入れ替え</text>
+<rect x="438.0" y="416.0" width="398.0" height="64.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="450.0" y="442.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">戻しにくい判断</text>
+<text x="450.0" y="463.3" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">例: 構成の作り直し・予算の大きな移動・最適化イベントの変更</text>
+<rect x="24.0" y="490.0" width="398.0" height="68.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="529.1" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">Meta の 65% で採ってよい</text>
+<rect x="438.0" y="490.0" width="398.0" height="68.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="450.0" y="519.1" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">運用の型の 95% の区間で「効いた」まで待つか、もう一度テ</text>
+<text x="450.0" y="539.1" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">スト</text>
+<text x="24.0" y="604.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">テストの設計（公式）</text>
+<rect x="174.0" y="584.0" width="222.6" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="186.0" y="603.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">期間 1〜30 日（7 日以上を推奨）</text><rect x="404.6" y="584.0" width="262.9" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="416.6" y="603.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">検出力 80% 以上を推奨（保証ではない）</text><rect x="174.0" y="622.0" width="182.9" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="186.0" y="641.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">変えるのは 1 つの変数だけ</text>
+<text x="24.0" y="692.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 239549606692303・166313650471318 ／ M-効果測定-004・006 ／ 36 §6-3 ／ 2026-11-18 時点</text>
+</svg>

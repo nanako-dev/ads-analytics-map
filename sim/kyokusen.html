@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>近似曲線｜運用の地図</title>
+
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" href="../assets/site.css?v=1795074534">
+</head><body>
+<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-19 に作成</div>
+<header class="nav"><div class="nav-in"><a class="brand" href="../index.html"><i></i>運用の地図</a><nav><a href="../index.html">入口</a><a href="../shindan/index.html">症状</a><a href="../kata/index.html">判断の型</a><a href="../shikiichi.html">しきい値</a><a href="../shiyou.html">規則</a><a href="../yogo.html">用語</a><a href="../mondai.html">問題</a><a href="../menu/index.html">メニュー</a><a href="../check/index.html">点検</a><a href="../sim/index.html" class="on">試算</a><a href="../kaisetsu/index.html">解説</a><a href="../baitai/index.html">媒体</a><a href="../search.html">検索</a></nav></div></header>
+<main><p class="crumb"><a href="../index.html">入口</a> / <a href="index.html">試算</a> / 近似曲線</p><section class="sim-hero"><div><p class="tag">[ 試算 / 03 ]</p><h1>近似曲線</h1><p class="lead">月ごとの広告費と、クリック数・成果の件数などの実績の点に、3 つの形を当てます。いちばん当てはまる形を決定係数で選び、鈍り始める額 S を、ほかの 2 つの試算に渡せます。</p></div><div class="sim-hfig"><svg viewBox="0 0 240 150" class="sim-mini" aria-hidden="true"><line x1="20" y1="128" x2="228" y2="128" stroke="#000"/><line x1="20" y1="20" x2="20" y2="128" stroke="#000"/><line x1="20" y1="32" x2="228" y2="32" stroke="#909A8B" stroke-dasharray="3 3"/><text x="226" y="27" font-size="9" text-anchor="end" font-family="Chivo Mono,monospace">上限 c</text><polyline points="20.0,128.0 26.0,120.1 32.0,112.9 38.0,106.2 44.0,100.1 50.0,94.5 56.0,89.4 62.0,84.7 68.0,80.4 74.0,76.4 80.0,72.7 86.0,69.4 92.0,66.3 98.0,63.5 104.0,60.9 110.0,58.5 116.0,56.4 122.0,54.4 128.0,52.5 134.0,50.8 140.0,49.3 146.0,47.9 152.0,46.6 158.0,45.4 164.0,44.3 170.0,43.3 176.0,42.3 182.0,41.5 188.0,40.7 194.0,40.0 200.0,39.3 206.0,38.7 212.0,38.2 218.0,37.7 224.0,37.2 230.0,36.8" fill="none" stroke="#0B8F45" stroke-width="2.5"/><circle cx="30" cy="118" r="4" fill="#fff" stroke="#000"/><circle cx="62" cy="92" r="4" fill="#fff" stroke="#000"/><circle cx="92" cy="74" r="4" fill="#fff" stroke="#000"/><circle cx="124" cy="60" r="4" fill="#fff" stroke="#000"/><circle cx="156" cy="52" r="4" fill="#fff" stroke="#000"/><circle cx="186" cy="46" r="4" fill="#fff" stroke="#000"/><text x="124" y="146" font-size="9" text-anchor="middle" fill="#676E64" font-family="Chivo Mono,monospace">月の広告費 →</text></svg></div></section><p class="sim-local"><b>入力はブラウザの中だけで計算します。</b>どこにも送りません。ページを閉じると消えます。式は運用の MCP（ads-mcp）の道具と同じで、同じ数字が出ることを確かめています。</p>
+<div class="sim-grid">
+<div class="sim-form">
+<div class="sb sb-main">
+ <div class="sg2">
+  <label class="sf"><span class="sl">縦の軸（当てる値）</span><span class="si"><select id="yk"><option>クリック数</option><option>表示回数</option><option>成果の件数</option></select></span></label>
+ </div>
+ <div class="sim-tw"><table class="sim-edit" id="pts"><thead><tr><th>月</th><th>広告費 円</th><th id="yh">クリック数</th><th></th></tr></thead><tbody></tbody></table></div>
+ <div class="sb-act"><button type="button" class="btn ghost sm" id="add-p">＋ 点を足す</button><button type="button" class="btn ghost sm" id="clr-p">点を消す</button></div>
+ <details class="sb-paste"><summary>表計算から貼り付ける</summary><p class="sb-note">1 行に「月・広告費・値」か「広告費・値」を、タブかカンマで区切って貼ります。</p>
+ <textarea id="paste" rows="5" placeholder="2026-01	80000	700"></textarea><button type="button" class="btn sm" id="do-paste">この点で置きかえる</button></details>
+ <p class="sb-note">最初の見本の点は、計算の確かめのために作ったものです。実在の口座の数字ではありません。</p>
+</div>
+</div>
+<aside class="sim-known" aria-live="polite"><p class="kh">当てはまり</p><div id="fit-known"></div></aside>
+</div>
+<section class="sec" id="fig"><p class="num">01</p><div><h2>点と曲線</h2><div id="fit-fig"></div></div></section>
+<section class="sec" id="pass"><p class="num">02</p><div><h2>ほかの試算へ渡す</h2><div id="fit-pass"></div></div></section>
+<section class="sec" id="shiki"><p class="num">03</p><div><h2>式と選び方</h2><div class="sim-fx"><div><b>比例</b><span>y ＝ a × 広告費</span></div><div><b>頭打ち</b><span>y ＝ c × 広告費 ÷（広告費 ＋ b）。b は上限 c の半分に届く月の広告費</span></div><div><b>鈍る</b><span>y ＝ c ×（1 − e^(−広告費 ÷ S)）。r ＝ c ÷ S が最初の 1 円あたり</span></div><div><b>決定係数 R²</b><span>1 −（残りのずれの二乗和 ÷ 平均からのずれの二乗和）。1 に近いほど当てはまる</span></div><div><b>探し方</b><span>b・S は、いちばん多く使った月の 1/100〜100 倍を対数の目で 400 通り探し、c はそれぞれで二乗のずれが最小になる値</span></div></div><ul class="sim-list">
+<li>点が 4 つ未満のときは当てません。</li>
+<li>頭打ちの形は、比例より決定係数が 0.02 以上高いときだけ選びます。わずかな差なら、単純な比例にします。</li>
+<li>決定係数が 0.3 未満なら、当てはまりが弱いので、この曲線を予算の根拠にしません。月によって配信の中身（キャンペーンの種類・訴求・入札）が変わっていないかを見て、期間を分けるか、別の値で当て直します。</li>
+<li>0.3〜0.6 は中くらいです。形の目安には使えますが、頭打ちの位置は幅を持って読みます。</li>
+<li>点の範囲の外は、伸ばした推定です。図では薄く塗っています。</li></ul></div></section>
+<section class="sec" id="src"><p class="num">04</p><div><h2>出どころ</h2><ul class="sim-src"><li>考え方: 知識ベース 20（予算の試算の考え方）§2-2</li><li>同じ式の道具: ads-mcp の <code>fit_response_curve</code>（Google 広告の口座から月ごとの実績を読んで当てることもできます。読むだけ）</li></ul></div></section>
+<script src="../assets/sim-engine.js?v=1795074534"></script><script src="../assets/sim-ui.js?v=1795074534"></script>
+
+</main>
+<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="../index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="../shindan/index.html">すべての症状</a><a href="../shindan/L3-CVR-down.html">CVR が下がった</a><a href="../shindan/L3-CPA-up.html">CPA が上がった</a><a href="../shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="../menu/index.html">メニューの選び方</a><a href="../check/index.html">入稿前の点検</a><a href="../kata/index.html">判断の型 14 章</a><a href="../kata/06.html">状態の判定</a><a href="../kata/07.html">優先順位</a><a href="../kata/08.html">判断の規則集</a><a href="../kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="../shikiichi.html">しきい値</a><a href="../kata/90.html">式の一覧</a><a href="../shiyou.html">仕様の規則</a><a href="../dekiru.html">できる・できない 早見表</a><a href="../kata/92.html">食い違いと裁定</a><a href="../kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="../yogo.html">用語集</a><a href="../mondai.html">問題集</a><a href="../sim/index.html">試算（CPA・配分・曲線）</a><a href="../kaisetsu/index.html">解説（知識メモ）</a><a href="../search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="../baitai/index.html">媒体の一覧</a><a href="../baitai/meta/index.html">Meta</a><a href="../baitai/lineyahoo/index.html">LINEヤフー</a><a href="../baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-19</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-19 に作りました。</span></div></footer>
+<script>
+document.querySelectorAll('[data-open]').forEach(function(b){b.addEventListener('click',function(){var o=b.dataset.state!=='1';
+ document.querySelectorAll('details').forEach(function(d){if(!d.hidden)d.open=o});b.dataset.state=o?'1':'0';b.textContent=o?'すべて閉じる':'すべて開く'})});
+document.querySelectorAll('.dg-filt button').forEach(function(b){b.addEventListener('click',function(){var f=b.dataset.f;
+ document.querySelectorAll('.dg-filt button').forEach(function(x){x.classList.toggle('on',x===b)});
+ document.querySelectorAll('[data-st]').forEach(function(e){e.classList.toggle('off',!!f&&e.dataset.st.split(' ').indexOf(f)<0)});
+ var bar=document.getElementById('fbar');if(!bar){bar=document.createElement('div');bar.id='fbar';bar.className='dg-fbar';document.body.appendChild(bar);}
+ if(f){bar.innerHTML=f+' の規則だけを表示中（'+document.querySelectorAll('.rcard:not(.off)').length+' 個） <button type="button">すべて表示に戻す</button>';bar.hidden=false;
+  bar.querySelector('button').onclick=function(){document.querySelector('.dg-filt button[data-f=""]').click()};}else{bar.hidden=true;}})});
+document.querySelectorAll('.tbl .tv').forEach(function(b){b.addEventListener('click',function(){var t=b.parentNode;var c=t.classList.toggle('k-plain');t.classList.toggle('k-cards',!c);b.textContent=c?'カードで見る':'表で見る'})});
+(function(){var pr=document.querySelector('.prose');if(!pr)return;var hs=[].slice.call(pr.querySelectorAll('h2[id],h3[id]'));if(hs.filter(function(h){return h.tagName==='H2'}).length<3)return;
+ var b=document.createElement('button');b.type='button';b.className='toc-btn';b.textContent='目次';var p=document.createElement('nav');p.className='toc-pan';p.hidden=true;p.setAttribute('aria-label','このページの目次');
+ p.innerHTML=hs.map(function(h){return '<a class="'+h.tagName.toLowerCase()+'" href="#'+h.id+'">'+h.textContent.replace(/^\s+|\s+$/g,'')+'</a>'}).join('');
+ var top=document.createElement('a');top.className='toc-top';top.href='#';top.textContent='↑ 上へ';
+ document.body.appendChild(p);document.body.appendChild(b);document.body.appendChild(top);
+ b.addEventListener('click',function(){p.hidden=!p.hidden});p.addEventListener('click',function(e){if(e.target.tagName==='A')p.hidden=true});
+ var links=[].slice.call(p.querySelectorAll('a'));function spy(){var cur=null;hs.forEach(function(h,i){if(h.getBoundingClientRect().top<120)cur=i});links.forEach(function(a,i){a.classList.toggle('on',i===cur)});
+  b.textContent=cur===null?'目次':'目次 · '+hs[cur].textContent.replace(/^\s+|\s+$/g,'').slice(0,18);}
+ window.addEventListener('scroll',spy,{passive:true});spy();})();
+document.addEventListener('keydown',function(e){if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)){var q=document.getElementById('sq-all');if(q){e.preventDefault();q.focus()}else{location.href=document.querySelector('.brand').getAttribute('href').replace('index.html','search.html')}}});
+if(location.hash){var t=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(t&&t.tagName==='DETAILS')t.open=true;}
+</script>
+</body></html>

@@ -1,0 +1,60 @@
+<svg viewBox="0 0 860 478" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="x01t x01d" class="fig">
+<title id="x01t">X01 広告を出す引き金</title>
+<desc id="x01d">Google は検索語句、Meta は人（見ている人の中からオーディエンス条件の範囲で配信システムが選ぶ）、LINEヤフーは検索なら検索語句・ディスプレイなら人と文脈、ChatGPT は会話の文脈と意図で広告が出る。Meta には検索語句が、ChatGPT にはキーワードが無く、ChatGPT の文脈ヒント（広告グループあたり最大 2,000）は完全一致のキーワードではなく配信も保証しないので、「この語で出す・外す」の設計は Google と LINEヤフーの検索でしかできない。</desc>
+<rect width="860" height="478" fill="#FFFFFF"/>
+<rect x="734.0" y="12.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="750.0" y="22.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">Google と違う</text>
+<text x="24.0" y="46.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">Google</text>
+<text x="230.5" y="46.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<text x="437.0" y="46.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー</text>
+<text x="643.5" y="46.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<text x="24.0" y="76.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">利用者がしていること</text>
+<rect x="24.0" y="86.0" width="192.5" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="114.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">検索する</text>
+<line x1="120.2" y1="130.0" x2="120.2" y2="158.0" stroke="#000000" stroke-width="1.25"/><path d="M120.2 164.0 L124.2 158.0 L116.2 158.0 Z" fill="#000000"/>
+<rect x="230.5" y="86.0" width="192.5" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="242.5" y="114.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">フィード・動画を見る</text>
+<line x1="326.8" y1="130.0" x2="326.8" y2="158.0" stroke="#000000" stroke-width="1.25"/><path d="M326.8 164.0 L330.8 158.0 L322.8 158.0 Z" fill="#000000"/>
+<rect x="437.0" y="86.0" width="192.5" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="449.0" y="114.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">検索する／ページを見る</text>
+<line x1="533.2" y1="130.0" x2="533.2" y2="158.0" stroke="#000000" stroke-width="1.25"/><path d="M533.2 164.0 L537.2 158.0 L529.2 158.0 Z" fill="#000000"/>
+<rect x="643.5" y="86.0" width="192.5" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="655.5" y="114.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ChatGPT と会話する</text>
+<line x1="739.8" y1="130.0" x2="739.8" y2="158.0" stroke="#000000" stroke-width="1.25"/><path d="M739.8 164.0 L743.8 158.0 L735.8 158.0 Z" fill="#000000"/>
+<text x="24.0" y="180.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">広告を出す引き金</text>
+<rect x="24.0" y="188.0" width="192.5" height="92.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<rect x="196.5" y="198.0" width="10" height="10" fill="#19E76E"/>
+<text x="38.0" y="241.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="start">検索語句</text>
+<line x1="120.2" y1="280.0" x2="120.2" y2="308.0" stroke="#000000" stroke-width="1.25"/><path d="M120.2 314.0 L124.2 308.0 L116.2 308.0 Z" fill="#000000"/>
+<rect x="230.5" y="188.0" width="192.5" height="92.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<rect x="403.0" y="198.0" width="10" height="10" fill="#19E76E"/>
+<text x="244.5" y="241.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="start">人</text>
+<line x1="326.8" y1="280.0" x2="326.8" y2="308.0" stroke="#000000" stroke-width="1.25"/><path d="M326.8 314.0 L330.8 308.0 L322.8 308.0 Z" fill="#000000"/>
+<rect x="437.0" y="188.0" width="192.5" height="92.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<rect x="609.5" y="198.0" width="10" height="10" fill="#19E76E"/>
+<text x="451.0" y="229.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索: 検索語句</text>
+<text x="451.0" y="253.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ディスプレイ: 人と文脈</text>
+<line x1="533.2" y1="280.0" x2="533.2" y2="308.0" stroke="#000000" stroke-width="1.25"/><path d="M533.2 314.0 L537.2 308.0 L529.2 308.0 Z" fill="#000000"/>
+<rect x="643.5" y="188.0" width="192.5" height="92.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<rect x="816.0" y="198.0" width="10" height="10" fill="#19E76E"/>
+<text x="657.5" y="241.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="start">会話の文脈と意図</text>
+<line x1="739.8" y1="280.0" x2="739.8" y2="308.0" stroke="#000000" stroke-width="1.25"/><path d="M739.8 314.0 L743.8 308.0 L735.8 308.0 Z" fill="#000000"/>
+<text x="24.0" y="330.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">広告主が置くもの</text>
+<rect x="24.0" y="338.0" width="192.5" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">キーワード</text>
+<text x="36.0" y="384.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">除外キーワード</text>
+<rect x="230.5" y="338.0" width="192.5" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="242.5" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">オーディエンスの</text>
+<text x="242.5" y="384.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">制御と提案</text>
+<rect x="437.0" y="338.0" width="192.5" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="449.0" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">キーワード／</text>
+<text x="449.0" y="384.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">オーディエンス・面</text>
+<rect x="643.5" y="338.0" width="192.5" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="655.5" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">文脈ヒント</text>
+<text x="655.5" y="384.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">（最大 2,000）</text>
+<rect x="230.5" y="418.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="246.5" y="428.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">検索語句は無い</text>
+<rect x="643.5" y="418.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="659.5" y="428.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">キーワードは無い</text>
+<text x="24.0" y="468.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: Google 90 §3-1 ／ Meta 00 §1 ／ ChatGPT C-ターゲティング-001 ほか ／ 2026-11-18 時点</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 404" role="img" aria-labelledby="X05-t X05-d">
+<title id="X05-t">運用の型の当てはめの比較: Meta・LINEヤフー・ChatGPT</title>
+<desc id="X05-d">Google 用に書いた運用の型の規則 175 個を各媒体に当てはめた結果〔当てはめ〕を、同じ物差しの横棒で並べた。Meta はそのまま 53・言い換え 100・使えない 22、LINEヤフーの検索は 85・80・10、LINEヤフーのディスプレイは 55・89・31、ChatGPT は 54・85・36。LINEヤフーは名前の置き換えだけで済むものも「そのまま」に数えていて、Meta と ChatGPT はそれを「言い換え」に数えたので、そのままと言い換えの境目は媒体の間で数え方が違う。</desc>
+<defs><marker id="ah-X05" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="404.0" fill="#FFFFFF"/>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">運用の型の規則 175 個（Google 用）を各媒体に当てはめると</text>
+<text x="836.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#676E64" text-anchor="end">〔当てはめ〕</text>
+<rect x="24.0" y="47.0" width="16.0" height="16.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">そのまま使える</text>
+<rect x="163.0" y="47.0" width="16.0" height="16.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="185.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">言い換えが要る</text>
+<rect x="302.0" y="47.0" width="16.0" height="16.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="324.0" y="60.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">使えない</text>
+<text x="24.0" y="106.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<rect x="240.0" y="80.0" width="180.5" height="42.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="330.3" y="107.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">53</text>
+<rect x="420.5" y="80.0" width="340.6" height="42.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="590.8" y="107.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">100</text>
+<rect x="761.1" y="80.0" width="74.9" height="42.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="798.5" y="107.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">22</text>
+<text x="24.0" y="162.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー 検索</text>
+<rect x="240.0" y="136.0" width="289.5" height="42.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="384.7" y="163.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">85</text>
+<rect x="529.5" y="136.0" width="272.5" height="42.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="665.7" y="163.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">80</text>
+<rect x="801.9" y="136.0" width="34.1" height="42.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="819.0" y="163.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">10</text>
+<text x="24.0" y="218.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー ディスプレイ</text>
+<rect x="240.0" y="192.0" width="187.3" height="42.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="333.7" y="219.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">55</text>
+<rect x="427.3" y="192.0" width="303.1" height="42.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="578.9" y="219.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">89</text>
+<rect x="730.4" y="192.0" width="105.6" height="42.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="783.2" y="219.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">31</text>
+<text x="24.0" y="274.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<rect x="240.0" y="248.0" width="183.9" height="42.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="332.0" y="275.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">54</text>
+<rect x="423.9" y="248.0" width="289.5" height="42.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="568.7" y="275.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">85</text>
+<rect x="713.4" y="248.0" width="122.6" height="42.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="774.7" y="275.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">36</text>
+<line x1="240.0" y1="296.0" x2="240.0" y2="302.0" stroke="#909A8B" stroke-width="1"/>
+<text x="240.0" y="316.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">0</text>
+<line x1="410.3" y1="296.0" x2="410.3" y2="302.0" stroke="#909A8B" stroke-width="1"/>
+<text x="410.3" y="316.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">50</text>
+<line x1="580.6" y1="296.0" x2="580.6" y2="302.0" stroke="#909A8B" stroke-width="1"/>
+<text x="580.6" y="316.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">100</text>
+<line x1="750.9" y1="296.0" x2="750.9" y2="302.0" stroke="#909A8B" stroke-width="1"/>
+<text x="750.9" y="316.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">150</text>
+<line x1="836.0" y1="296.0" x2="836.0" y2="302.0" stroke="#909A8B" stroke-width="1"/>
+<text x="836.0" y="316.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="middle">175</text>
+<rect x="24.0" y="351.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="360.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">LINEヤフーは名前の置き換えだけのものも「そのまま」に数えた（Meta・ChatGPT は「言い換え」）</text>
+<text x="24.0" y="390.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: Meta 36 §2-1 ／ LINEヤフー 36 §2-1 ／ ChatGPT 36 §2-1</text>
+</svg>

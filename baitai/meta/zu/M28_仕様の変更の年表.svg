@@ -1,0 +1,82 @@
+<svg viewBox="0 0 860 784" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m28t m28d" class="fig">
+<title id="m28t">M28 仕様の変更の年表（2021〜2027）</title>
+<desc id="m28d">2025〜2026 年に配置の廃止、旧 ASC・AAC の廃止、詳細ターゲットの除外の廃止、クリックの定義の変更（2026-03）が続き、古い手順書・記事・学習時点の記憶はこの年表のどこかで外れる。AEM の 8 件の優先順位付けが不要になった日と、ビジネスポートフォリオへの改称日は公式に記載なし。</desc>
+<rect width="860" height="784" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">古い手順書・記事が間違える原因の年表（並びは日付の順。間隔は時間に比例しない）</text>
+<text x="772.0" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">既定の変更</text><rect x="756.0" y="44.0" width="10.0" height="10.0" fill="#F5F8F4" stroke="#000000" stroke-width="0.75"/><text x="630.0" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">数え方・取れる数字</text><rect x="614.0" y="44.0" width="10.0" height="10.0" fill="#FFE7B8" stroke="#000000" stroke-width="0.75"/><text x="488.0" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">廃止・できなくなる</text><rect x="472.0" y="44.0" width="10.0" height="10.0" fill="#E6E6E6" stroke="#000000" stroke-width="0.75"/>
+<rect x="172.0" y="76.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="98.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">［テスト］のホールドアウト付き A/B テストを停止</text>
+<text x="136.0" y="99.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2021-04-26</text>
+<circle cx="154.0" cy="94.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="94.0" x2="172.0" y2="94.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="122.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="144.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">v22.0: 詳細ターゲットの除外を廃止。Advantage+ クリエイティブの一括オン・オフも廃止</text>
+<text x="136.0" y="145.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2025-01</text>
+<circle cx="154.0" cy="140.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="140.0" x2="172.0" y2="140.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="168.0" width="664.0" height="36.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="190.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">新しいキャンペーンは Threads を既定で含む（Instagram のフィードを選んでいるとき）</text>
+<text x="136.0" y="191.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2025-04</text>
+<circle cx="154.0" cy="186.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="186.0" x2="172.0" y2="186.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="214.0" width="664.0" height="36.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="236.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">増分の結果の列は、この日より前の期間では出ない</text>
+<text x="136.0" y="237.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2025-04-01</text>
+<circle cx="154.0" cy="232.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="232.0" x2="172.0" y2="232.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="260.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="282.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">Messenger の受信箱の配置を廃止</text>
+<text x="136.0" y="283.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2025-11-11</text>
+<circle cx="154.0" cy="278.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="278.0" x2="172.0" y2="278.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="306.0" width="664.0" height="36.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="328.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">API でビュー 7 日・28 日の数字が返らない</text>
+<text x="136.0" y="329.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-01-12</text>
+<circle cx="154.0" cy="324.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="324.0" x2="172.0" y2="324.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="352.0" width="664.0" height="36.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="374.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">クリックスルーはリンクのクリックだけ。ほかはエンゲージスルーへ</text>
+<text x="136.0" y="375.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-03</text>
+<circle cx="154.0" cy="370.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="370.0" x2="172.0" y2="370.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="398.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="420.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">API で旧 ASC・AAC の作成・更新ができない</text>
+<text x="136.0" y="421.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-05-19</text>
+<circle cx="154.0" cy="416.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="416.0" x2="172.0" y2="416.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="444.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="466.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">v26.0: 移行していない旧 ASC・AAC は編集できない。Instagram 発見タブのフィードを廃止</text>
+<text x="136.0" y="467.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-07-29</text>
+<circle cx="154.0" cy="462.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="462.0" x2="172.0" y2="462.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="490.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="512.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">Messenger のストーリーズの配置を廃止</text>
+<text x="136.0" y="513.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-08 下旬</text>
+<circle cx="154.0" cy="508.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="508.0" x2="172.0" y2="508.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="536.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="558.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">v27.0: 類似オーディエンスの国を指定できない（広告セットの地域に配信）</text>
+<text x="136.0" y="559.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-11</text>
+<circle cx="154.0" cy="554.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="554.0" x2="172.0" y2="554.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="582.0" width="664.0" height="36.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25" stroke-dasharray="5 4"/>
+<rect x="182.0" y="595.0" width="10" height="10" fill="#19E76E"/>
+<text x="200.0" y="605.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">ここが今（この知識ベースの確認日）</text>
+<text x="136.0" y="605.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2026-11-18</text>
+<circle cx="154.0" cy="600.0" r="5" fill="#19E76E" stroke="#000000" stroke-width="1"/>
+<line x1="154.0" y1="600.0" x2="172.0" y2="600.0" stroke="#000000" stroke-width="1"/>
+<rect x="172.0" y="628.0" width="664.0" height="36.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="181.0" y="650.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">入札の倍率（Bid Multipliers）からバリュールールへ移る</text>
+<text x="136.0" y="651.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">2027 年まで</text>
+<circle cx="154.0" cy="646.0" r="5" fill="#000000"/>
+<line x1="154.0" y1="646.0" x2="172.0" y2="646.0" stroke="#000000" stroke-width="1"/>
+<line x1="154.0" y1="88.0" x2="154.0" y2="652.0" stroke="#000000" stroke-width="1.25"/>
+<rect x="146.0" y="117.0" width="16.0" height="8.0" fill="#FFFFFF"/>
+<line x1="146.0" y1="120.0" x2="162.0" y2="114.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="146.0" y1="126.0" x2="162.0" y2="120.0" stroke="#000000" stroke-width="1.25"/>
+<text x="24.0" y="696.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">日付が</text>
+<text x="70.0" y="696.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="130.0" y="696.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">の変更</text>
+<rect x="24.0" y="710.0" width="308.2" height="32.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/><text x="36.0" y="730.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">AEM: ウェブでは 8 件の優先順位付けが不要に　</text><rect x="340.2" y="710.0" width="351.9" height="32.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/><text x="352.2" y="730.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">ビジネスマネージャ → ビジネスポートフォリオ（改称）</text>
+<text x="24.0" y="774.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 96 #6・#10・#17・#19・#23・#24・#41・#47 ／ M-効果測定-007 ／ 2026-11-18 時点</text>
+</svg>

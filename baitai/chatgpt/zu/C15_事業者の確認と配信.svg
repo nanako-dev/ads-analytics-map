@@ -1,0 +1,35 @@
+<svg viewBox="0 0 860 564" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c15t c15d" class="fig">
+<title id="c15t">C15 事業者の確認と配信</title>
+<desc id="c15d">時間の流れの模式図（日数・金額の目盛りは無い）。事業者の確認は進行中が最大 7 営業日。確認の前でも配信は始まり、費用が発生しうる。累計の支出が一定額（一律ではなく、金額は記載なし）に達すると追加の確認を求められうる。その後、確認が済んでいれば配信は続き、未完了だと制限・停止されうる。2026-11-18 時点。</desc>
+<rect width="860" height="564" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">時間の流れ（模式図。日数・金額の目盛りは無い）</text>
+<text x="24.0" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">事業者の確認</text>
+<rect x="190.0" y="56.0" width="300.0" height="36.0" fill="#FFE7B8" stroke="#909A8B" stroke-width="1"/>
+<text x="200.0" y="79.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">進行中（最大 7 営業日）</text>
+<rect x="490.0" y="56.0" width="346.0" height="36.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="500.0" y="79.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">済む／未完了のまま</text>
+<text x="24.0" y="180.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">累計の支出</text>
+<text x="24.0" y="200.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">（模式）</text>
+<line x1="190.0" y1="140.0" x2="190.0" y2="290.0" stroke="#000000" stroke-width="1"/>
+<line x1="190.0" y1="290.0" x2="836.0" y2="290.0" stroke="#000000" stroke-width="1"/>
+<polyline points="190.0,290.0 310.0,272.0 450.0,238.0 590.0,190.0 710.0,162.0 836.0,144.0" fill="none" stroke="#000000" stroke-width="1.5"/>
+<line x1="190.0" y1="207.0" x2="836.0" y2="207.0" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="836.0" y="227.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="end">一定額（一律ではない。金額は <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan>）</text>
+<rect x="538.0" y="202.0" width="10.0" height="10.0" fill="#000000"/>
+<line x1="543.0" y1="92.0" x2="543.0" y2="470.0" stroke="#000000" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="551.0" y="114.0" width="184.0" height="26.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="559.0" y="132.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">追加の確認を求められうる</text>
+<text x="24.0" y="374.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">配信</text>
+<rect x="190.0" y="330.0" width="353.0" height="100.0" fill="#F5F8F4" stroke="#909A8B" stroke-width="1"/>
+<text x="202.0" y="360.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">始まりうる。確認の前でも費用が発生しうる</text>
+<rect x="543.0" y="330.0" width="293.0" height="48.0" fill="#C9F7DC" stroke="#909A8B" stroke-width="1"/>
+<text x="555.0" y="360.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">確認が済んでいれば続く</text>
+<rect x="543.0" y="382.0" width="293.0" height="48.0" fill="#FFD6D6" stroke="#909A8B" stroke-width="1"/>
+<text x="555.0" y="412.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">未完了だと制限・停止されうる</text>
+<text x="836.0" y="458.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">時間 →</text>
+<rect x="24.0" y="489.0" width="530.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="508.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">確認の前でも配信は始まるが、後で止まりうる。確認は出稿の前に済ませる</text>
+<line x1="24.0" y1="528.0" x2="836.0" y2="528.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="548.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-アカウント-006・007 ／ help 20001534 ／ 62#13〔画面〕</text>
+</svg>

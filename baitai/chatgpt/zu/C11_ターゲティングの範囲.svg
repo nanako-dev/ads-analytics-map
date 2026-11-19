@@ -1,0 +1,45 @@
+<svg viewBox="0 0 860 650" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c11t c11d" class="fig">
+<title id="c11t">C11 ターゲティングの範囲</title>
+<desc id="c11d">広告主が絞れる段を、外から内へ狭まる帯で示した模式図（幅は人数の比ではない）。国（1 か国なら明示して含める。指定しなければ利用可能な全地域）、地域（日本は都道府県と郵便番号。市の単位は試した範囲で見当たらない。除外地域も指定できる）、端末 5 種（Android アプリ・Android Web・パソコンの Web・iOS アプリ・iOS Web）、カスタム オーディエンス（含める・入札の倍率は照合後 25,000 人以上、除くは下限なし、EEA・スイスでは使えない）、会話を狭く除く Negative Phrases（資格のある広告主だけ、資格の条件と日本で使えるかは記載なし）。年齢・性別・興味関心の指定は公式に記載なし。2026-11-18 時点。</desc>
+<rect width="860" height="650" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">外から内へ狭まる（幅は模式で、人数の比ではない）</text>
+<rect x="24.0" y="48.0" width="812.0" height="64.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="74.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">国</text>
+<text x="38.0" y="98.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">1 か国だけなら明示して含める（他国を除くだけでは絞れない）。指定しなければ利用可能な全地域</text>
+<rect x="58.0" y="124.0" width="744.0" height="64.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="72.0" y="150.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">地域</text>
+<text x="72.0" y="174.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">日本は都道府県と郵便番号。市 <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">？</tspan>（試した範囲で見当たらない）。除外地域も指定できる</text>
+<rect x="92.0" y="200.0" width="676.0" height="76.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="106.0" y="226.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">端末 5 種</text>
+<rect x="106.0" y="238.0" width="123.2" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="167.6" y="257.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="middle">Android アプリ</text>
+<rect x="237.2" y="238.0" width="123.2" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="298.8" y="257.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="middle">Android Web</text>
+<rect x="368.4" y="238.0" width="123.2" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="430.0" y="257.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="middle">パソコンの Web</text>
+<rect x="499.6" y="238.0" width="123.2" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="561.2" y="257.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="middle">iOS アプリ</text>
+<rect x="630.8" y="238.0" width="123.2" height="28.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="692.4" y="257.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="middle">iOS Web</text>
+<rect x="126.0" y="288.0" width="608.0" height="96.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="140.0" y="314.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">カスタム オーディエンス（顧客リスト）</text>
+<rect x="140.0" y="326.0" width="331.8" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="152.0" y="353.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" text-anchor="start"><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="600" fill="#000000" font-size="13">含める・入札の倍率  </tspan><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700" fill="#000000" font-size="13">照合後 25,000 人以上</tspan></text>
+<rect x="479.8" y="326.0" width="240.2" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="491.8" y="353.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" text-anchor="start"><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="600" fill="#000000" font-size="13">除く  </tspan><tspan font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700" fill="#000000" font-size="13">下限なし</tspan></text>
+<rect x="560.1" y="297.0" width="159.9" height="22.0" fill="#FFE7B8"/>
+<text x="567.1" y="312.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="600" fill="#000000" text-anchor="start">EEA・スイスでは使えない</text>
+<rect x="160.0" y="396.0" width="540.0" height="64.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="174.0" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Negative Phrases</text>
+<rect x="324.6" y="406.0" width="144.0" height="23.0" fill="#FFA9FD"/>
+<text x="331.6" y="422.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">資格のある広告主だけ</text>
+<text x="174.0" y="446.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">会話（掲載）を狭く除く。資格の条件・日本で使えるか <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">？</tspan></text>
+<rect x="24.0" y="500.0" width="812.0" height="44.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="40.0" y="528.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">年齢・性別・興味関心で絞る ― 公式に<tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan></text>
+<text x="820.0" y="528.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="end">文脈ヒントも絞り込みには使えない（C10）</text>
+<rect x="24.0" y="575.0" width="617.6" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="594.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">絞れるのは 国・地域・端末・顧客リスト（と一部の広告主の Negative Phrases）だけ</text>
+<line x1="24.0" y1="614.0" x2="836.0" y2="614.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="634.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-ターゲティング-004〜013 ／ help 20001210・20001346 ／ 62#1〔画面〕</text>
+</svg>

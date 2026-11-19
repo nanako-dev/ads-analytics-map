@@ -1,0 +1,42 @@
+<svg viewBox="0 0 860 530" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c14t c14d" class="fig">
+<title id="c14t">C14 却下されたとき</title>
+<desc id="c14d">広告が却下されたときの分かれ道。「Not serving」の広告にカーソルを当てて理由を読み、原因が分かり直せるなら編集して出し直す（新しい版として再審査）。判定が誤りなら管理画面の異議（Request Review、日本語版は「審査をリクエスト」）が最短。異議から 7 日たっても決まらないか、異議の手段が無いときだけサポート（ads-support@openai.com）へ。アカウント・ドメインの判断は結果のメールのリンクから異議。異議の回数の上限と決まるまでの日数は記載なし。2026-11-18 時点。</desc>
+<rect width="860" height="530" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">分かれ道（上から）</text>
+<rect x="24.0" y="52.0" width="340.0" height="58.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="78.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">広告が「Not serving」</text>
+<text x="36.0" y="98.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">理由を読む（テキスト・画像・LP のどれか）</text>
+<polyline points="104.0,110.0 104.0,144.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M104.0 150.0 l-4 -7 h8 z" fill="#000000"/>
+<rect x="24.0" y="150.0" width="340.0" height="52.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="176.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">原因が分かり、直せるか</text>
+<rect x="544.0" y="147.0" width="292.0" height="58.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="556.0" y="173.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">編集して出し直す</text>
+<text x="556.0" y="193.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">新しい版として、もう一度審査される</text>
+<polyline points="364.0,176.0 538.0,176.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M544.0 176.0 l-7 -4 v8 z" fill="#000000"/>
+<text x="454.0" y="168.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<polyline points="104.0,202.0 104.0,244.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M104.0 250.0 l-4 -7 h8 z" fill="#000000"/>
+<text x="114.0" y="228.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">いいえ（判定が誤り）</text>
+<rect x="24.0" y="250.0" width="340.0" height="58.0" fill="#C9F7DC" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="276.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">管理画面の異議</text>
+<text x="36.0" y="296.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">Request Review（日本語版は「審査をリクエスト」）</text>
+<rect x="242.0" y="259.0" width="110.0" height="22.0" fill="#19E76E"/>
+<text x="249.0" y="274.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="600" fill="#000000" text-anchor="start">最短の道（公式）</text>
+<rect x="544.0" y="250.0" width="292.0" height="58.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="556.0" y="276.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">サポートに連絡</text>
+<text x="556.0" y="296.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">ads-support@openai.com</text>
+<polyline points="364.0,279.0 538.0,279.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M544.0 279.0 l-7 -4 v8 z" fill="#000000"/>
+<text x="454.0" y="269.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">7 日たっても決まらない</text>
+<text x="454.0" y="301.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="middle">異議の手段が無い</text>
+<rect x="24.0" y="348.0" width="812.0" height="76.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="40.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">アカウント・ドメインの判断（業種が対象外など）は、結果のメールの異議のリンクから</text>
+<text x="40.0" y="404.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">異議の回数の上限・決まるまでの日数 ― <tspan fill="#B42318" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-weight="700">記載なし</tspan></text>
+<rect x="24.0" y="455.0" width="395.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="474.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">サポートは異議の後の手段。先に管理画面で異議を出す</text>
+<line x1="24.0" y1="494.0" x2="836.0" y2="494.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="514.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-審査-006・016・017 ／ help 20001534・20001217 ／ 34§5</text>
+</svg>

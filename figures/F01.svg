@@ -1,0 +1,88 @@
+<svg viewBox="0 0 860 688" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="f01t f01d" class="fig">
+<title id="f01t">F01 アカウントの状態の判定</title>
+<desc id="f01d">問0 広告は出ているか → はいなら 状0（止まっている）。問1 計測は信用できるか（4 つの検査のどれかに当たるか） → はいなら 状1（計測が信用できない）。問2 教えている中身は利益につながっているか（3 つの検査のどれかに当たるか） → はいなら 状2（教える中身がずれている）。問3 過渡の最中か → はいなら 状8（過渡（待つ））。問4 件数は足りるか → はいなら 状3（データが足りない）。問5 効率は目標内か → はいなら 状5（効率が悪い）。問6 量は計画に届いているか → はいなら 状4（制約で詰まっている）。問7 足す先があり、足しても採算が合うか → はいなら 状6（伸ばせる）。どれにも当たらなければ 状7（頭打ち（維持））。</desc>
+<rect width="860" height="688" fill="#FFFFFF"/>
+<text x="24" y="30" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">問い（上から順に当てる）</text>
+<text x="552" y="30" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">状態（最初に「はい」になった所）</text>
+<circle cx="556" cy="52" r="4" fill="#DC2626"/>
+<text x="565" y="56" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="400" fill="#4D4D4D" text-anchor="start">直す（上流）</text>
+<circle cx="648" cy="52" r="4" fill="#8F8F8F"/>
+<text x="657" y="56" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="400" fill="#4D4D4D" text-anchor="start">待つ・足りない</text>
+<circle cx="751" cy="52" r="4" fill="#D97706"/>
+<text x="760" y="56" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="400" fill="#4D4D4D" text-anchor="start">効率・量</text>
+<circle cx="821" cy="52" r="4" fill="#16A34A"/>
+<text x="830" y="56" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="400" fill="#4D4D4D" text-anchor="start">良い</text>
+<rect x="24" y="84" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="113" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q0</text>
+<text x="72" y="113" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">広告は出ているか</text>
+<line x1="464" y1="108" x2="546" y2="108" stroke="#000000" stroke-width="1.25"/><path d="M552 108 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="101" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="84" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="102" r="4.5" fill="#DC2626"/><text x="580" y="106" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状0</text><text x="614" y="106" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">止まっている</text><text x="580" y="123" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">改善の輪が回っていない</text>
+<line x1="64" y1="132" x2="64" y2="144" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 150 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="145" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="150" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="179" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q1</text>
+<text x="72" y="179" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">計測は信用できるか</text>
+<line x1="464" y1="174" x2="546" y2="174" stroke="#000000" stroke-width="1.25"/><path d="M552 174 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="167" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="150" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="168" r="4.5" fill="#DC2626"/><text x="580" y="172" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状1</text><text x="614" y="172" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">計測が信用できない</text><text x="580" y="189" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">結果の数字が壊れている</text>
+<line x1="64" y1="198" x2="64" y2="210" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 216 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="211" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="216" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="245" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q2</text>
+<text x="72" y="245" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">教えている中身は利益につながっているか</text>
+<line x1="464" y1="240" x2="546" y2="240" stroke="#000000" stroke-width="1.25"/><path d="M552 240 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="233" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="216" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="234" r="4.5" fill="#DC2626"/><text x="580" y="238" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状2</text><text x="614" y="238" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">教える中身がずれている</text><text x="580" y="255" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">正解の向きが違う</text>
+<line x1="64" y1="264" x2="64" y2="276" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 282 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="277" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="282" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="311" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q3</text>
+<text x="72" y="311" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">過渡の最中か</text>
+<line x1="464" y1="306" x2="546" y2="306" stroke="#000000" stroke-width="1.25"/><path d="M552 306 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="299" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="282" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="300" r="4.5" fill="#8F8F8F"/><text x="580" y="304" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状8</text><text x="614" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">過渡（待つ）</text><text x="580" y="321" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">まだ読めない時期</text>
+<line x1="64" y1="330" x2="64" y2="342" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 348 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="343" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="348" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="377" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q4</text>
+<text x="72" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">件数は足りるか</text>
+<line x1="464" y1="372" x2="546" y2="372" stroke="#000000" stroke-width="1.25"/><path d="M552 372 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="365" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="348" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="366" r="4.5" fill="#8F8F8F"/><text x="580" y="370" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状3</text><text x="614" y="370" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">データが足りない</text><text x="580" y="387" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">読める量が無い</text>
+<line x1="64" y1="396" x2="64" y2="408" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 414 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="409" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="414" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="443" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q5</text>
+<text x="72" y="443" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">効率は目標内か</text>
+<line x1="464" y1="438" x2="546" y2="438" stroke="#000000" stroke-width="1.25"/><path d="M552 438 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="431" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="414" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="432" r="4.5" fill="#D97706"/><text x="580" y="436" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状5</text><text x="614" y="436" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">効率が悪い</text><text x="580" y="453" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">高い</text>
+<line x1="64" y1="462" x2="64" y2="474" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 480 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="475" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="480" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="509" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q6</text>
+<text x="72" y="509" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">量は計画に届いているか</text>
+<line x1="464" y1="504" x2="546" y2="504" stroke="#000000" stroke-width="1.25"/><path d="M552 504 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="497" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="480" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="498" r="4.5" fill="#D97706"/><text x="580" y="502" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状4</text><text x="614" y="502" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">制約で詰まっている</text><text x="580" y="519" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">出ない</text>
+<line x1="64" y1="528" x2="64" y2="540" stroke="#676E64" stroke-width="1.25"/>
+<path d="M64 546 l-4 -7 h8 z" fill="#676E64"/>
+<text x="74" y="541" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ</text>
+<rect x="24" y="546" width="440" height="48" rx="0" fill="#F5F8F4" stroke="#000000"/>
+<text x="40" y="575" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="600" fill="#000000" text-anchor="start">Q7</text>
+<text x="72" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">足す先があり、足しても採算が合うか</text>
+<line x1="464" y1="570" x2="546" y2="570" stroke="#000000" stroke-width="1.25"/><path d="M552 570 l-7 -4 v8 z" fill="#000000"/>
+<text x="508.0" y="563" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11" font-weight="500" fill="#4D4D4D" text-anchor="middle">はい</text>
+<rect x="552" y="546" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="564" r="4.5" fill="#16A34A"/><text x="580" y="568" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状6</text><text x="614" y="568" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">伸ばせる</text><text x="580" y="585" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">足せる</text>
+<polyline points="64,594 64,636 546,636" fill="none" stroke="#676E64" stroke-width="1.25"/>
+<path d="M552 636 l-7 -4 v8 z" fill="#676E64"/>
+<text x="74" y="630" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="10.5" font-weight="400" fill="#676E64" text-anchor="start">いいえ（どれにも当たらない）</text>
+<rect x="552" y="612" width="284" height="48" rx="0" fill="#FFFFFF" stroke="#000000"/><circle cx="568" cy="630" r="4.5" fill="#16A34A"/><text x="580" y="634" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">状7</text><text x="614" y="634" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">頭打ち（維持）</text><text x="580" y="651" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="11.5" font-weight="400" fill="#4D4D4D" text-anchor="start">取り切った</text>
+</svg>

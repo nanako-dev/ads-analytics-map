@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 684" role="img" aria-labelledby="L22-t L22-d">
+<title id="L22-t">Google の常識を持ち込むと間違える設定の 6 つ（LINEヤフー）</title>
+<desc id="L22-d">Google の常識と LINEヤフーでの実際の対。審査はほとんど 1 営業日と思いがちだが、新規の広告は配信開始まで 3 営業日前後で、画像・動画は広告に設定した日から数える。RSA は公式の推奨が 1 広告グループ 1 本で、比べるのはアセット単位の実績。検索のキャンペーン個別では「コンバージョン数の最大化」に目標値をオプションで付け、ポートフォリオでは目標値が独立の戦略。検索で入札価格調整率が全部効くのはクリック数の最大化だけで、ディスプレイの自動入札では一切効かない。検索ではキーワード・広告グループの追加でも学習期間が生じ、止めたキャンペーンの再開も学習中になる。スポット調整が動くのは目標値つきの戦略だけで、最大 14 日、7 日以内を推奨。</desc>
+<defs><marker id="ah-L22" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="684.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Google の常識を持ち込むと間違える設定の 6 つ</text>
+<text x="24.0" y="64.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#4D4D4D" text-anchor="start">Google の常識（思い込み）</text>
+<text x="414.0" y="64.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#4D4D4D" text-anchor="start">LINEヤフーでは</text>
+<rect x="24.0" y="76.0" width="340.0" height="79.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="94.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">検索・ディスプレイ</text>
+<text x="36.0" y="116.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">審査はほとんど 1 営業日で終わる</text>
+<line x1="368.0" y1="115.5" x2="408.0" y2="115.5" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L22)"/>
+<rect x="414.0" y="76.0" width="422.0" height="79.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="426.0" y="109.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">新規は配信開始まで 3 営業日前後</text>
+<text x="426.0" y="130.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">画像・動画は広告に設定した日から数える</text>
+<rect x="24.0" y="165.0" width="340.0" height="79.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="183.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">検索</text>
+<text x="36.0" y="205.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">RSA は広告グループに 2〜3 本並べる</text>
+<line x1="368.0" y1="204.5" x2="408.0" y2="204.5" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L22)"/>
+<rect x="414.0" y="165.0" width="422.0" height="79.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="426.0" y="198.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">公式の推奨は 1 本。アセットを多く入れる</text>
+<text x="426.0" y="219.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">比べるのはアセット単位の実績で</text>
+<rect x="24.0" y="254.0" width="340.0" height="79.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="272.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">検索</text>
+<text x="36.0" y="294.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">「目標コンバージョン単価」の戦略を選ぶ</text>
+<line x1="368.0" y1="293.5" x2="408.0" y2="293.5" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L22)"/>
+<rect x="414.0" y="254.0" width="422.0" height="79.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="426.0" y="287.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">個別は「CV 数の最大化」＋目標値のオプション</text>
+<text x="426.0" y="308.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ポートフォリオでは目標値が独立の戦略</text>
+<rect x="24.0" y="343.0" width="340.0" height="79.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="361.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">検索・ディスプレイ</text>
+<text x="36.0" y="383.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">自動入札でも入札価格調整率で絞れる</text>
+<line x1="368.0" y1="382.5" x2="408.0" y2="382.5" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L22)"/>
+<rect x="414.0" y="343.0" width="422.0" height="79.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="426.0" y="376.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">検索で全部効くのはクリック数の最大化だけ</text>
+<text x="426.0" y="397.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ディスプレイの自動入札では一切効かない</text>
+<rect x="24.0" y="432.0" width="340.0" height="79.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="450.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">検索</text>
+<text x="36.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">キーワードや広告グループを足すだけなら</text>
+<text x="36.0" y="493.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">学習には関係ない</text>
+<line x1="368.0" y1="471.5" x2="408.0" y2="471.5" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L22)"/>
+<rect x="414.0" y="432.0" width="422.0" height="79.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="426.0" y="465.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">追加でも学習期間が生じる</text>
+<text x="426.0" y="486.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">止めたキャンペーンの再開も「学習中」</text>
+<rect x="24.0" y="521.0" width="340.0" height="79.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="36.0" y="539.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">検索</text>
+<text x="36.0" y="561.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">セール前のスポット調整は</text>
+<text x="36.0" y="582.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">どの自動入札にも効く</text>
+<line x1="368.0" y1="560.5" x2="408.0" y2="560.5" stroke="#000000" stroke-width="1.5" marker-end="url(#ah-L22)"/>
+<rect x="414.0" y="521.0" width="422.0" height="79.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="426.0" y="554.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">動くのは目標値つきの戦略だけ</text>
+<text x="426.0" y="575.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">最大 14 日、7 日以内を推奨</text>
+<rect x="24.0" y="631.0" width="10.0" height="10.0" fill="#19E76E"/><text x="42.0" y="640.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">Google の知識は、検索にはかなりそのまま、ディスプレイには読み替えて持ち込む</text>
+<text x="24.0" y="670.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 96 §1 ／ LY-ポリシー-001・002 ／ LY-入札-015・051</text>
+</svg>

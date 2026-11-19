@@ -1,0 +1,66 @@
+<svg viewBox="0 0 860 632" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m25t m25d" class="fig">
+<title id="m25t">M25 「出ない・高い」の切り分けの順</title>
+<desc id="m25d">配信ステータス → 予算と上限 → 構造 → 品質 → 入札 → オーディエンスと配置の順に確かめ、当たった所で止まる。表示がほぼ 0 なら、二段階認証・広告主の認証・支払い・違反ドメインなど広告の中身の外の原因を先に見て、status と effective_status を見比べる。</desc>
+<rect width="860" height="632" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">「出ない・高い」は上から順に確かめ、当たった所で止まる</text>
+<text x="24.0" y="56.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">順番</text>
+<rect x="68.0" y="70.0" width="456.0" height="80.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="80.0" y="95.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">配信ステータス</text>
+<text x="80.0" y="116.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">情報収集中・不十分、入札価格が制限、過少クリエイティブ・広告疲れ、審</text>
+<text x="80.0" y="134.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">査中・却下</text>
+<rect x="24.0" y="70.0" width="44.0" height="80.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="46.0" y="117.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#000000" text-anchor="middle">1</text>
+<line x1="46.0" y1="150.0" x2="46.0" y2="161.0" stroke="#000000" stroke-width="1.25"/><path d="M46.0 168.0 L50.0 161.0 L42.0 161.0 Z" fill="#000000"/>
+<text x="58.0" y="164.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">当たらなければ次へ</text>
+<rect x="68.0" y="168.0" width="456.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="80.0" y="193.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">予算と上限</text>
+<text x="80.0" y="214.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">Meta の 1 日の上限予算、アカウント・キャンペーンの上限予算</text>
+<rect x="24.0" y="168.0" width="44.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="46.0" y="206.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#000000" text-anchor="middle">2</text>
+<line x1="46.0" y1="230.0" x2="46.0" y2="241.0" stroke="#000000" stroke-width="1.25"/><path d="M46.0 248.0 L50.0 241.0 L42.0 241.0 Z" fill="#000000"/>
+<rect x="68.0" y="248.0" width="456.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="80.0" y="273.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">構造</text>
+<text x="80.0" y="294.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">オークションの重複、広告の多さ、広告セットが週 50 件に届く単位か</text>
+<rect x="24.0" y="248.0" width="44.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="46.0" y="286.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#000000" text-anchor="middle">3</text>
+<line x1="46.0" y1="310.0" x2="46.0" y2="321.0" stroke="#000000" stroke-width="1.25"/><path d="M46.0 328.0 L50.0 321.0 L42.0 321.0 Z" fill="#000000"/>
+<rect x="68.0" y="328.0" width="456.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="80.0" y="353.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">品質</text>
+<text x="80.0" y="374.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">成績の悪い広告の関連度診断を 3 つの組み合わせで読む</text>
+<rect x="24.0" y="328.0" width="44.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="46.0" y="366.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#000000" text-anchor="middle">4</text>
+<line x1="46.0" y1="390.0" x2="46.0" y2="401.0" stroke="#000000" stroke-width="1.25"/><path d="M46.0 408.0 L50.0 401.0 L42.0 401.0 Z" fill="#000000"/>
+<rect x="68.0" y="408.0" width="456.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="80.0" y="433.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">入札</text>
+<text x="80.0" y="454.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">目標値・上限が厳しすぎないか</text>
+<rect x="24.0" y="408.0" width="44.0" height="62.0" fill="#C9F7DC" stroke="#000000" stroke-width="1.25"/>
+<text x="46.0" y="446.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#000000" text-anchor="middle">5</text>
+<line x1="46.0" y1="470.0" x2="46.0" y2="481.0" stroke="#000000" stroke-width="1.25"/><path d="M46.0 488.0 L50.0 481.0 L42.0 481.0 Z" fill="#000000"/>
+<rect x="68.0" y="488.0" width="456.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="80.0" y="513.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14.5" font-weight="700" fill="#000000" text-anchor="start">オーディエンスと配置</text>
+<text x="80.0" y="534.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">絞りすぎていないか、配置に合う素材があるか</text>
+<rect x="24.0" y="488.0" width="44.0" height="62.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="46.0" y="526.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#000000" text-anchor="middle">6</text>
+<text x="564.0" y="56.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">表示がほぼ 0 なら先にこちら</text>
+<text x="576.0" y="96.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">広告の中身の外で止まる</text>
+<rect x="576.0" y="108.0" width="248.0" height="30.5" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="583.0" y="128.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">二段階認証の未設定</text>
+<rect x="576.0" y="144.5" width="248.0" height="30.5" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="583.0" y="164.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">広告主の認証の未完了</text>
+<rect x="576.0" y="181.0" width="248.0" height="30.5" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="583.0" y="201.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">支払い</text>
+<rect x="576.0" y="217.5" width="248.0" height="30.5" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="583.0" y="237.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">不正アクセス</text>
+<rect x="576.0" y="254.0" width="248.0" height="30.5" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="583.0" y="274.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">違反ドメインへのリンク（60 日ブロック）</text>
+<rect x="576.0" y="290.5" width="248.0" height="30.5" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<text x="583.0" y="310.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">違反した資産とのつながり</text>
+<rect x="564.0" y="70.0" width="272.0" height="263.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<line x1="564.0" y1="92.0" x2="530.4" y2="107.1" stroke="#000000" stroke-width="1.25"/><path d="M524.0 110.0 L532.0 110.8 L528.7 103.5 Z" fill="#000000"/>
+<rect x="564.0" y="347.0" width="272.0" height="53.5" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="573.0" y="369.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">status（設定）と effective_status（実</text>
+<text x="573.0" y="388.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">際の配信）を見比べる</text>
+<rect x="24.0" y="580.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="590.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">入札（5）を疑う前に、構造（3）と品質（4）を見る。単価を下げる手は素材と LP</text>
+<text x="24.0" y="622.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 90 §7-2・§7-3 ／ 01 §13-1 ／ 34 §0 #10 ／ 2026-11-18 時点</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg viewBox="0 0 860 674" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m21t m21d" class="fig">
+<title id="m21t">M21 機械への入力口と効き先</title>
+<desc id="m21d">運用者が動かせるのは、候補を囲う制約、予測の材料になる素材と提案、入札と量を決める入札・予算、正解を教える目的・最適化イベント・計測で、それぞれ 1 回の表示の別の段に効く〔当てはめ〕。入札・予算は予測を良くしないので、予測を良くしたいときは素材と教える中身を直す。</desc>
+<rect width="860" height="674" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">〔当てはめ〕左は運用者の入力口（運用の型の類）、右は 1 回の表示で機械の中で起きること</text>
+<text x="712.0" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">公開後は変えられない</text><rect x="696.0" y="44.0" width="10.0" height="10.0" fill="#FFD6D6" stroke="#000000" stroke-width="0.75"/>
+<rect x="560.0" y="72.0" width="248.0" height="50.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="572.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#4D4D4D" text-anchor="start">① 表示の機会（人が見ている）</text>
+<line x1="590.0" y1="122.0" x2="590.0" y2="139.0" stroke="#000000" stroke-width="1.25"/><path d="M590.0 146.0 L594.0 139.0 L586.0 139.0 Z" fill="#000000"/>
+<rect x="560.0" y="146.0" width="248.0" height="50.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="572.0" y="176.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">② その人を対象に含む広告を集める</text>
+<line x1="590.0" y1="196.0" x2="590.0" y2="213.0" stroke="#000000" stroke-width="1.25"/><path d="M590.0 220.0 L594.0 213.0 L586.0 213.0 Z" fill="#000000"/>
+<rect x="560.0" y="220.0" width="248.0" height="50.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="572.0" y="250.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="400" fill="#4D4D4D" text-anchor="start">③ 候補を絞る（取り出し）</text>
+<line x1="590.0" y1="270.0" x2="590.0" y2="287.0" stroke="#000000" stroke-width="1.25"/><path d="M590.0 294.0 L594.0 287.0 L586.0 287.0 Z" fill="#000000"/>
+<rect x="560.0" y="294.0" width="248.0" height="50.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="572.0" y="324.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">④ 推定アクション率・品質を予測</text>
+<line x1="590.0" y1="344.0" x2="590.0" y2="361.0" stroke="#000000" stroke-width="1.25"/><path d="M590.0 368.0 L594.0 361.0 L586.0 361.0 Z" fill="#000000"/>
+<rect x="560.0" y="368.0" width="248.0" height="50.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="572.0" y="398.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">⑤ 総合価値が最も高い広告を出す</text>
+<line x1="590.0" y1="418.0" x2="590.0" y2="435.0" stroke="#000000" stroke-width="1.25"/><path d="M590.0 442.0 L594.0 435.0 L586.0 435.0 Z" fill="#000000"/>
+<rect x="560.0" y="442.0" width="248.0" height="50.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="572.0" y="472.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">⑥ 結果が次の予測の学習データに</text>
+<line x1="808.0" y1="467.0" x2="826.0" y2="467.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="826.0" y1="467.0" x2="826.0" y2="319.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="826.0" y1="319.0" x2="814.0" y2="319.0" stroke="#000000" stroke-width="1.25"/><path d="M808.0 319.0 L814.0 323.0 L814.0 315.0 Z" fill="#000000"/>
+<rect x="24.0" y="68.0" width="380.0" height="86.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="38.0" y="117.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">囲う</text>
+<rect x="106.0" y="78.0" width="236.5" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="118.0" y="97.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">制約（地域・最低年齢・言語・除外）</text><rect x="106.0" y="114.0" width="111.5" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="118.0" y="133.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">アカウント制御</text>
+<rect x="24.0" y="166.0" width="380.0" height="86.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="38.0" y="215.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">渡す</text>
+<rect x="106.0" y="176.0" width="149.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="118.0" y="195.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">素材・リンク先・名義</text><rect x="106.0" y="212.0" width="274.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="118.0" y="231.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">提案（年齢・性別・詳細ターゲット・類似）</text>
+<rect x="24.0" y="264.0" width="380.0" height="50.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="38.0" y="295.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">換える</text>
+<rect x="106.0" y="274.0" width="161.5" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="118.0" y="293.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">入札戦略・目標額・予算</text>
+<rect x="24.0" y="326.0" width="380.0" height="122.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="38.0" y="393.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">教える</text>
+<rect x="106.0" y="336.0" width="149.0" height="30.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/><text x="118.0" y="355.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">目的・最適化イベント</text><rect x="106.0" y="372.0" width="165.5" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/><text x="118.0" y="391.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">計測（ピクセル＋CAPI）</text><rect x="106.0" y="408.0" width="186.5" height="30.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/><text x="118.0" y="427.5" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">アトリビューションのモデル</text>
+<rect x="24.0" y="460.0" width="380.0" height="50.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25"/>
+<text x="38.0" y="491.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">束ねる</text>
+<text x="106.0" y="491.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">広告セットの数（分けると週 50 件が割れる）</text>
+<rect x="24.0" y="522.0" width="380.0" height="50.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="38.0" y="553.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">事業</text>
+<text x="106.0" y="553.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">オファー・価格・LP の中身（広告の外）</text>
+<line x1="404.0" y1="111.0" x2="456.0" y2="111.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="456.0" y1="111.0" x2="456.0" y2="171.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="456.0" y1="171.0" x2="553.0" y2="171.0" stroke="#000000" stroke-width="1.25"/><path d="M560.0 171.0 L553.0 167.0 L553.0 175.0 Z" fill="#000000"/>
+<text x="464.0" y="165.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">候補にする機会</text>
+<line x1="404.0" y1="209.0" x2="446.0" y2="209.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="446.0" y1="209.0" x2="446.0" y2="319.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="446.0" y1="319.0" x2="553.0" y2="319.0" stroke="#000000" stroke-width="1.25"/><path d="M560.0 319.0 L553.0 315.0 L553.0 323.0 Z" fill="#000000"/>
+<text x="454.0" y="313.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">予測の材料</text>
+<line x1="404.0" y1="289.0" x2="436.0" y2="289.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="436.0" y1="289.0" x2="436.0" y2="393.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="436.0" y1="393.0" x2="553.0" y2="393.0" stroke="#000000" stroke-width="1.25"/><path d="M560.0 393.0 L553.0 389.0 L553.0 397.0 Z" fill="#000000"/>
+<text x="444.0" y="387.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">入札と量</text>
+<line x1="404.0" y1="387.0" x2="426.0" y2="387.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="426.0" y1="387.0" x2="426.0" y2="459.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="426.0" y1="459.0" x2="553.0" y2="459.0" stroke="#000000" stroke-width="1.25"/><path d="M560.0 459.0 L553.0 455.0 L553.0 463.0 Z" fill="#000000"/>
+<text x="434.0" y="453.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">何を正解とするか</text>
+<line x1="404.0" y1="485.0" x2="416.0" y2="485.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="416.0" y1="485.0" x2="416.0" y2="475.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="416.0" y1="475.0" x2="553.0" y2="475.0" stroke="#000000" stroke-width="1.25"/><path d="M560.0 475.0 L553.0 471.0 L553.0 479.0 Z" fill="#000000"/>
+<text x="424.0" y="493.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">学習の単位</text>
+<rect x="24.0" y="598.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="608.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">入札・予算は ⑤ に効くが、④ の予測は良くしない。予測を良くするのは素材と、教える中身</text>
+<text x="42.0" y="632.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">提案は囲いではなく手がかり（外の人にも出る）。囲えるのは地域・最低年齢・言語・除外だけ</text>
+<text x="24.0" y="664.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 90 §3-1・§4-1〜§4-3 ／ 36 §1-3 ／ M-ターゲティング-001・002 ／ 2026-11-18 時点</text>
+</svg>

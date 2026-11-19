@@ -1,0 +1,75 @@
+<svg viewBox="0 0 860 570" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="x02t x02d" class="fig">
+<title id="x02t">X02 「学習」の意味の違い</title>
+<desc id="x02d">Google の「学習中」は最長 7 日で終わる時間の表示、Meta の情報収集期間は 1 週間で約 50 件に届くと抜ける件数の関門、LINEヤフーは学習中・学習完了・学習停止の表示と推奨件数（検索は設定後 1 か月以上で 30 件、ROAS 目標値は 50 件）、ChatGPT は公式に学習の記載が無い。比べるときは、何の単位（入札戦略・広告セット・キャンペーン）で何で終わるか（日数・件数・表示）をそろえてから読む。</desc>
+<rect width="860" height="570" fill="#FFFFFF"/>
+<text x="24.0" y="24.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">同じ「学習」でも、何で終わるかが違う</text>
+<rect x="24.0" y="40.0" width="150.0" height="104.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="174.0" y="40.0" width="662.0" height="104.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="72.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">Google</text>
+<text x="38.0" y="94.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">単位: 入札戦略</text>
+<text x="188.0" y="72.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">時間の表示</text>
+<rect x="400.0" y="64.0" width="420.0" height="26.0" fill="#E6E6E6"/>
+<line x1="400.0" y1="90.0" x2="400.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="400.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">0</text>
+<line x1="460.0" y1="90.0" x2="460.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="460.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">1</text>
+<line x1="520.0" y1="90.0" x2="520.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="520.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">2</text>
+<line x1="580.0" y1="90.0" x2="580.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="580.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">3</text>
+<line x1="640.0" y1="90.0" x2="640.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="640.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">4</text>
+<line x1="700.0" y1="90.0" x2="700.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="700.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">5</text>
+<line x1="760.0" y1="90.0" x2="760.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="760.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">6</text>
+<line x1="820.0" y1="90.0" x2="820.0" y2="96.0" stroke="#000000" stroke-width="1"/>
+<text x="820.0" y="112.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">7</text>
+<text x="410.0" y="82.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">「学習中」は最長 7 日</text>
+<text x="820.0" y="132.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="end">日</text>
+<rect x="24.0" y="144.0" width="150.0" height="104.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="174.0" y="144.0" width="662.0" height="104.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="176.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">Meta</text>
+<text x="38.0" y="198.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">単位: 広告セット</text>
+<text x="188.0" y="176.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">件数の関門</text>
+<rect x="400.0" y="168.0" width="420.0" height="26.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<rect x="400.0" y="168.0" width="350.0" height="26.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<line x1="750.0" y1="162.0" x2="750.0" y2="200.0" stroke="#000000" stroke-width="2"/>
+<rect x="745.0" y="154.0" width="10" height="10" fill="#19E76E"/>
+<text x="410.0" y="186.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">1 週間で約 50 件</text>
+<text x="400.0" y="216.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">0</text>
+<text x="575.0" y="216.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">25</text>
+<text x="750.0" y="216.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="middle">50</text>
+<text x="820.0" y="236.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="end">件 ／ 1 週間（日数ではない）</text>
+<rect x="24.0" y="248.0" width="150.0" height="168.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="174.0" y="248.0" width="662.0" height="168.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="280.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー</text>
+<text x="38.0" y="302.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">単位: キャンペーン</text>
+<text x="188.0" y="280.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">状態の表示と推奨件数</text>
+<rect x="400.0" y="272.0" width="132.0" height="30.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="466.0" y="292.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="middle">学習中</text>
+<line x1="532.0" y1="287.0" x2="539.0" y2="287.0" stroke="#000000" stroke-width="1.25"/><path d="M544.0 287.0 L539.0 283.0 L539.0 291.0 Z" fill="#000000"/>
+<rect x="544.0" y="272.0" width="132.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="610.0" y="292.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">学習完了</text>
+<rect x="688.0" y="272.0" width="132.0" height="30.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="754.0" y="292.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="middle">学習停止</text>
+<rect x="400.0" y="324.0" width="420.0" height="22.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1"/>
+<rect x="400.0" y="324.0" width="350.0" height="22.0" fill="#FFFFFF" stroke="#000000" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="400.0" y="324.0" width="210.0" height="22.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="408.0" y="340.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="700" fill="#000000" text-anchor="start">検索の推奨 30 件</text>
+<text x="744.0" y="340.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#000000" text-anchor="end">ROAS 目標値 50 件</text>
+<text x="820.0" y="364.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="end">件 ／ 設定後 1 か月以上</text>
+<text x="400.0" y="392.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#000000" text-anchor="start">ディスプレイは学習中が 7 日以上で見直し。検索の日数は</text>
+<text x="718.5" y="392.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<rect x="24.0" y="416.0" width="150.0" height="104.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<rect x="174.0" y="416.0" width="662.0" height="104.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="448.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="16" font-weight="700" fill="#000000" text-anchor="start">ChatGPT</text>
+<text x="38.0" y="470.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">単位:</text>
+<text x="72.8" y="470.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="188.0" y="448.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#B42318" text-anchor="start">公式に記載なし</text>
+<rect x="400.0" y="440.0" width="420.0" height="40.0" fill="#E6E6E6"/>
+<text x="412.0" y="465.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">学習の定義・表示・日数:</text>
+<text x="566.7" y="465.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<text x="400.0" y="504.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">書いてあるのは「立ち上げ・変更から 24 時間」の待ちの目安だけ</text>
+<text x="24.0" y="560.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: Google R-入札-081 ／ Meta M-学習-002 ／ LINEヤフー LY-学習-001・LY-入札-011 ほか ／ 2026-11-18 時点</text>
+</svg>

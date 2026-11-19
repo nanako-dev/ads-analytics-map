@@ -1,0 +1,119 @@
+<svg viewBox="0 0 860 940" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c08t c08d" class="fig">
+<title id="c08t">C08 日本で出せる業種</title>
+<desc id="c08d">ヘルスケア・金融・法律の主な区分を、米国と米国外（日本を含む）の 2 列で、可・選ばれた広告主だけ・不可に分けたマス。米国外で可は「医療・健康のソフトウェアとインフラ」と「金融ソフトウェア」だけ。法律サービスは米国外は不可。サプリ・生理用品・ウェアラブルはポリシーの本文と表の書き方が違う（△）。2026-11-18 時点。</desc>
+<rect width="860" height="940" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">ヘルプの国別の表（日本は「その他すべての国」＝米国外）</text>
+<rect x="24.0" y="44.0" width="18.0" height="18.0" fill="#C9F7DC" stroke="#909A8B" stroke-width="1"/>
+<text x="50.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="87.0" y="44.0" width="18.0" height="18.0" fill="#FFE7B8" stroke="#909A8B" stroke-width="1"/>
+<text x="113.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">選ばれた広告主だけ</text>
+<rect x="254.0" y="44.0" width="18.0" height="18.0" fill="#FFD6D6" stroke="#909A8B" stroke-width="1"/>
+<text x="280.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<text x="330.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">△ ポリシーの本文と書き方が違う</text>
+<rect x="24.0" y="78.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="444.0" y="78.0" width="196.0" height="40.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="104.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">米国</text>
+<rect x="640.0" y="78.0" width="196.0" height="40.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="104.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">米国外（日本を含む）</text>
+<rect x="24.0" y="118.0" width="812.0" height="34.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="141.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ヘルスケア</text>
+<rect x="24.0" y="152.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="178.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">医療・健康のソフトウェアとインフラ</text>
+<rect x="444.0" y="152.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="178.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="152.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="178.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">可</text>
+<rect x="24.0" y="192.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="218.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">消費者向けの医療機器・ウェアラブル・アプリ</text>
+<rect x="444.0" y="192.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="218.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="192.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="218.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<text x="824.0" y="218.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="end">△</text>
+<rect x="24.0" y="232.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="258.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">サプリメント</text>
+<rect x="444.0" y="232.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="258.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="232.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="258.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<text x="824.0" y="258.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="end">△</text>
+<rect x="24.0" y="272.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="298.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">月経・妊娠・出産・産後の製品（生理用品など）</text>
+<rect x="444.0" y="272.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="298.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="272.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="298.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<text x="824.0" y="298.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="end">△</text>
+<rect x="24.0" y="312.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="338.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">疾患啓発（政策を除く）／低侵襲の美容施術</text>
+<rect x="444.0" y="312.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="338.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="312.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="338.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="352.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">医療保険／病院・急患診療／医療検査・診断</text>
+<rect x="444.0" y="352.0" width="196.0" height="40.0" fill="#FFE7B8" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">選ばれた広告主だけ</text>
+<rect x="640.0" y="352.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="378.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="392.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="418.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">市販薬・妊娠検査薬／遠隔医療／処方薬・オンライン薬局</text>
+<rect x="444.0" y="392.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="418.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="640.0" y="392.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="418.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="432.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="458.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">医療処置・実験的治療／性の健康・成人向け／高リスクの製品</text>
+<rect x="444.0" y="432.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="458.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="640.0" y="432.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="458.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="472.0" width="812.0" height="34.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="495.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">金融</text>
+<rect x="24.0" y="506.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="532.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">金融ソフトウェア</text>
+<rect x="444.0" y="506.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="532.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="506.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="532.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">可</text>
+<rect x="24.0" y="546.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="572.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">預金口座／保険（医療保険を除く）／自動車ローン・リース</text>
+<rect x="444.0" y="546.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="572.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可</text>
+<rect x="640.0" y="546.0" width="196.0" height="40.0" fill="#FFE7B8" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="572.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">選ばれた広告主だけ</text>
+<rect x="24.0" y="586.0" width="420.0" height="60.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="612.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">クレジットカード／住宅ローン／投資・証券仲介・ロボアドバ</text>
+<text x="36.0" y="633.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">イザー</text>
+<rect x="444.0" y="586.0" width="196.0" height="60.0" fill="#FFE7B8" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="612.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">選ばれた広告主だけ</text>
+<rect x="640.0" y="586.0" width="196.0" height="60.0" fill="#FFE7B8" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="612.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">選ばれた広告主だけ</text>
+<rect x="24.0" y="646.0" width="420.0" height="60.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="672.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">個人向けローン／後払い決済／決済・送金／ファイナンシャル</text>
+<text x="36.0" y="693.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">プランニング／信用情報モニタリング／暗号資産</text>
+<rect x="444.0" y="646.0" width="196.0" height="60.0" fill="#FFE7B8" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="672.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">選ばれた広告主だけ</text>
+<rect x="640.0" y="646.0" width="196.0" height="60.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="672.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="706.0" width="420.0" height="60.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="732.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">信用情報の修復／債務救済／民間学生ローンの借り換え／給与</text>
+<text x="36.0" y="753.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">前払い／給料日を返済期限とする短期ローン</text>
+<rect x="444.0" y="706.0" width="196.0" height="60.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="732.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="640.0" y="706.0" width="196.0" height="60.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="732.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="766.0" width="812.0" height="34.0" fill="#F5F8F4" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="789.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">法律</text>
+<rect x="24.0" y="800.0" width="420.0" height="40.0" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<text x="36.0" y="826.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">法律サービス</text>
+<rect x="444.0" y="800.0" width="196.0" height="40.0" fill="#C9F7DC" stroke="#D9D9D9" stroke-width="1"/>
+<text x="456.0" y="826.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">可（米国の弁護士資格）</text>
+<rect x="640.0" y="800.0" width="196.0" height="40.0" fill="#FFD6D6" stroke="#D9D9D9" stroke-width="1"/>
+<text x="652.0" y="826.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">不可</text>
+<rect x="24.0" y="865.0" width="353.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="884.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">米国外で出せるのは、ソフトウェアの 2 区分だけ</text>
+<line x1="24.0" y1="904.0" x2="836.0" y2="904.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="924.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-ポリシー-003〜006 ／ help 20001534 ／ 94#19</text>
+</svg>

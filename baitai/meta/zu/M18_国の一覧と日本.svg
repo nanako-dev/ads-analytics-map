@@ -1,0 +1,54 @@
+<svg viewBox="0 0 860 524" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m18t m18d" class="fig">
+<title id="m18t">M18 「国の一覧」で日本はどちらか</title>
+<desc id="m18d">処方薬・金融の広告主の認証・オンラインギャンブル・アルコールの国の一覧に日本はどれも入っていないが、処方薬は許可の一覧なので日本向けは出せず、ほかは禁止・必須の一覧なので出せる形か要件なしになる。ギャンブルは一覧に無くても認証に合法の証拠が要り、アルコールは日本向けを 20 歳以上にする。</desc>
+<rect width="860" height="524" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">日本はどの一覧にも入っていない。でも一覧の意味が違うので、結果は逆になる</text>
+<text x="164.0" y="56.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">一覧（枠の中 ＝ 一覧に載る国）</text>
+<text x="604.0" y="56.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">日本向けでは</text>
+<text x="24.0" y="115.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">処方薬</text>
+<rect x="164.0" y="68.0" width="340.0" height="84.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="178.0" y="92.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">宣伝できる国（許可の一覧）</text>
+<text x="178.0" y="114.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">米国・カナダ・ニュージーランド</text>
+<rect x="520.0" y="92.0" width="64.0" height="36.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="552.0" y="116.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">日本</text>
+<line x1="584.0" y1="110.0" x2="597.0" y2="110.0" stroke="#000000" stroke-width="1.25"/><path d="M604.0 110.0 L597.0 106.0 L597.0 114.0 Z" fill="#000000"/>
+<rect x="604.0" y="68.0" width="232.0" height="84.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="616.0" y="106.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">日本向けは宣伝できない</text>
+<text x="616.0" y="128.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">テレヘルス全般の宣伝は別（△）</text>
+<text x="24.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">金融の</text>
+<text x="24.0" y="224.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">広告主の認証</text>
+<rect x="164.0" y="166.0" width="340.0" height="88.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="178.0" y="190.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">認証が必須の 10 地域</text>
+<text x="178.0" y="212.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">豪州・香港・インド・アイルランド・イスラエル・</text>
+<text x="178.0" y="230.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">スペイン・台湾・タイ・英国・米国</text>
+<rect x="520.0" y="192.0" width="64.0" height="36.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="552.0" y="216.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">日本</text>
+<line x1="584.0" y1="210.0" x2="597.0" y2="210.0" stroke="#000000" stroke-width="1.25"/><path d="M604.0 210.0 L597.0 206.0 L597.0 214.0 Z" fill="#000000"/>
+<rect x="604.0" y="166.0" width="232.0" height="88.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="616.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">今は認証の要件なし</text>
+<text x="616.0" y="228.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">ほかの理由で求められることはある</text>
+<text x="24.0" y="306.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">オンライン</text>
+<text x="24.0" y="324.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ギャンブル</text>
+<rect x="164.0" y="268.0" width="340.0" height="84.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="178.0" y="292.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">非対応市場の 19 の国・地域</text>
+<text x="178.0" y="314.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">香港・インド・韓国・台湾・シンガポール など</text>
+<rect x="520.0" y="292.0" width="64.0" height="36.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="552.0" y="316.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">日本</text>
+<line x1="584.0" y1="310.0" x2="597.0" y2="310.0" stroke="#000000" stroke-width="1.25"/><path d="M604.0 310.0 L597.0 306.0 L597.0 314.0 Z" fill="#000000"/>
+<rect x="604.0" y="268.0" width="232.0" height="84.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="616.0" y="306.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">Meta の上では出せる形</text>
+<text x="616.0" y="328.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">認証に合法の証拠が要る。法令は別</text>
+<text x="24.0" y="413.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">アルコール</text>
+<rect x="164.0" y="366.0" width="340.0" height="84.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="178.0" y="390.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">出せない 18 の国・地域</text>
+<text x="178.0" y="412.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">（国名はこの図では省く）</text>
+<rect x="520.0" y="390.0" width="64.0" height="36.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="552.0" y="414.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">日本</text>
+<line x1="584.0" y1="408.0" x2="597.0" y2="408.0" stroke="#000000" stroke-width="1.25"/><path d="M604.0 408.0 L597.0 404.0 L597.0 412.0 Z" fill="#000000"/>
+<rect x="604.0" y="366.0" width="232.0" height="84.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="616.0" y="404.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">出せる。日本向けは 20 歳以上</text>
+<text x="616.0" y="426.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">年齢の一覧には日本の名がある</text>
+<rect x="24.0" y="472.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="482.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">一覧に無いとき: 許可の一覧なら出せない。禁止の一覧なら出せる形、必須の一覧なら要件なし</text>
+<text x="24.0" y="514.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 31 §1-2 ／ ヘルプ 719892839342050 ／ 2026-11-18 時点</text>
+</svg>

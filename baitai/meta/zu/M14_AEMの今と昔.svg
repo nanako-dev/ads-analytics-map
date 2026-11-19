@@ -1,0 +1,49 @@
+<svg viewBox="0 0 860 562" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m14t m14d" class="fig">
+<title id="m14t">M14 AEM の今と昔</title>
+<desc id="m14d">ウェブの AEM では、8 件の優先順位付け・［合算イベント測定］タブ・計測のためのドメイン認証・コンバージョンドメインの選択がどれも不要になり、何もしなくてもイベントは AEM で処理される（変更の日付は記載なし）。「8 件を設定して」という古い手順書や開発者文書（△）は読み飛ばし、ドメイン認証はリンクの編集権限などほかの理由で続ける。</desc>
+<rect width="860" height="562" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">ウェブの AEM（合算イベント測定）で、以前は人がしていた設定</text>
+<text x="24.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">以前</text>
+<text x="514.0" y="58.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">今（2026-11-18 時点）</text>
+<rect x="24.0" y="74.0" width="420.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">8 件のイベントの優先順位をドメインごとに決める</text>
+<line x1="34.0" y1="97.0" x2="335.7" y2="97.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="444.0" y1="97.0" x2="507.0" y2="97.0" stroke="#000000" stroke-width="1.25"/><path d="M514.0 97.0 L507.0 93.0 L507.0 101.0 Z" fill="#000000"/>
+<rect x="514.0" y="74.0" width="322.0" height="46.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="526.0" y="102.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">不要</text>
+<rect x="24.0" y="130.0" width="420.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="158.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">イベントマネージャの［合算イベント測定］タブで設定</text>
+<line x1="34.0" y1="153.0" x2="363.0" y2="153.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="444.0" y1="153.0" x2="507.0" y2="153.0" stroke="#000000" stroke-width="1.25"/><path d="M514.0 153.0 L507.0 149.0 L507.0 157.0 Z" fill="#000000"/>
+<rect x="514.0" y="130.0" width="322.0" height="46.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="526.0" y="158.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">タブは削除</text>
+<rect x="24.0" y="186.0" width="420.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="214.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">イベント設定のためにドメインを認証する</text>
+<line x1="34.0" y1="209.0" x2="285.0" y2="209.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="444.0" y1="209.0" x2="507.0" y2="209.0" stroke="#000000" stroke-width="1.25"/><path d="M514.0 209.0 L507.0 205.0 L507.0 213.0 Z" fill="#000000"/>
+<rect x="514.0" y="186.0" width="322.0" height="46.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="526.0" y="206.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">計測のためには不要</text>
+<text x="526.0" y="224.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">ほかの理由では今も要る</text>
+<rect x="24.0" y="242.0" width="420.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="270.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">キャンペーン作成時にコンバージョンドメインを選ぶ</text>
+<line x1="34.0" y1="265.0" x2="350.0" y2="265.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="444.0" y1="265.0" x2="507.0" y2="265.0" stroke="#000000" stroke-width="1.25"/><path d="M514.0 265.0 L507.0 261.0 L507.0 269.0 Z" fill="#000000"/>
+<rect x="514.0" y="242.0" width="322.0" height="46.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="526.0" y="270.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">不要</text>
+<rect x="24.0" y="298.0" width="420.0" height="46.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="326.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">値の最適化のためにバリューセットをオンにする</text>
+<line x1="34.0" y1="321.0" x2="324.0" y2="321.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="444.0" y1="321.0" x2="507.0" y2="321.0" stroke="#000000" stroke-width="1.25"/><path d="M514.0 321.0 L507.0 317.0 L507.0 325.0 Z" fill="#000000"/>
+<rect x="514.0" y="298.0" width="322.0" height="46.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="526.0" y="326.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">不要</text>
+<line x1="484.0" y1="44.0" x2="484.0" y2="350.0" stroke="#000000" stroke-width="2"/>
+<text x="484.0" y="370.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="middle">変更の日付</text>
+<text x="484.0" y="388.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#B42318" text-anchor="middle">記載なし</text>
+<text x="518.0" y="388.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">（第三者は 2025 年と書く）</text>
+<rect x="24.0" y="414.0" width="812.0" height="50.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<rect x="38.0" y="434.0" width="10" height="10" fill="#19E76E"/>
+<text x="56.0" y="444.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">何もしなくても、イベントは AEM で処理される。CAPI で送ったイベントも AEM の制限に従う</text>
+<text x="24.0" y="494.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">△ 開発者文書は今も「8 つまで」「ドメインの認証を」と書く ― 古い記述。ヘルプ本文を正とする</text>
+<text x="24.0" y="518.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">アプリの AEM は別の決まり（売上・リード・エンゲージメントで使える。カスタムイベントは非対応）</text>
+<text x="24.0" y="552.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 721422165168355・245311299870862 ／ M-計測-007・023 ／ 06 §8-1 ／ 2026-11-18 時点</text>
+</svg>

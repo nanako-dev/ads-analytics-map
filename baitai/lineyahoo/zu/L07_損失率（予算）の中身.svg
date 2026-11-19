@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 456" role="img" aria-labelledby="L07-t L07-d">
+<title id="L07-t">損失率（予算）の中身: LINEヤフーと Google の違い</title>
+<desc id="L07-d">LINEヤフーの検索広告の損失率（予算）には、1 日の予算だけでなく、入札価格とアカウント残高による損失も入る。Google の損失率（予算）の定義は予算不足だけ。予算で損失が出た日、LINEヤフーの広告グループの損失率（ランク）は測られず 0.00 と出て、Google では広告グループのタブに出ない。予算を足す前に入札の制限と残高を確かめる。</desc>
+<defs><marker id="ah-L07" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="456.0" fill="#FFFFFF"/>
+<rect x="24.0" y="24.0" width="390.0" height="36.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="48.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINEヤフー 検索広告</text>
+<rect x="446.0" y="24.0" width="390.0" height="36.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="458.0" y="48.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Google 検索広告</text>
+<text x="24.0" y="90.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">損失率（予算）に入る原因</text>
+<rect x="24.0" y="102.0" width="390.0" height="42.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="129.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">1 日の予算</text>
+<rect x="24.0" y="152.0" width="390.0" height="42.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="179.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">入札価格</text>
+<rect x="388.0" y="169.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<rect x="24.0" y="202.0" width="390.0" height="42.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="229.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">アカウント残高</text>
+<rect x="388.0" y="219.0" width="10.0" height="10.0" fill="#FFA9FD"/>
+<rect x="446.0" y="102.0" width="390.0" height="42.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="460.0" y="129.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">予算不足</text>
+<rect x="446.0" y="152.0" width="390.0" height="92.0" fill="none" stroke="#D9D9D9" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="641.0" y="203.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="middle">定義に無い（印の 2 つ）</text>
+<line x1="24.0" y1="270.0" x2="836.0" y2="270.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="292.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">予算で損失が出た日の、広告グループの損失率（ランク）</text>
+<rect x="24.0" y="304.0" width="390.0" height="64.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="348.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="30" font-weight="700" fill="#000000" text-anchor="start">0.00</text>
+<text x="154.0" y="342.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">測られず 0.00 と出る</text>
+<rect x="446.0" y="304.0" width="390.0" height="64.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="460.0" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="22" font-weight="700" fill="#000000" text-anchor="start">出ない</text>
+<text x="576.0" y="342.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#4D4D4D" text-anchor="start">タブに表示されない</text>
+<rect x="24.0" y="403.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="412.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">予算を足す前に、入札の上限・下限の制限と残高を見る</text>
+<text x="24.0" y="442.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: LY-API-020・021 ／ 36 §1 ／ Google 01 §6-1</text>
+</svg>

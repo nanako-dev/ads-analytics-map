@@ -1,0 +1,76 @@
+<svg viewBox="0 0 860 732" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="c10t c10d" class="fig">
+<title id="c10t">C10 文脈ヒントとキーワードの違い</title>
+<desc id="c10d">広告が出るまでの 2 つの流れの模式図。Google の検索広告は、利用者が検索した語句をキーワード（マッチタイプ、完全一致など）と照合し、一致すれば候補になる。ChatGPT の広告はキーワードが無く、会話の流れをシステムが要約して意図を読み、LP・タイトル・本文・文脈ヒントを材料に、関連性と成果の見込みで選ぶ。特定の会話での配信は保証しない。文脈ヒントは広告グループごとに最大 2,000。公式の例では「靴」より「岩場向けの軽いトレイル ランニング シューズ」が役立つ。地域の制限・配信の時間帯・除外の条件はヒントに書いても効かない。2026-11-18 時点。</desc>
+<rect width="860" height="732" fill="#FFFFFF"/>
+<text x="836.0" y="28.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="500" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="28.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">広告が出るまで（模式図）</text>
+<text x="24.0" y="64.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">Google の検索広告</text>
+<rect x="24.0" y="80.0" width="244.0" height="58.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="106.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">利用者が検索した語句</text>
+<text x="36.0" y="126.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">例: 機内持ち込み スーツケース</text>
+<rect x="308.0" y="80.0" width="244.0" height="58.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="320.0" y="106.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">キーワードと照合</text>
+<text x="320.0" y="126.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">マッチタイプ（完全一致 など）</text>
+<polyline points="268.0,109.0 302.0,109.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M308.0 109.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="592.0" y="80.0" width="244.0" height="58.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="604.0" y="106.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">一致すれば広告の候補に</text>
+<polyline points="552.0,109.0 586.0,109.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M592.0 109.0 l-7 -4 v8 z" fill="#000000"/>
+<line x1="24.0" y1="158.0" x2="836.0" y2="158.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="190.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ChatGPT の広告</text>
+<rect x="155.7" y="174.0" width="118.0" height="23.0" fill="#FFA9FD"/>
+<text x="162.7" y="190.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">キーワードは無い</text>
+<rect x="24.0" y="206.0" width="173.0" height="76.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="36.0" y="232.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">会話の流れ</text>
+<text x="36.0" y="252.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">1 問でなく、やり取り全体</text>
+<rect x="237.0" y="206.0" width="173.0" height="76.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="249.0" y="232.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">会話を要約し意図を読</text>
+<text x="249.0" y="253.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">む</text>
+<polyline points="197.0,244.0 231.0,244.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M237.0 244.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="450.0" y="206.0" width="173.0" height="76.0" fill="#C9F7DC" stroke="#000000" stroke-width="1.5"/>
+<text x="462.0" y="232.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">関連性と成果の見込み</text>
+<text x="462.0" y="253.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">で選ぶ</text>
+<polyline points="410.0,244.0 444.0,244.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M450.0 244.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="663.0" y="206.0" width="173.0" height="76.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="675.0" y="232.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">出るとは限らない</text>
+<text x="675.0" y="252.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">特定の会話での配信は保証</text>
+<text x="675.0" y="270.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">しない</text>
+<polyline points="623.0,244.0 657.0,244.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M663.0 244.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="237.0" y="316.0" width="599.0" height="86.0" fill="#F5F8F4" stroke="#909A8B" stroke-width="1"/>
+<text x="249.0" y="340.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="600" fill="#4D4D4D" text-anchor="start">関連性の材料</text>
+<rect x="249.0" y="354.0" width="44.2" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="261.0" y="376.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">LP</text>
+<rect x="303.2" y="354.0" width="122.0" height="34.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="315.2" y="376.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">タイトル・本文</text>
+<rect x="435.2" y="354.0" width="318.0" height="34.0" fill="#C9F7DC" stroke="#000000" stroke-width="1"/>
+<text x="447.2" y="376.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">文脈ヒント（広告グループごと・最大 2,000）</text>
+<polyline points="536.5,316.0 536.5,288.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M536.5 282.0 l-4 7 h8 z" fill="#000000"/>
+<text x="24.0" y="456.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">文脈ヒントの書き方（公式の例）</text>
+<rect x="24.0" y="472.0" width="43.0" height="38.0" fill="#FFFFFF" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="38.0" y="497.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="500" fill="#676E64" text-anchor="start">靴</text>
+<text x="24.0" y="530.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">あまり役立たない</text>
+<polyline points="77.0,491.0 151.0,491.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M157.0 491.0 l-7 -4 v8 z" fill="#000000"/>
+<rect x="167.0" y="472.0" width="337.0" height="38.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="181.0" y="497.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="600" fill="#000000" text-anchor="start">岩場向けの軽いトレイル ランニング シューズ</text>
+<text x="167.0" y="530.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">より役立つ（何を・誰に・いつ を 1 つの考えで）</text>
+<text x="24.0" y="574.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ヒントに書いても効かない</text>
+<rect x="24.0" y="590.0" width="98.0" height="36.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="38.0" y="614.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">地域の制限</text>
+<rect x="132.0" y="590.0" width="112.0" height="36.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="146.0" y="614.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">配信の時間帯</text>
+<rect x="254.0" y="590.0" width="98.0" height="36.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="268.0" y="614.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="500" fill="#000000" text-anchor="start">除外の条件</text>
+<polyline points="366.0,608.0 406.0,608.0" fill="none" stroke="#000000" stroke-width="1.25"/>
+<path d="M412.0 608.0 l-7 -4 v8 z" fill="#000000"/>
+<text x="422.0" y="614.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="600" fill="#000000" text-anchor="start">地域・端末・オーディエンスの指定で（C11）</text>
+<rect x="24.0" y="657.0" width="380.0" height="28.0" fill="#C9F7DC"/>
+<text x="34.0" y="676.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ヒントは照合する語ではなく、関連性を判断する材料</text>
+<line x1="24.0" y1="696.0" x2="836.0" y2="696.0" stroke="#D9D9D9" stroke-width="1"/>
+<text x="24.0" y="716.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="start">出典: C-ターゲティング-001〜003 ／ help 20001521・20001207 ／ 94#21</text>
+</svg>

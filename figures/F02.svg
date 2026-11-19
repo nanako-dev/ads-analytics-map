@@ -1,0 +1,46 @@
+<svg viewBox="0 0 860 346" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="f02t f02d" class="fig">
+<title id="f02t">F02 変更から判定までの日数</title>
+<desc id="f02d">サイクル 当日〜1 日（その場で申し込む商材） では W 14 日 ＋ L 5 日 ＝ 19 日。サイクル 5 日 では W 14 日 ＋ L 10 日 ＝ 24 日。サイクル 10 日 では W 21 日 ＋ L 20 日 ＝ 41 日。サイクル 20 日 では W 42 日 ＋ L 40 日 ＝ 82 日。サイクル 45 日 では W 91 日 ＋ L 90 日 ＝ 約 6 か月。</desc>
+<rect width="860" height="346" fill="#FFFFFF"/>
+<text x="24" y="30" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="500" fill="#4D4D4D" text-anchor="start">サイクル C（クリックから成果まで）</text>
+<rect x="220" y="20" width="12" height="12" fill="#19E76E" stroke="#000"/>
+<text x="238" y="30" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">評価窓 W（学習の揺れと曜日を抜く）</text>
+<rect x="482" y="20" width="12" height="12" fill="#F5F8F4" stroke="#000" stroke-dasharray="2 2"/>
+<text x="500" y="30" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">確定待ち L（遅れて届く成果を待つ）</text>
+<line x1="220.0" y1="58" x2="220.0" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="220.0" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">0日</text>
+<line x1="306.9" y1="58" x2="306.9" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="306.9" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">30日</text>
+<line x1="393.7" y1="58" x2="393.7" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="393.7" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">60日</text>
+<line x1="480.6" y1="58" x2="480.6" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="480.6" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">90日</text>
+<line x1="567.4" y1="58" x2="567.4" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="567.4" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">120日</text>
+<line x1="654.3" y1="58" x2="654.3" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="654.3" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">150日</text>
+<line x1="741.1" y1="58" x2="741.1" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="741.1" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">180日</text>
+<line x1="828.0" y1="58" x2="828.0" y2="290" stroke="#D9D9D9" stroke-dasharray="4 4"/>
+<text x="828.0" y="308" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11" font-weight="400" fill="#676E64" text-anchor="middle">210日</text>
+<text x="24" y="89" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">当日〜1 日（その場で申し込む…</text>
+<rect x="220" y="74" width="40.5" height="20" fill="#19E76E" stroke="#000"/>
+<rect x="261.5" y="74" width="14.5" height="20" fill="#F5F8F4" stroke="#000" stroke-dasharray="3 3"/>
+<text x="283.0" y="88.5" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="600" fill="#000000" text-anchor="start">14 ＋ 5 ＝ 19 日</text>
+<text x="24" y="133" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">5 日</text>
+<rect x="220" y="118" width="40.5" height="20" fill="#19E76E" stroke="#000"/>
+<rect x="261.5" y="118" width="29.0" height="20" fill="#F5F8F4" stroke="#000" stroke-dasharray="3 3"/>
+<text x="297.5" y="132.5" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="600" fill="#000000" text-anchor="start">14 ＋ 10 ＝ 24 日</text>
+<text x="24" y="177" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">10 日</text>
+<rect x="220" y="162" width="60.8" height="20" fill="#19E76E" stroke="#000"/>
+<rect x="281.8" y="162" width="57.9" height="20" fill="#F5F8F4" stroke="#000" stroke-dasharray="3 3"/>
+<text x="346.7" y="176.5" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="600" fill="#000000" text-anchor="start">21 ＋ 20 ＝ 41 日</text>
+<text x="24" y="221" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">20 日</text>
+<rect x="220" y="206" width="121.6" height="20" fill="#19E76E" stroke="#000"/>
+<rect x="342.6" y="206" width="115.8" height="20" fill="#F5F8F4" stroke="#000" stroke-dasharray="3 3"/>
+<text x="465.4" y="220.5" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="600" fill="#000000" text-anchor="start">42 ＋ 40 ＝ 82 日</text>
+<text x="24" y="265" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#000000" text-anchor="start">45 日</text>
+<rect x="220" y="250" width="263.5" height="20" fill="#19E76E" stroke="#000"/>
+<rect x="484.5" y="250" width="260.6" height="20" fill="#F5F8F4" stroke="#000" stroke-dasharray="3 3"/>
+<text x="228" y="264.5" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="600" fill="#000000" text-anchor="start">91 ＋ 90 ＝ 約 6 か月</text>
+</svg>

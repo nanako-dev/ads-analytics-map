@@ -1,0 +1,69 @@
+<svg viewBox="0 0 860 531" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m16t m16d" class="fig">
+<title id="m16t">M16 効果測定の手段の選び方</title>
+<desc id="m16d">「どちらが良いか」は A/B テスト（誰でも使える、1〜30 日、信頼性 65%）、「何件増えたか」はコンバージョンリフト、「認知が上がったか」はブランドリフトで、後の 2 つは予算と件数の条件に届くかで分かれる。少額のアカウントは A/B テストだけが届く前提で、増分は推定の列や止める実験で代える。</desc>
+<rect width="860" height="531" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">道具は問いで決まる。［テスト］ツールの 3 種類はどれも作成に追加費用なし</text>
+<rect x="260.0" y="42.0" width="340.0" height="44.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<text x="430.0" y="68.2" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="middle">何を知りたいか</text>
+<line x1="430.0" y1="86.0" x2="430.0" y2="104.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="154.0" y1="104.0" x2="706.0" y2="104.0" stroke="#000000" stroke-width="1.25"/>
+<line x1="154.0" y1="104.0" x2="154.0" y2="119.0" stroke="#000000" stroke-width="1.25"/><path d="M154.0 126.0 L158.0 119.0 L150.0 119.0 Z" fill="#000000"/>
+<rect x="24.0" y="126.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="154.0" y="149.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">A と B のどちらが良いか</text>
+<line x1="430.0" y1="104.0" x2="430.0" y2="119.0" stroke="#000000" stroke-width="1.25"/><path d="M430.0 126.0 L434.0 119.0 L426.0 119.0 Z" fill="#000000"/>
+<rect x="300.0" y="126.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="430.0" y="149.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">広告で何件増えたか</text>
+<line x1="706.0" y1="104.0" x2="706.0" y2="119.0" stroke="#000000" stroke-width="1.25"/><path d="M706.0 126.0 L710.0 119.0 L702.0 119.0 Z" fill="#000000"/>
+<rect x="576.0" y="126.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="706.0" y="149.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">認知が上がったか</text>
+<line x1="154.0" y1="166.0" x2="154.0" y2="181.0" stroke="#000000" stroke-width="1.25"/><path d="M154.0 188.0 L158.0 181.0 L150.0 181.0 Z" fill="#000000"/>
+<rect x="24.0" y="188.0" width="260.0" height="236.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="36.0" y="214.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">A/B テスト</text>
+<text x="36.0" y="234.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#4D4D4D" text-anchor="start">すべての広告主が使える</text>
+<rect x="36.0" y="248.0" width="236.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="267.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">期間 1〜30 日（7 日以上を推奨）</text>
+<rect x="36.0" y="286.0" width="236.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="305.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">信頼性 65% 以上で「信頼できる」</text>
+<rect x="36.0" y="324.0" width="236.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="343.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">最大 5 つのバージョン</text>
+<rect x="36.0" y="362.0" width="236.0" height="30.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="46.0" y="381.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">変えるのは 1 つの変数だけ</text>
+<line x1="430.0" y1="166.0" x2="430.0" y2="181.0" stroke="#000000" stroke-width="1.25"/><path d="M430.0 188.0 L434.0 181.0 L426.0 181.0 Z" fill="#000000"/>
+<rect x="300.0" y="188.0" width="260.0" height="95.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="312.0" y="210.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">条件に届くか（目安）</text>
+<text x="312.0" y="230.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">過去 1 年に開始したキャンペーンで</text>
+<text x="312.0" y="249.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">消化 5,000 米ドル以上・500 件以上</text>
+<text x="312.0" y="268.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">＋ CAPI で EMQ 5 超 など</text>
+<line x1="330.0" y1="283.0" x2="330.0" y2="298.0" stroke="#000000" stroke-width="1.25"/><path d="M330.0 305.0 L334.0 298.0 L326.0 298.0 Z" fill="#000000"/>
+<text x="340.0" y="299.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">届く</text>
+<rect x="300.0" y="305.0" width="190.0" height="52.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="312.0" y="327.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">コンバージョンリフト</text>
+<text x="312.0" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">信頼性 90% 以上</text>
+<line x1="530.0" y1="283.0" x2="530.0" y2="361.0" stroke="#000000" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="520.0" y="299.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">届かない</text>
+<line x1="530.0" y1="361.0" x2="530.0" y2="372.0" stroke="#000000" stroke-width="1.25"/><path d="M530.0 379.0 L534.0 372.0 L526.0 372.0 Z" fill="#000000"/>
+<rect x="300.0" y="379.0" width="260.0" height="74.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="312.0" y="401.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">増分の結果の列（推定）</text>
+<text x="312.0" y="419.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">止める実験（7 日未満〔推測〕）</text>
+<text x="312.0" y="437.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">GeoLift</text>
+<line x1="706.0" y1="166.0" x2="706.0" y2="181.0" stroke="#000000" stroke-width="1.25"/><path d="M706.0 188.0 L710.0 181.0 L702.0 181.0 Z" fill="#000000"/>
+<rect x="576.0" y="188.0" width="260.0" height="95.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="588.0" y="210.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13.5" font-weight="700" fill="#000000" text-anchor="start">最小予算に届くか</text>
+<text x="588.0" y="230.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">日本 44,000 米ドル（2026-09-15 現在）</text>
+<text x="588.0" y="249.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">△ 概要の表は「過去 90 日に</text>
+<text x="588.0" y="268.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">120,000 米ドル以上」</text>
+<line x1="606.0" y1="283.0" x2="606.0" y2="298.0" stroke="#000000" stroke-width="1.25"/><path d="M606.0 305.0 L610.0 298.0 L602.0 298.0 Z" fill="#000000"/>
+<text x="616.0" y="299.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="start">届く</text>
+<rect x="576.0" y="305.0" width="190.0" height="52.0" fill="#F5F8F4" stroke="#000000" stroke-width="1.5"/>
+<text x="588.0" y="327.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">ブランドリフト</text>
+<text x="588.0" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">アンケートで差を測る</text>
+<line x1="806.0" y1="283.0" x2="806.0" y2="361.0" stroke="#000000" stroke-width="1.25" stroke-dasharray="4 3"/>
+<text x="796.0" y="299.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="700" fill="#000000" text-anchor="end">届かない</text>
+<line x1="806.0" y1="361.0" x2="806.0" y2="372.0" stroke="#000000" stroke-width="1.25"/><path d="M806.0 379.0 L810.0 372.0 L802.0 372.0 Z" fill="#000000"/>
+<rect x="576.0" y="379.0" width="260.0" height="56.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="588.0" y="401.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">推定広告想起リフトの単価で</text>
+<text x="588.0" y="419.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12.5" font-weight="400" fill="#000000" text-anchor="start">比べる（推定の指標）</text>
+<rect x="24.0" y="479.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="489.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">A/B テストは A も B も広告を出すので、「どちらが良いか」だけに答え、「増えたか」には答えない</text>
+<text x="24.0" y="521.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: 26 §2・§4〜§6 ／ ヘルプ 1915029282150425・221353413010930 ／ M-効果測定-001〜015 ／ 2026-11-18 時点</text>
+</svg>

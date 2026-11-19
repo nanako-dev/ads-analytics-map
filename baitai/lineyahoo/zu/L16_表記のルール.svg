@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 612" role="img" aria-labelledby="L16-t L16-d">
+<title id="L16-t">広告文の表記のルール（LINEヤフー）</title>
+<desc id="L16-d">広告文の模式で、文面はすべて例。検索広告のタイトルの例「快適！便利！安心！しかも低コスト？」は、！と？が同じ種類として 4 つあり、同じ種類の記号はタイトル・説明文それぞれ 2 つまでなので落ちる。説明文の例は【】が 2 組あり、検索広告の括弧はタイトル・説明文それぞれ 1 組まで。No.1 を書くなら、第三者の出典・調査機関名・調査年を広告の中に書き、データは直近 1 年以内にする。LP に根拠があるだけでは足りない。医療の広告は根拠があっても No.1・最上級は書けない。</desc>
+<defs><marker id="ah-L16" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="612.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="22.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">広告文の模式（文面はすべて例）</text>
+<text x="24.0" y="50.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#4D4D4D" text-anchor="start">検索広告（例）</text>
+<rect x="24.0" y="60.0" width="486.0" height="124.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="38.0" y="74.0" width="34.0" height="18.0" fill="none" stroke="#000000" stroke-width="1"/>
+<text x="55.0" y="88.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#000000" text-anchor="middle">広告</text>
+<text x="80.0" y="88.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">www.example.jp</text>
+<rect x="73.0" y="105.0" width="20.0" height="23.0" fill="#FFD6D6"/>
+<rect x="127.0" y="105.0" width="20.0" height="23.0" fill="#FFD6D6"/>
+<rect x="181.0" y="105.0" width="20.0" height="23.0" fill="#FFD6D6"/>
+<rect x="325.0" y="105.0" width="20.0" height="23.0" fill="#FFD6D6"/>
+<text x="38.0" y="122.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="18" font-weight="700" fill="#000000" text-anchor="start">快適！便利！安心！しかも低コスト？</text>
+<line x1="514.0" y1="117.0" x2="524.0" y2="117.0" stroke="#909A8B" stroke-width="1"/>
+<text x="532.0" y="122.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">！と？は同じ種類 → 4 つ</text>
+<text x="532.0" y="143.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">タイトル・説明文それぞれ 2 つまで</text>
+<rect x="37.0" y="146.0" width="17.0" height="20.0" fill="#FFE7B8"/>
+<rect x="82.0" y="146.0" width="17.0" height="20.0" fill="#FFE7B8"/>
+<rect x="187.0" y="146.0" width="17.0" height="20.0" fill="#FFE7B8"/>
+<rect x="262.0" y="146.0" width="17.0" height="20.0" fill="#FFE7B8"/>
+<text x="38.0" y="160.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="400" fill="#000000" text-anchor="start">【公式】人気の新色を【送料無料】でお届け。</text>
+<line x1="514.0" y1="189.0" x2="524.0" y2="189.0" stroke="#909A8B" stroke-width="1"/>
+<text x="532.0" y="194.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">括弧が 2 組</text>
+<text x="532.0" y="215.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">検索はタイトル・説明文それぞれ 1 組まで</text>
+<text x="24.0" y="244.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#4D4D4D" text-anchor="start">画像の広告（例）</text>
+<rect x="24.0" y="254.0" width="486.0" height="120.0" fill="#F5F8F4" stroke="#000000" stroke-width="1"/>
+<text x="48.0" y="312.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="30" font-weight="700" fill="#000000" text-anchor="start">顧客満足度 No.1</text>
+<rect x="42.0" y="334.0" width="450.0" height="26.0" fill="#C9F7DC"/>
+<text x="50.0" y="352.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">※ 出典: 調査機関名・調査年（第三者の調査）</text>
+<line x1="514.0" y1="341.0" x2="524.0" y2="341.0" stroke="#909A8B" stroke-width="1"/>
+<text x="532.0" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">根拠は広告の中に書く</text>
+<text x="532.0" y="367.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">第三者の出典・調査機関名・調査年</text>
+<text x="532.0" y="387.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">データは直近 1 年以内（LP だけでは不可）</text>
+<text x="24.0" y="434.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#4D4D4D" text-anchor="start">医療の広告（例）</text>
+<rect x="24.0" y="444.0" width="486.0" height="84.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="48.0" y="496.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#000000" text-anchor="start">地域 No.1 のクリニック</text>
+<line x1="40.0" y1="456.0" x2="494.0" y2="516.0" stroke="#B42318" stroke-width="1.5"/>
+<line x1="40.0" y1="516.0" x2="494.0" y2="456.0" stroke="#B42318" stroke-width="1.5"/>
+<line x1="514.0" y1="479.0" x2="524.0" y2="479.0" stroke="#909A8B" stroke-width="1"/>
+<text x="532.0" y="484.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="start">医療は根拠があっても不可</text>
+<text x="532.0" y="505.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">No.1・最上級（「日本有数」なども）</text>
+<rect x="24.0" y="559.0" width="10.0" height="10.0" fill="#FFA9FD"/><text x="42.0" y="568.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">Google で通った広告文をそのまま移すと、記号の数で落ちる</text>
+<text x="24.0" y="598.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: LY-広告-004 ／ LY-ポリシー-035・036 ／ 34 §3-1</text>
+</svg>

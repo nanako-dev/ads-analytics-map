@@ -1,0 +1,56 @@
+<svg viewBox="0 0 860 446" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="m04t m04d" class="fig">
+<title id="m04t">M04 編集の 3 区分</title>
+<desc id="m04d">クリエイティブの差し替えや広告を 1 本足すだけでも、その広告セットは情報収集期間に入り直す（Google の「学習中」はこれらでは出ない）。予算・目標の金額は変更の大きさしだいで線は公式に無いので、変更は日を決めてまとめて行い、止めるなら 7 日未満にする。</desc>
+<rect width="860" height="446" fill="#FFFFFF"/>
+<text x="24.0" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="500" fill="#4D4D4D" text-anchor="start">広告セットの編集で、情報収集期間をやり直すか</text>
+<text x="642.4" y="26.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="12" font-weight="400" fill="#4D4D4D" text-anchor="start">Google の「学習中」は出ない変更</text><rect x="626.4" y="16.0" width="10" height="10" fill="#FFA9FD"/>
+<rect x="24.0" y="40.0" width="260.0" height="46.0" fill="#FFD6D6" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="69.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">必ず入り直す</text>
+<rect x="300.0" y="40.0" width="260.0" height="46.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="314.0" y="69.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">変更の度合いしだい</text>
+<rect x="576.0" y="40.0" width="260.0" height="46.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="590.0" y="69.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ほかの広告セットは入り直さない</text>
+<rect x="24.0" y="86.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="38.0" y="101.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="54.0" y="111.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">ターゲット</text>
+<rect x="24.0" y="126.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="38.0" y="141.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="54.0" y="151.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">クリエイティブ</text>
+<rect x="24.0" y="166.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="191.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">最適化イベント</text>
+<rect x="24.0" y="206.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="38.0" y="221.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="54.0" y="231.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">新しい広告の追加</text>
+<rect x="24.0" y="246.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="271.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">7 日以上の停止</text>
+<rect x="24.0" y="286.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="311.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">入札戦略</text>
+<rect x="24.0" y="326.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="38.0" y="351.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">政治の広告の免責事項</text>
+<rect x="300.0" y="86.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="314.0" y="101.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="330.0" y="111.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">予算額</text>
+<rect x="300.0" y="126.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="314.0" y="151.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">広告セットの上限予算</text>
+<rect x="300.0" y="166.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<rect x="314.0" y="181.0" width="10" height="10" fill="#FFA9FD"/>
+<text x="330.0" y="191.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">目標の金額（単価・ROAS）</text>
+<rect x="576.0" y="86.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="590.0" y="111.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">キャンペーン予算の配分</text>
+<rect x="576.0" y="126.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="590.0" y="151.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">広告セットの追加</text>
+<rect x="576.0" y="166.0" width="260.0" height="40.0" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+<text x="590.0" y="191.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="14" font-weight="400" fill="#000000" text-anchor="start">別の広告セットだけの編集</text>
+<text x="300.0" y="232.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">ヘルプの例</text>
+<rect x="300.0" y="250.0" width="25.6" height="14.0" fill="#909A8B"/>
+<rect x="325.6" y="250.0" width="1.5" height="14.0" fill="#E6E6E6" stroke="#000000" stroke-width="1"/>
+<text x="300.0" y="282.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">$100 → $101  ほぼ入らない</text>
+<rect x="300.0" y="290.0" width="25.6" height="14.0" fill="#909A8B"/>
+<rect x="325.6" y="290.0" width="230.4" height="14.0" fill="#FFE7B8" stroke="#000000" stroke-width="1"/>
+<text x="300.0" y="322.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">$100 → $1,000  入る可能性が高い</text>
+<text x="300.0" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">何 % からか:</text>
+<text x="379.6" y="346.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#B42318" text-anchor="start">記載なし</text>
+<rect x="24.0" y="390.0" width="10" height="10" fill="#19E76E"/>
+<text x="42.0" y="400.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">変更はまとめて 1 回で。7 日未満の停止は一覧に無い</text>
+<text x="24.0" y="436.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: ヘルプ 316478108955072 ／ M-学習-008〜016 ／ Google R-入札-081 ／ 2026-11-18 時点</text>
+</svg>

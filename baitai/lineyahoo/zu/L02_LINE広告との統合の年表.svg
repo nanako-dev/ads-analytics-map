@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 735" role="img" aria-labelledby="L02-t L02-d">
+<title id="L02-t">LINE 広告との統合の年表（2026-11-18 時点）</title>
+<desc id="L02-d">2025-09-25 に統合を発表。2026-04-01 に統合と掲載基準の統一。2026-06-30 に LINE 広告の新規アカウント作成を終了。2026-10-26 に LINE 広告の日本向け配信を停止し、管理画面は読み取り専用に。2027-01-13 にディスプレイの一部レポートが終わる予定。2027 年 3 月末頃に LINE 広告が完全に終わる予定。縦の軸は日付に比例する。</desc>
+<defs><marker id="ah-L02" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000000"/></marker></defs>
+<rect x="0.0" y="0.0" width="860.0" height="735.0" fill="#FFFFFF"/>
+<text x="836.0" y="22.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-11-18 時点</text>
+<text x="24.0" y="30.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#4D4D4D" text-anchor="start">帯の色 = 旧 LINE 広告の状態</text>
+<rect x="24.0" y="42.0" width="14.0" height="14.0" fill="#E6E6E6" stroke="#909A8B" stroke-width="1"/>
+<text x="44.0" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">統合の前</text>
+<rect x="120.0" y="42.0" width="14.0" height="14.0" fill="#FFE7B8" stroke="#909A8B" stroke-width="1"/>
+<text x="140.0" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">LINE 広告も配信</text>
+<rect x="264.4" y="42.0" width="14.0" height="14.0" fill="#FFD6D6" stroke="#909A8B" stroke-width="1"/>
+<text x="284.4" y="54.0" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">LINE 広告は読み取り専用</text>
+<rect x="128.0" y="92.0" width="16.0" height="208.9" fill="#E6E6E6"/>
+<rect x="128.0" y="300.9" width="16.0" height="205.0" fill="#FFE7B8"/>
+<rect x="128.0" y="505.9" width="16.0" height="153.7" fill="#FFD6D6"/>
+<rect x="128.0" y="92.0" width="16.0" height="597.2" fill="none" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="121.6" x2="128.0" y2="121.6" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="125.6" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2025-10</text>
+<line x1="124.0" y1="152.1" x2="128.0" y2="152.1" stroke="#909A8B" stroke-width="1"/>
+<line x1="124.0" y1="181.7" x2="128.0" y2="181.7" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="212.2" x2="128.0" y2="212.2" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="216.2" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-01</text>
+<line x1="124.0" y1="242.8" x2="128.0" y2="242.8" stroke="#909A8B" stroke-width="1"/>
+<line x1="124.0" y1="270.4" x2="128.0" y2="270.4" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="300.9" x2="128.0" y2="300.9" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="304.9" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-04</text>
+<line x1="124.0" y1="330.5" x2="128.0" y2="330.5" stroke="#909A8B" stroke-width="1"/>
+<line x1="124.0" y1="361.1" x2="128.0" y2="361.1" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="390.6" x2="128.0" y2="390.6" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="394.6" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-07</text>
+<line x1="124.0" y1="421.2" x2="128.0" y2="421.2" stroke="#909A8B" stroke-width="1"/>
+<line x1="124.0" y1="451.7" x2="128.0" y2="451.7" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="481.3" x2="128.0" y2="481.3" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="485.3" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2026-10</text>
+<line x1="124.0" y1="511.8" x2="128.0" y2="511.8" stroke="#909A8B" stroke-width="1"/>
+<line x1="124.0" y1="541.4" x2="128.0" y2="541.4" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="572.0" x2="128.0" y2="572.0" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="576.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2027-01</text>
+<line x1="124.0" y1="602.5" x2="128.0" y2="602.5" stroke="#909A8B" stroke-width="1"/>
+<line x1="124.0" y1="630.1" x2="128.0" y2="630.1" stroke="#909A8B" stroke-width="1"/>
+<line x1="120.0" y1="660.7" x2="128.0" y2="660.7" stroke="#909A8B" stroke-width="1"/>
+<text x="116.0" y="664.7" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="12" font-weight="400" fill="#676E64" text-anchor="end">2027-04</text>
+<rect x="24.0" y="518.6" width="50.0" height="20.0" fill="#19E76E"/>
+<text x="31.0" y="533.6" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="700" fill="#000000" text-anchor="start">いま</text>
+<line x1="74.0" y1="528.6" x2="128.0" y2="528.6" stroke="#0B8F45" stroke-width="1.5"/>
+<rect x="130.0" y="109.7" width="12.0" height="12.0" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+<polyline points="146.0,115.7 168.0,115.7 186.0,110.7" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="196.0" y="115.7" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">2025-09-25</text>
+<text x="316.0" y="115.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">統合を発表</text>
+<rect x="130.0" y="294.9" width="12.0" height="12.0" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+<polyline points="146.0,300.9 168.0,300.9 186.0,295.9" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="196.0" y="300.9" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">2026-04-01</text>
+<text x="316.0" y="300.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">統合・掲載基準の統一</text>
+<rect x="130.0" y="383.6" width="12.0" height="12.0" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+<polyline points="146.0,389.6 168.0,389.6 186.0,384.6" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="196.0" y="389.6" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">2026-06-30</text>
+<text x="316.0" y="389.6" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINE 広告の新規アカウント終了</text>
+<rect x="130.0" y="499.9" width="12.0" height="12.0" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+<polyline points="146.0,505.9 168.0,505.9 186.0,500.9" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="196.0" y="505.9" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">2026-10-26</text>
+<text x="316.0" y="505.9" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINE 広告の日本向け配信を停止</text>
+<rect x="130.0" y="577.8" width="12.0" height="12.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<polyline points="146.0,583.8 168.0,583.8 186.0,578.8" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="196.0" y="583.8" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">2027-01-13</text>
+<text x="316.0" y="583.8" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">ディスプレイの一部レポート終了（予定）</text>
+<rect x="130.0" y="653.7" width="12.0" height="12.0" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<polyline points="146.0,659.7 168.0,659.7 186.0,654.7" fill="none" stroke="#909A8B" stroke-width="1"/>
+<text x="196.0" y="659.7" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#000000" text-anchor="start">2027-03 末頃</text>
+<text x="316.0" y="659.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="15" font-weight="700" fill="#000000" text-anchor="start">LINE 広告の完全終了（予定）</text>
+<text x="316.0" y="683.7" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="13" font-weight="400" fill="#B42318" text-anchor="start"></text>
+<text x="24.0" y="721.0" font-family="'Chivo Mono',ui-monospace,Menlo,monospace" font-size="11.5" font-weight="400" fill="#676E64" text-anchor="start">出典: LY-統合-006・009 ／ LY-計測-029 ／ 61 §2</text>
+</svg>
