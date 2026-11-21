@@ -3,9 +3,9 @@
 <title>コンバージョン率が下がった｜運用の地図</title>
 
 <meta name="robots" content="noindex,nofollow">
-<link rel="stylesheet" href="../assets/site.css?v=1795080744">
+<link rel="stylesheet" href="../assets/site.css?v=1795269944">
 </head><body>
-<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-19 に作成</div>
+<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-21 に作成</div>
 <header class="nav"><div class="nav-in"><a class="brand" href="../index.html"><i></i>運用の地図</a><nav><a href="../index.html">入口</a><a href="../shindan/index.html" class="on">症状</a><a href="../kata/index.html">判断の型</a><a href="../shikiichi.html">しきい値</a><a href="../shiyou.html">規則</a><a href="../yogo.html">用語</a><a href="../mondai.html">問題</a><a href="../menu/index.html">メニュー</a><a href="../check/index.html">点検</a><a href="../sim/index.html">試算</a><a href="../kaisetsu/index.html">解説</a><a href="../baitai/index.html">媒体</a><a href="../search.html">検索</a></nav></div></header>
 <main>
 <p class="crumb"><a href="../index.html">入口</a> / <a href="index.html">症状</a> / L3 成果 / CVR-下</p>
@@ -16,7 +16,7 @@
 <nav class="quick" aria-label="実務の近道"><span>実務の近道</span><a href="#flow">切り分ける順番</a><a href="#tree">要因の木</a><a href="#rows">要因ごとの確かめ方（23）</a><a href="#src">出典</a></nav>
 <div class="ribbon" aria-hidden="true"><i style="left:4%;width:9%"></i><i class="p" style="left:16%;width:3%"></i><i style="left:41%;width:14%"></i><i class="s" style="left:63%;width:20%"></i><i style="left:88%;width:5%"></i></div>
 <section class="sec" id="learn"><p class="num">01</p><div><h2>図で見る: コンバージョン率が下がったとは</h2><p class="desc">左右で同じものは同じ位置・同じ大きさ。変わった所だけ緑にしています。</p><div class="cc"><p class="cc-ex">学習用の例（数字は仮。トップの流れの図と同じ出発点）</p><div class="cc-g"><div class="cc-s"><p class="cc-l">先月</p><div class="cc-row same"><span class="k">広告費</span><b>10,000 円</b></div><div class="cc-row same"><span class="k">クリック</span><b>100 回</b><em>クリック単価 100 円</em></div><div class="cc-row diff"><span class="k">成果</span><b>2 件</b></div><div class="cc-row diff big"><span class="k">成果率（CVR）</span><b>2%</b><span class="bar"><i style="width:100%"></i></span><em>2 ÷ 100</em></div></div><div class="cc-mid" aria-hidden="true">→</div><div class="cc-s"><p class="cc-l">今月</p><div class="cc-row same"><span class="k">広告費</span><b>10,000 円</b></div><div class="cc-row same"><span class="k">クリック</span><b>100 回</b><em>クリック単価 100 円</em></div><div class="cc-row diff"><span class="k">成果</span><b>1 件</b></div><div class="cc-row diff big"><span class="k">成果率（CVR）</span><b>1%</b><span class="bar"><i style="width:50%"></i></span><em>1 ÷ 100</em></div></div></div><p class="cc-k"><b>同じ</b>: 灰色の行　<b>変わった</b>: 緑の行</p><p class="cc-take">クリックの数は同じでも、成果が 2 件から 1 件に減ると、CVR は 2% から 1% へ半分になります。費用が同じなら、CPA は 5,000 円から 10,000 円へ 2 倍です。</p></div></div></section>
-<section class="sec" id="check"><p class="num">02</p><div><h2>自分のアカウントなら、この順に確かめる</h2><p class="desc">上から順に。上の段が原因なら、下の段の数字は読めません（元は下の「切り分ける順番」と同じ）。</p><ol class="steps chk"><li><span class="n">①</span><div><b>計測・集計・期間の取り方</b><p><span class="lk">最初に見る画面・列</span>[目標] &gt; [概要] と各コンバージョン アクションのステータス（「有効」「要確認」「設定が不適切」「コンバージョンを待機中」）。「コンバージョン」列と「すべてのコンバージョン」列を並べ、分類 &gt;「コンバージョン アクション」で、どのアクションが動いたかを見る。比べる期間が遅れの日数を除いているか。「コンバージョンまでの日数」</p></div></li><li><span class="n">②</span><div><b>自分が行った変更</b><p><span class="lk">最初に見る画面・列</span>[変更履歴]（入札戦略・目標値・予算・キーワード・マッチタイプ・除外・広告・最終ページ URL・目標の設定・AI Max の設定）。LP やサイトの変更は社内の変更記録・GA4 の注釈</p></div></li><li><span class="n">③</span><div><b>媒体側の変更</b><p><span class="lk">最初に見る画面・列</span>キャンペーンの表の青い点線の数値 &gt;「説明を表示」。最適化案の自動適用の履歴。審査の状況（ポリシー マネージャー）。Google の更新情報（例: 2026-08-17 の予算制限つき目標入札の変更 `02§3`）</p></div></li><li><span class="n">④</span><div><b>競合</b><p><span class="lk">最初に見る画面・列</span>[オークション分析]（インプレッション シェア・重複率・上位掲載率）。実際の検索結果と、競合の LP・価格・キャンペーン</p></div></li><li><span class="n">⑤</span><div><b>需要・季節・世の中</b><p><span class="lk">最初に見る画面・列</span>Google トレンド、前年同期、曜日・時間帯別の分類、GA4 で広告以外の流入（自然検索・直接）の率も同じように動いたか</p></div></li><li><span class="n">⑥</span><div><b>LP・提供内容</b><p><span class="lk">最初に見る画面・列</span>[ランディング ページ] レポート、GA4 の LP 別・端末別のキーイベント率、目標到達プロセス、PageSpeed Insights、実機での広告→LP→完了の通し確認</p></div></li></ol><div class="ask"><p class="ts-l">Claude に聞くなら（<a href="https://github.com/nanako-dev/ochinana-ads-mcp" rel="noopener">ochinana_ads</a> を登録済みの Claude Code で。実績を読めるのは Google 広告だけ）</p><p class="ts-q">「先週、うちのアカウントのコンバージョン率が下がった理由を、この順番で調べて」</p><p class="ts-tools">Claude は <code>kb_logic_tree</code>（この症状の木）で順番と基準を引き、<code>get_performance</code>・<code>get_search_terms</code>・<code>run_checks</code> で実績を読んで（読むだけ）、どの段で変わったかを答えます。<a href="../index.html#scenes">つながり方を見る ›</a></p></div></div></section>
+<section class="sec" id="check"><p class="num">02</p><div><h2>自分のアカウントなら、この順に確かめる</h2><p class="desc">上から順に。上の段が原因なら、下の段の数字は読めません（元は下の「切り分ける順番」と同じ）。</p><ol class="steps chk"><li><span class="n">①</span><div><b>計測・集計・期間の取り方</b><p><span class="lk">最初に見る画面・列</span>[目標] &gt; [概要] と、各コンバージョン アクションのステータス（「有効」「要確認」「設定が不適切」「コンバージョンを待機中」）を見ます。「コンバージョン」列と「すべてのコンバージョン」列を並べます。分類 &gt;「コンバージョン アクション」で、どのアクションが動いたかを見ます。比べる期間が、遅れの日数を除いているかも確かめます。「コンバージョンまでの日数」も見ます</p></div></li><li><span class="n">②</span><div><b>自分が行った変更</b><p><span class="lk">最初に見る画面・列</span>[変更履歴]（入札戦略・目標値・予算・キーワード・マッチタイプ・除外・広告・最終ページ URL・目標の設定・AI Max の設定）を見ます。LP やサイトの変更は、社内の変更記録と GA4 の注釈で調べます</p></div></li><li><span class="n">③</span><div><b>媒体側の変更</b><p><span class="lk">最初に見る画面・列</span>キャンペーンの表の青い点線の数値 &gt;「説明を表示」を見ます。最適化案の自動適用の履歴、審査の状況（ポリシー マネージャー）、Google の更新情報も見ます（例: 2026-08-17 の予算制限つき目標入札の変更 `02§3`）</p></div></li><li><span class="n">④</span><div><b>競合</b><p><span class="lk">最初に見る画面・列</span>[オークション分析]（インプレッション シェア・重複率・上位掲載率）を見ます。実際の検索結果と、競合の LP・価格・キャンペーンも見ます</p></div></li><li><span class="n">⑤</span><div><b>需要・季節・世の中</b><p><span class="lk">最初に見る画面・列</span>Google トレンド、前年同期、曜日・時間帯別の分類を見ます。GA4 では、広告以外の流入（自然検索・直接）の率も同じように動いたかを見ます</p></div></li><li><span class="n">⑥</span><div><b>LP・提供内容</b><p><span class="lk">最初に見る画面・列</span>[ランディング ページ] レポート、GA4 の LP 別・端末別のキーイベント率、目標到達プロセス、PageSpeed Insights を見ます。実機で、広告 → LP → 完了まで通して確かめます</p></div></li></ol><div class="ask"><p class="ts-l">Claude に聞くなら（<a href="https://github.com/nanako-dev/ochinana-ads-mcp" rel="noopener">ochinana_ads</a> を登録済みの Claude Code で。実績を読めるのは Google 広告だけ）</p><p class="ts-q">「先週、うちのアカウントのコンバージョン率が下がった理由を、この順番で調べて」</p><p class="ts-tools">Claude は <code>kb_logic_tree</code>（この症状の木）で順番と基準を引き、<code>get_performance</code>・<code>get_search_terms</code>・<code>run_checks</code> で実績を読んで（読むだけ）、どの段で変わったかを答えます。<a href="../index.html#scenes">つながり方を見る ›</a></p></div></div></section>
 <section class="sec" id="funnel"><p class="num">03</p><div><h2>どこで落ちるか</h2><p class="desc">クリックしてから成果として数えられるまでの段に、要因の分類を重ねた。</p><div class="fig-box"><svg viewBox="0 0 960 360" class="fig" role="img" aria-label="どこで落ちるか: クリックから計測までの段と、要因の分類の対応">
 <text x="32.0" y="48" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">0</text>
 <text x="50.0" y="48" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="600" fill="#000000" text-anchor="start">クリックした人</text>
@@ -129,47 +129,47 @@
 <path d="M 390 112.5 C 410 112.5 410 33.5 430 33.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-01">
 <text x="436" y="37.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#01</text>
-<text x="472" y="38.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">直近の数日を見ていて、成果がまだ入っていない</text>
+<text x="472" y="38.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">直近の数日を見ていて、成果がまだ入っていません</text>
 <circle cx="900" cy="33.5" r="4.5" fill="#19E76E"/>
 </a>
 <path d="M 390 112.5 C 410 112.5 410 60.5 430 60.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-02">
 <text x="436" y="64.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#02</text>
-<text x="472" y="65.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">タグが壊れた・消えた</text>
+<text x="472" y="65.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">タグが壊れた・消えました</text>
 <circle cx="900" cy="60.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="60.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 112.5 C 410 112.5 410 87.5 430 87.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-03">
 <text x="436" y="91.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#03</text>
-<text x="472" y="92.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">同意バナー・同意モードの設定変更、地域ルールの更新、ブラウ…</text>
+<text x="472" y="92.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">同意バナー・同意モードの設定を変えました。地域ルールの更新…</text>
 <circle cx="900" cy="87.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="87.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 112.5 C 410 112.5 410 114.5 430 114.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-04">
 <text x="436" y="118.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#04</text>
-<text x="472" y="119.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">gclid・gbraid・wbraid が落ちた</text>
+<text x="472" y="119.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">gclid・gbraid・wbraid が落ちました</text>
 <circle cx="900" cy="114.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="114.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 112.5 C 410 112.5 410 141.5 430 141.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-05">
 <text x="436" y="145.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#05</text>
-<text x="472" y="146.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">成果の定義を変えた</text>
+<text x="472" y="146.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">成果の定義を変えました</text>
 <circle cx="900" cy="141.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="141.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 112.5 C 410 112.5 410 168.5 430 168.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-06">
 <text x="436" y="172.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#06</text>
-<text x="472" y="173.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">GA4 とのリンクが切れた、キーイベントのマークを外した、…</text>
+<text x="472" y="173.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">GA4 とのリンクが切れました。キーイベントのマークを外し…</text>
 <circle cx="900" cy="168.5" r="4.5" fill="#19E76E"/>
 </a>
 <path d="M 390 112.5 C 410 112.5 410 195.5 430 195.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-07">
 <text x="436" y="199.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#07</text>
-<text x="472" y="200.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">二重計測を直した、テスト・スパムの成果を外した</text>
+<text x="472" y="200.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">二重計測を直しました。テスト・スパムの成果を外しました</text>
 <circle cx="900" cy="195.5" r="4.5" fill="none" stroke="#676E64"/>
 </a>
 <path d="M 170 330.5 C 195 330.5 175 301.5 200 301.5" fill="none" stroke="#000000" stroke-width="1.25"/>
@@ -180,7 +180,7 @@
 <path d="M 390 301.5 C 410 301.5 410 222.5 430 222.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-08">
 <text x="436" y="226.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#08</text>
-<text x="472" y="227.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">検索語句が広がった</text>
+<text x="472" y="227.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">検索語句が広がりました</text>
 <circle cx="900" cy="222.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="222.5" r="4.5" fill="#5B8DEF"/>
 <circle cx="928" cy="222.5" r="4.5" fill="#FFA9FD"/>
@@ -188,41 +188,41 @@
 <path d="M 390 301.5 C 410 301.5 410 249.5 430 249.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-09">
 <text x="436" y="253.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#09</text>
-<text x="472" y="254.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">配信面が広がった</text>
+<text x="472" y="254.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">配信面が広がりました</text>
 <circle cx="900" cy="249.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="249.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 301.5 C 410 301.5 410 276.5 430 276.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-10">
 <text x="436" y="280.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#10</text>
-<text x="472" y="281.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">オーディエンスの構成が変わった</text>
+<text x="472" y="281.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">オーディエンスの構成が変わりました</text>
 <circle cx="900" cy="276.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="276.5" r="4.5" fill="none" stroke="#676E64"/>
 </a>
 <path d="M 390 301.5 C 410 301.5 410 303.5 430 303.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-11">
 <text x="436" y="307.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#11</text>
-<text x="472" y="308.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">デバイス・地域・時間帯の構成が変わった</text>
+<text x="472" y="308.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">デバイス・地域・時間帯の構成が変わりました</text>
 <circle cx="900" cy="303.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="303.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 301.5 C 410 301.5 410 330.5 430 330.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-12">
 <text x="436" y="334.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#12</text>
-<text x="472" y="335.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">指名検索の比率が下がった</text>
+<text x="472" y="335.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">指名検索の比率が下がりました</text>
 <circle cx="900" cy="330.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 301.5 C 410 301.5 410 357.5 430 357.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-13">
 <text x="436" y="361.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#13</text>
-<text x="472" y="362.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">予算を増やした、目標コンバージョン単価を緩めた、目標広告費…</text>
+<text x="472" y="362.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">予算を増やしました。目標コンバージョン単価を緩めました。目…</text>
 <circle cx="900" cy="357.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="357.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 301.5 C 410 301.5 410 384.5 430 384.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-14">
 <text x="436" y="388.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#14</text>
-<text x="472" y="389.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">ボット・誤クリック・不正なクリックが増えた</text>
+<text x="472" y="389.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">ボット・誤クリック・不正なクリックが増えました</text>
 <circle cx="900" cy="384.5" r="4.5" fill="#19E76E"/>
 </a>
 <path d="M 170 330.5 C 195 330.5 175 463.5 200 463.5" fill="none" stroke="#000000" stroke-width="1.25"/>
@@ -233,20 +233,20 @@
 <path d="M 390 463.5 C 410 463.5 410 411.5 430 411.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-15">
 <text x="436" y="415.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#15</text>
-<text x="472" y="416.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">広告の約束と LP が合わない</text>
+<text x="472" y="416.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">広告の約束と LP が合っていません</text>
 <circle cx="900" cy="411.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="411.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 463.5 C 410 463.5 410 438.5 430 438.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-16">
 <text x="436" y="442.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#16</text>
-<text x="472" y="443.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">LP を変えた</text>
+<text x="472" y="443.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">LP を変えました</text>
 <circle cx="900" cy="438.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 463.5 C 410 463.5 410 465.5 430 465.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-17">
 <text x="436" y="469.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#17</text>
-<text x="472" y="470.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">LP の不具合・表示速度の悪化</text>
+<text x="472" y="470.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">LP の不具合・表示速度の悪化です</text>
 <circle cx="900" cy="465.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="465.5" r="4.5" fill="#FFA9FD"/>
 </a>
@@ -260,7 +260,7 @@
 <path d="M 390 463.5 C 410 463.5 410 519.5 430 519.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-19">
 <text x="436" y="523.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#19</text>
-<text x="472" y="524.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">A/B テスト・LPO ツールの導入</text>
+<text x="472" y="524.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">A/B テスト・LPO ツールを入れました</text>
 <circle cx="900" cy="519.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="519.5" r="4.5" fill="#FFA9FD"/>
 </a>
@@ -284,115 +284,115 @@
 <path d="M 390 598.5 C 410 598.5 410 573.5 430 573.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-21">
 <text x="436" y="577.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#21</text>
-<text x="472" y="578.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">競合の値下げ・強い特典・新規参入、比較サイトの台頭、競合が…</text>
+<text x="472" y="578.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">競合が値下げしました。強い特典や、新規参入がありました。比…</text>
 <circle cx="900" cy="573.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 598.5 C 410 598.5 410 600.5 430 600.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-22">
 <text x="436" y="604.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#22</text>
-<text x="472" y="605.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">繁忙期の終わり、連休、給料日前、月初、天候、ニュース、行事</text>
+<text x="472" y="605.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">繁忙期の終わり、連休、給料日前、月初、天候、ニュース、行事…</text>
 <circle cx="900" cy="600.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="600.5" r="4.5" fill="#FFA9FD"/>
 </a>
 <path d="M 390 598.5 C 410 598.5 410 627.5 430 627.5" fill="none" stroke="#B9C2B4"/>
 <a href="#CVR-下-23">
 <text x="436" y="631.5" font-family="'Chivo Mono',monospace" font-size="11" font-weight="500" fill="#676E64" text-anchor="start">#23</text>
-<text x="472" y="632.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">自動入札が追う対象が変わった</text>
+<text x="472" y="632.0" font-family="'Noto Sans JP',sans-serif" font-size="13" font-weight="400" fill="#000000" text-anchor="start">自動入札が追う対象が変わりました</text>
 <circle cx="900" cy="627.5" r="4.5" fill="#19E76E"/>
 <circle cx="914" cy="627.5" r="4.5" fill="#FFA9FD"/>
 </a>
 </svg></div><p class="cap">[ 根拠 ] <span class="lg"><i class="d d-off"></i>公式 <b>18</b></span><span class="lg"><i class="d d-dat"></i>データあり <b>1</b></span><span class="lg"><i class="d d-exp"></i>経験則 <b>18</b></span><span class="lg"><i class="d d-inf"></i>推測 <b>3</b></span></p></div></section>
-<section class="sec" id="rows"><p class="num">06</p><div><h2>要因ごとの確かめ方 <button data-open class="btn sm">すべて開く</button></h2><div class="toolbar"><div class="seg" role="group" aria-label="分類で絞る"><button class="on" data-f="all">すべて 23</button><button data-f="A">A 計測・集計</button><button data-f="B">B 流入の質</button><button data-f="C">C 広告と LP</button><button data-f="D">D 提供内容</button><button data-f="E">E 競合・需要・世…</button></div></div><div class="rows"><details class="fr" id="CVR-下-01" data-g="A"><summary><span class="rid">CVR-下-01</span><span class="rg">A</span><span class="rw">直近の数日を見ていて、成果がまだ入っていない（成果の遅れ、GA4 取り込みの反映待ち、推定の反映待ち）</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">計上はクリック日。費用は入っているが成果は後から足される</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「コンバージョンまでの日数」で自社の遅れを測る。「入札戦略」レポートで未報告の予測と、グラフの印。数日後に同じ期間を見直す</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>何もしない。遅れの日数を除いて比べ直す。報告では直近を「暫定」と書く</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>遅れを知らずに入札・目標を下げると、自動入札の補正と二重に絞って量を失う</p></div></div>
+<section class="sec" id="rows"><p class="num">06</p><div><h2>要因ごとの確かめ方 <button data-open class="btn sm">すべて開く</button></h2><div class="toolbar"><div class="seg" role="group" aria-label="分類で絞る"><button class="on" data-f="all">すべて 23</button><button data-f="A">A 計測・集計</button><button data-f="B">B 流入の質</button><button data-f="C">C 広告と LP</button><button data-f="D">D 提供内容</button><button data-f="E">E 競合・需要・世…</button></div></div><div class="rows"><details class="fr" id="CVR-下-01" data-g="A"><summary><span class="rid">CVR-下-01</span><span class="rg">A</span><span class="rw">直近の数日を見ていて、成果がまだ入っていません（成果の遅れ、GA4 取り込みの反映待ち、推定の反映待ち）</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">計上はクリックの日です。費用は入っていますが、成果はあとから足されます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「コンバージョンまでの日数」で、自社の遅れを測ります。「入札戦略」レポートで、未報告の予測と、グラフの印を見ます。数日後に、同じ期間を見直します</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>何もしません。遅れの日数を除いて、比べ直します。報告では、直近を「暫定」と書きます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>遅れを知らないまま入札・目標を下げると、自動入札の補正と二重に絞ってしまい、量を失います</p></div></div>
 <p class="src">根拠: 公式 6239119、00§7-3、06§1</p></details>
-<details class="fr" id="CVR-下-02" data-g="A"><summary><span class="rid">CVR-下-02</span><span class="rg">A</span><span class="rw">タグが壊れた・消えた（サイトの改修、テンプレートの差し替え、GTM の公開ミス、プラグインの更新、ドメイン移転）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">成果が起きても送信されない</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>ステータスが「設定が不適切」「要確認」「コンバージョンを待機中」になっていないか。分類 &gt;「コンバージョン アクション」で特定のアクションだけ 0 になっていないか。Tag Assistant で実機送信。GA4 や注文の実数は落ちていないか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>すぐ: タグを直す。壊れた期間をデータの除外に入れる（遅れの日数ぶん前に延ばす）。時間がかかる: サイト更新のたびに計測を点検する手順を作る</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>壊れている間に入札や構成を大きく動かさない。データの除外は 2 週間を超えるとほぼ効かないという意見あり</p></div></div>
+<details class="fr" id="CVR-下-02" data-g="A"><summary><span class="rid">CVR-下-02</span><span class="rg">A</span><span class="rw">タグが壊れた・消えました（サイトの改修、テンプレートの差し替え、GTM の公開ミス、プラグインの更新、ドメイン移転）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">成果が起きても、送信されません</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>ステータスが「設定が不適切」「要確認」「コンバージョンを待機中」になっていないかを見ます。分類 &gt;「コンバージョン アクション」で、特定のアクションだけが 0 になっていないかを見ます。Tag Assistant で、実機から送信を試します。GA4 や注文の実数が落ちていないかも見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>すぐやること: タグを直します。壊れた期間を、データの除外に入れます（遅れの日数ぶん、前に延ばします）。時間がかかること: サイトを更新するたびに、計測を点検する手順を作ります</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>壊れている間は、入札や構成を大きく動かしません。データの除外は、2 週間を超えるとほぼ効かないという意見があります</p></div></div>
 <p class="src">根拠: 公式 06§6、06§7、10370710／経験則 T2-5-10、T2-6-6〜6-8、T2-12-1</p></details>
-<details class="fr" id="CVR-下-03" data-g="A"><summary><span class="rid">CVR-下-03</span><span class="rg">A</span><span class="rw">同意バナー・同意モードの設定変更、地域ルールの更新、ブラウザの追跡制限、広告ブロッカーの普及</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">同意しない人の成果は直接測れない。広告 Cookie が使われないと GA4 取り込みの成果も減る</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>同意の変更日と率の段差。地域・ブラウザ・LP で偏りがないか（Safari だけ落ちる、など）。同意あり・なしの経路を別々に実機で試す</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>同意の既定値と CMP 設定を見直す。拡張コンバージョン、サーバー側の計測、オフラインの取り込みを併用</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>日本だけが対象なら EU の同意ポリシーは直接かからないが、2026-06-15 から GA の広告 Cookie の収集は同意モードだけで管理される</p></div></div>
+<details class="fr" id="CVR-下-03" data-g="A"><summary><span class="rid">CVR-下-03</span><span class="rg">A</span><span class="rw">同意バナー・同意モードの設定を変えました。地域ルールの更新、ブラウザの追跡制限、広告ブロッカーの普及がありました</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">同意しない人の成果は、直接は測れません。広告 Cookie が使われないと、GA4 取り込みの成果も減ります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>同意を変えた日と、率の段差を見ます。地域・ブラウザ・LP で偏りがないかを見ます（Safari だけ落ちる、など）。同意あり・なしの経路を、別々に実機で試します</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>同意の既定値と CMP の設定を見直します。拡張コンバージョン、サーバー側の計測、オフラインの取り込みを併用します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>日本だけが対象なら、EU の同意ポリシーは直接はかかりません。ただし、2026-06-15 から、GA の広告 Cookie の収集は、同意モードだけで管理されます</p></div></div>
 <p class="src">根拠: 公式 06§8／経験則 T2-8-12〜8-14、T2-12-11</p></details>
-<details class="fr" id="CVR-下-04" data-g="A"><summary><span class="rid">CVR-下-04</span><span class="rg">A</span><span class="rw">gclid・gbraid・wbraid が落ちた（リダイレクト、短縮 URL、計測用パラメータの上書き、別ドメインのフォーム、複数ページのフォーム、自動タグ設定の無効化）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">クリックと成果が結びつかず、成果が Google 広告に入らない</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>自動タグ設定がオンか。広告の最終ページ URL を開いて、遷移後の URL に gclid が残るか。GA4 で「(not set)」が残っていないか。iOS だけ落ちていないか（端末別）</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>リダイレクトを直す、クロスドメインの設定、コンバージョン リンカー</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>GA4 側は数えているのに Google 広告だけ減るので、GAP-下 と合わせて見る</p></div></div>
+<details class="fr" id="CVR-下-04" data-g="A"><summary><span class="rid">CVR-下-04</span><span class="rg">A</span><span class="rw">gclid・gbraid・wbraid が落ちました（リダイレクト、短縮 URL、計測用パラメータの上書き、別ドメインのフォーム、複数ページのフォーム、自動タグ設定の無効化）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">クリックと成果が結びつかず、成果が Google 広告に入りません</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>自動タグ設定がオンかを見ます。広告の最終ページ URL を開いて、移動したあとの URL に gclid が残るかを見ます。GA4 で「(not set)」が残っていないかを見ます。iOS だけが落ちていないかも見ます（端末別）</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>リダイレクトを直します。クロスドメインの設定をします。コンバージョン リンカーを使います</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>GA4 側は数えているのに、Google 広告だけが減ります。だから、GAP-下 と合わせて見ます</p></div></div>
 <p class="src">根拠: 公式 06§2、06§3／経験則 T2-8-10</p></details>
-<details class="fr" id="CVR-下-05" data-g="A"><summary><span class="rid">CVR-下-05</span><span class="rg">A</span><span class="rw">成果の定義を変えた（重い成果だけをメインにした、目標の付け替え、カスタム目標から外した、「全件」→「初回のみ」、計測期間を短くした）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">分子が減る。定義の変更は実態とは関係ない</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[変更履歴]（目標とアクションの設定）。「すべてのコンバージョン」は落ちていないか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>意図した変更なら基準を置き直す。評価は変更日以降で</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>目標の変更は「学習中」の引き金になる（表示は最長 7 日。「7〜14 日」は公式に記載なし ❓）。成績が落ち着くのは 1〜2 サイクル。フラットな設定からの整理なら約 30 日の落ち込みもありうる（経験則）</p></div></div>
+<details class="fr" id="CVR-下-05" data-g="A"><summary><span class="rid">CVR-下-05</span><span class="rg">A</span><span class="rw">成果の定義を変えました（重い成果だけをメインにした、目標の付け替え、カスタム目標から外した、「全件」から「初回のみ」へ、計測期間を短くした）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">分子が減ります。定義を変えただけで、実態とは関係ありません</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[変更履歴]（目標とアクションの設定）を見ます。「すべてのコンバージョン」が落ちていないかを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>意図した変更なら、基準を置き直します。評価は、変更日以降で行います</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>目標を変えると、「学習中」になります（表示は最長 7 日。「7〜14 日」は公式に記載なし ❓）。成績が落ち着くのは、1〜2 サイクルあとです。フラットな設定から整理した場合は、約 30 日の落ち込みもありえます（経験則）</p></div></div>
 <p class="src">根拠: 公式 06§4、02§4（6263057、13020501）／経験則 T2-7-19</p></details>
-<details class="fr" id="CVR-下-06" data-g="A"><summary><span class="rid">CVR-下-06</span><span class="rg">A</span><span class="rw">GA4 とのリンクが切れた、キーイベントのマークを外した、権限の変更、プロパティの付け替え</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">取り込みの元がなくなる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>GA4 の [管理] &gt; Google 広告とのリンク、キーイベントの一覧、取り込んだアクションのステータス</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>リンクの復旧。取り込みは過去分が入らないので、切れた期間は戻らない</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>取り込みの再設定後、候補に出るまで 24〜48 時間</p></div></div>
+<details class="fr" id="CVR-下-06" data-g="A"><summary><span class="rid">CVR-下-06</span><span class="rg">A</span><span class="rw">GA4 とのリンクが切れました。キーイベントのマークを外しました。権限を変えました。プロパティを付け替えました</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">取り込みの元がなくなります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>GA4 の [管理] &gt; Google 広告とのリンク、キーイベントの一覧、取り込んだアクションのステータスを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>リンクを復旧します。取り込みは過去の分が入らないので、切れた期間は戻りません</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>取り込みを設定し直したあと、候補に出るまで 24〜48 時間かかります</p></div></div>
 <p class="src">根拠: 公式 06§2</p></details>
-<details class="fr" id="CVR-下-07" data-g="A"><summary><span class="rid">CVR-下-07</span><span class="rg">A</span><span class="rw">二重計測を直した、テスト・スパムの成果を外した（正常化）</span><span class="rd"><i class="d d-inf"></i></span></summary>
-<div class="why">水増しが消えた</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>修正日と段差の一致、実数（注文・CRM）が変わっていないこと</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>何もしない。目標値を実態に合わせて見直す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>目標単価が水増し時代の実績で決まっていると、目標による制限で配信が細る</p></div></div>
+<details class="fr" id="CVR-下-07" data-g="A"><summary><span class="rid">CVR-下-07</span><span class="rg">A</span><span class="rw">二重計測を直しました。テスト・スパムの成果を外しました（正常に戻りました）</span><span class="rd"><i class="d d-inf"></i></span></summary>
+<div class="why">水増しが消えました</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>修正した日と段差が一致していること、実数（注文・CRM）が変わっていないことを確かめます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>何もしません。目標値を、実態に合わせて見直します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>目標単価が、水増し時代の実績で決まっていると、目標による制限で配信が細ります</p></div></div>
 <p class="src">根拠: 推測（CVR-上-01 の裏返し）</p></details>
-<details class="fr" id="CVR-下-08" data-g="B"><summary><span class="rid">CVR-下-08</span><span class="rg">B</span><span class="rw">検索語句が広がった（部分一致の追加、AI Max の検索語句のマッチング、除外キーワードの削除や漏れ、キーワードの類似パターン）</span><span class="rd"><i class="d d-off"></i><i class="d d-dat"></i><i class="d d-exp"></i></span></summary>
-<div class="why">意図の弱い検索・情報収集の検索（「無料」「とは」「求人」「やり方」など）にクリックが増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[検索語句] レポートを費用順に 30〜90 日。マッチタイプ列（「AI 最大化設定」など）。語句を「残す・迷う・不要」に分ける。新しく出た語句の率</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>すぐ: 除外キーワード。時間がかかる: マッチタイプを絞る、広告グループの組み直し、AI Max のブランド設定・URL の除外・テキスト ガイドライン</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>除外の掛けすぎで良い検索まで止めることがある。AI Max は表示の多くが成果 0 だった検証もある</p></div></div>
+<details class="fr" id="CVR-下-08" data-g="B"><summary><span class="rid">CVR-下-08</span><span class="rg">B</span><span class="rw">検索語句が広がりました（部分一致の追加、AI Max の検索語句のマッチング、除外キーワードの削除や漏れ、キーワードの類似パターン）</span><span class="rd"><i class="d d-off"></i><i class="d d-dat"></i><i class="d d-exp"></i></span></summary>
+<div class="why">意図の弱い検索や、情報を集めるだけの検索（「無料」「とは」「求人」「やり方」など）にクリックが増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[検索語句] レポートを、費用順に 30〜90 日ぶん見ます。マッチタイプ列（「AI 最大化設定」など）も見ます。語句を「残す・迷う・不要」に分けます。新しく出た語句の率を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>すぐやること: 除外キーワードを足します。時間がかかること: マッチタイプを絞ります。広告グループを組み直します。AI Max のブランド設定・URL の除外・テキスト ガイドラインを使います</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>除外を掛けすぎると、良い検索まで止めてしまうことがあります。AI Max は、表示の多くが成果 0 だったという検証もあります</p></div></div>
 <p class="src">根拠: 公式 04§1、04§3／経験則 T5-129、T5-130、T2-11-5／データあり 03§9-2</p></details>
-<details class="fr" id="CVR-下-09" data-g="B"><summary><span class="rid">CVR-下-09</span><span class="rg">B</span><span class="rw">配信面が広がった（検索パートナーをオンにした、検索キャンペーンのディスプレイ拡張、P-MAX のディスプレイ・YouTube・Gmail の比率増）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">検索以外の面は意図が弱く、誤クリックも多い</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>分類 &gt;「ネットワーク（検索パートナーを含む）」、P-MAX のチャネルのパフォーマンス、配信先のレポート</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>検索パートナーを外す・配信先の除外。P-MAX は 2026-10 以降、GDN と検索パートナーの優先度を下げる手段がある</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>外すと量が減る。P-MAX の制御は限られる</p></div></div>
+<details class="fr" id="CVR-下-09" data-g="B"><summary><span class="rid">CVR-下-09</span><span class="rg">B</span><span class="rw">配信面が広がりました（検索パートナーをオンにした、検索キャンペーンのディスプレイ拡張、P-MAX のディスプレイ・YouTube・Gmail の比率が増えた）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">検索以外の面は、意図が弱く、誤クリックも多いです</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>分類 &gt;「ネットワーク（検索パートナーを含む）」、P-MAX のチャネルのパフォーマンス、配信先のレポートを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>検索パートナーを外します。配信先を除外します。P-MAX は、2026-10 以降、GDN と検索パートナーの優先度を下げる手段があります</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>外すと、量が減ります。P-MAX の制御は限られています</p></div></div>
 <p class="src">根拠: 公式 10§4-3、10§8-1／経験則 T5-103</p></details>
-<details class="fr" id="CVR-下-10" data-g="B"><summary><span class="rid">CVR-下-10</span><span class="rg">B</span><span class="rw">オーディエンスの構成が変わった（新規の比率が上がった、リマーケティングのリストが切れた・縮んだ、最適化されたターゲティングがオンになった）</span><span class="rd"><i class="d d-off"></i><i class="d d-inf"></i></span></summary>
-<div class="why">新規は既存客・再訪者より率が低い</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[オーディエンス] の分類、GA4 の新規／リピーター、リストのサイズの推移、P-MAX の新規顧客の列</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>新規と既存で目標を分ける（新規顧客の獲得目標、値の上乗せ）。リストの更新を直す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>新規の獲得が目的なら、率の低下は想定どおりのこともある（1-7 参照）</p></div></div>
+<details class="fr" id="CVR-下-10" data-g="B"><summary><span class="rid">CVR-下-10</span><span class="rg">B</span><span class="rw">オーディエンスの構成が変わりました（新規の比率が上がった、リマーケティングのリストが切れた・縮んだ、最適化されたターゲティングがオンになった）</span><span class="rd"><i class="d d-off"></i><i class="d d-inf"></i></span></summary>
+<div class="why">新規は、既存客や再訪者より率が低いです</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[オーディエンス] の分類、GA4 の新規／リピーター、リストのサイズの推移、P-MAX の新規顧客の列を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>新規と既存で、目標を分けます（新規顧客の獲得目標、値の上乗せ）。リストの更新を直します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>新規の獲得が目的なら、率が下がるのは想定どおりのこともあります（1-7 参照）</p></div></div>
 <p class="src">根拠: 公式 10§2-2／推測</p></details>
-<details class="fr" id="CVR-下-11" data-g="B"><summary><span class="rid">CVR-下-11</span><span class="rg">B</span><span class="rw">デバイス・地域・時間帯の構成が変わった（スマホの比率増、対応外の地域への配信、深夜の増加）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">区分ごとに率が違うので、構成比が変われば全体の率も変わる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>分類 &gt;「デバイス」、[地域]（「所在地」と「関心」の設定も）、[広告のスケジュール] で、区分別の率と構成比を前後で比べる</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>個別クリック単価なら単価調整。自動入札ならデバイスの除外、地域の除外、配信時間の制限</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>構成比の変化なのか、区分の中の率の低下なのかを分ける（区分の中で落ちていれば別の要因）</p></div></div>
+<details class="fr" id="CVR-下-11" data-g="B"><summary><span class="rid">CVR-下-11</span><span class="rg">B</span><span class="rw">デバイス・地域・時間帯の構成が変わりました（スマホの比率が増えた、対応外の地域へ配信した、深夜が増えた）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">区分ごとに率が違うので、構成比が変われば、全体の率も変わります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>分類 &gt;「デバイス」、[地域]（「所在地」と「関心」の設定も）、[広告のスケジュール] で、区分別の率と構成比を、前後で比べます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>個別クリック単価なら、単価調整をします。自動入札なら、デバイスの除外、地域の除外、配信時間の制限をします</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>構成比が変わったのか、区分の中の率が下がったのかを分けます（区分の中で落ちていれば、別の要因です）</p></div></div>
 <p class="src">根拠: 公式 02§8／経験則 T5-104、T5-135</p></details>
-<details class="fr" id="CVR-下-12" data-g="B"><summary><span class="rid">CVR-下-12</span><span class="rg">B</span><span class="rw">指名検索の比率が下がった（指名キャンペーンの予算不足、競合が指名に入札、P-MAX から指名を除外した、一般語を増額した）</span><span class="rd"><i class="d d-exp"></i></span></summary>
-<div class="why">率の高い指名が減り、率の低い一般語が増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>指名と一般を分けて率と構成比。指名のインプレッション シェア（90% 未満は競合の入札のサインという意見）</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>指名は守りとして確保。評価は指名と一般を分けて行う</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>一般語の率が変わっていないなら問題ではない</p></div></div>
+<details class="fr" id="CVR-下-12" data-g="B"><summary><span class="rid">CVR-下-12</span><span class="rg">B</span><span class="rw">指名検索の比率が下がりました（指名キャンペーンの予算不足、競合が指名に入札、P-MAX から指名を除外した、一般語を増額した）</span><span class="rd"><i class="d d-exp"></i></span></summary>
+<div class="why">率の高い指名が減り、率の低い一般語が増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>指名と一般を分けて、率と構成比を見ます。指名のインプレッション シェアも見ます（90% 未満は、競合が入札しているサインという意見があります）</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>指名は、守りとして確保します。評価は、指名と一般を分けて行います</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>一般語の率が変わっていないなら、問題ではありません</p></div></div>
 <p class="src">根拠: 経験則 T1-7-3、T1-7-7</p></details>
-<details class="fr" id="CVR-下-13" data-g="B"><summary><span class="rid">CVR-下-13</span><span class="rg">B</span><span class="rw">予算を増やした、目標コンバージョン単価を緩めた（上げた）、目標広告費用対効果を下げた、コンバージョン数の最大化に変えた、手動入札で単価を上げた</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">確度の低いオークションまで買いにいくので、限界の率が下がる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[変更履歴]、インプレッション シェアの増加、上位掲載率、新しく出た検索語句</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>量を取る目的なら想定どおり。獲得単価が許容内かで判断する</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>目標の大きな変更は費用・量にも大きく響く。10〜20% ずつ動かす意見が多い</p></div></div>
+<details class="fr" id="CVR-下-13" data-g="B"><summary><span class="rid">CVR-下-13</span><span class="rg">B</span><span class="rw">予算を増やしました。目標コンバージョン単価を緩めました（上げました）。目標広告費用対効果を下げました。コンバージョン数の最大化に変えました。手動入札で単価を上げました</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">確度の低いオークションまで買いにいくので、最後に足した分の率が下がります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[変更履歴]、インプレッション シェアの増加、上位掲載率、新しく出た検索語句を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>量を取る目的なら、想定どおりです。獲得単価が許せる範囲かで判断します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>目標を大きく変えると、費用・量も大きく動きます。10〜20% ずつ動かす意見が多いです</p></div></div>
 <p class="src">根拠: 公式 02§3／経験則 T2-12-6、T2-12-8</p></details>
-<details class="fr" id="CVR-下-14" data-g="B"><summary><span class="rid">CVR-下-14</span><span class="rg">B</span><span class="rw">ボット・誤クリック・不正なクリックが増えた</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">成果のないクリックが分母に入る（除外しきれない分）</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「無効なクリック」列の増加、特定の地域・配信面・時間帯にクリックが集中、GA4 で滞在 0 秒・エンゲージメントなしのセッション</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>配信面・地域の除外。急増が続くなら Google のサポートへ調査依頼</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>無効の判定は後から入ることがあるので数日待つ</p></div></div>
+<details class="fr" id="CVR-下-14" data-g="B"><summary><span class="rid">CVR-下-14</span><span class="rg">B</span><span class="rw">ボット・誤クリック・不正なクリックが増えました</span><span class="rd"><i class="d d-off"></i></span></summary>
+<div class="why">成果のないクリックが、分母に入ります（除外しきれない分です）</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「無効なクリック」列の増加を見ます。特定の地域・配信面・時間帯にクリックが集中していないかを見ます。GA4 で、滞在 0 秒・エンゲージメントなしのセッションを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>配信面・地域を除外します。急な増加が続くなら、Google のサポートに調査を頼みます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>無効の判定は、あとから入ることがあるので、数日待ちます</p></div></div>
 <p class="src">根拠: 公式 06§7、42995</p></details>
-<details class="fr" id="CVR-下-15" data-g="C"><summary><span class="rid">CVR-下-15</span><span class="rg">C</span><span class="rw">広告の約束と LP が合わない（広告文の変更、テキストのカスタマイズの生成文、最終ページ URL の拡張で狙っていないページへ着地、キャンペーン終了後も広告に特典が残った）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">来た人の期待と中身がずれて離脱する</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>広告文の変更日、[アセット] で生成された文面、[ランディング ページ] レポート（どの URL に着地したか）、キーワード別の LP の利便性</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>広告と LP の言葉・具体度・主なボタンをそろえる。URL の除外、テキスト ガイドライン、生成アセットの削除</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>生成文面を止めると量が減ることもある</p></div></div>
+<details class="fr" id="CVR-下-15" data-g="C"><summary><span class="rid">CVR-下-15</span><span class="rg">C</span><span class="rw">広告の約束と LP が合っていません（広告文の変更、テキストのカスタマイズの生成文、最終ページ URL の拡張で狙っていないページに着地、キャンペーンが終わったあとも広告に特典が残った）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">来た人の期待と中身がずれて、離脱します</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>広告文を変えた日、[アセット] で生成された文面、[ランディング ページ] レポート（どの URL に着地したか）、キーワード別の LP の利便性を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>広告と LP で、言葉・具体さ・主なボタンをそろえます。URL の除外、テキスト ガイドライン、生成アセットの削除を使います</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>生成された文面を止めると、量が減ることもあります</p></div></div>
 <p class="src">根拠: 公式 00§6-3、03§1、07§4／経験則 T5-1〜T5-14、T5-111</p></details>
-<details class="fr" id="CVR-下-16" data-g="C"><summary><span class="rid">CVR-下-16</span><span class="rg">C</span><span class="rw">LP を変えた（見出し、構成、ボタンの位置、フォームの種類・項目、価格の見せ方）</span><span class="rd"><i class="d d-exp"></i></span></summary>
-<div class="why">テストしていない変更が率を変える。フォームの種類を変えると成果する人自体が変わる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>社内の変更記録・GA4 の注釈と段差の一致。GA4 の LP 別・端末別の率、目標到達プロセスのどの段で落ちたか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>元に戻すか、A/B テストで確かめる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>少量では前後比較が偶然に埋もれる（1-9）</p></div></div>
+<details class="fr" id="CVR-下-16" data-g="C"><summary><span class="rid">CVR-下-16</span><span class="rg">C</span><span class="rw">LP を変えました（見出し、構成、ボタンの位置、フォームの種類・項目、価格の見せ方）</span><span class="rd"><i class="d d-exp"></i></span></summary>
+<div class="why">テストしていない変更が、率を変えます。フォームの種類を変えると、成果する人自体が変わります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>社内の変更記録・GA4 の注釈と、段差が一致するかを見ます。GA4 の LP 別・端末別の率と、目標到達プロセスのどの段階で落ちたかを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>元に戻します。または、A/B テストで確かめます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>少量では、前後の比較が偶然に埋もれます（1-9）</p></div></div>
 <p class="src">根拠: 経験則 T5-138、T5-39、T5-140</p></details>
-<details class="fr" id="CVR-下-17" data-g="C"><summary><span class="rid">CVR-下-17</span><span class="rg">C</span><span class="rw">LP の不具合・表示速度の悪化（重い画像・スクリプトの追加、サーバーの遅延、スマホで崩れる、ボタンにチャットが重なる、リンク切れ、ページ移転で 404）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">表示される前・操作できる前に離脱する</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>最終ページ URL を実機で 1 本ずつ開く。PageSpeed Insights（実測データと実験室データ）、[ランディング ページ] レポートのモバイル対応、GA4 の LP 別の直帰とエンゲージメント率。広告のクリック数と GA4 のセッションの差が開いていないか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>すぐ: 不具合を直す、リダイレクトを直す。時間がかかる: 速度の改善（画像の圧縮、不要なスクリプトの削除）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>速度は LP の利便性の評価にも効き、品質スコアとクリック単価にも響く</p></div></div>
+<details class="fr" id="CVR-下-17" data-g="C"><summary><span class="rid">CVR-下-17</span><span class="rg">C</span><span class="rw">LP の不具合・表示速度の悪化です（重い画像・スクリプトの追加、サーバーの遅れ、スマホで崩れる、ボタンにチャットが重なる、リンク切れ、ページ移転で 404）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">表示される前や、操作できる前に離脱します</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>最終ページ URL を、実機で 1 本ずつ開きます。PageSpeed Insights（実測データと実験室データ）、[ランディング ページ] レポートのモバイル対応、GA4 の LP 別の直帰とエンゲージメント率を見ます。広告のクリック数と GA4 のセッションの差が開いていないかも見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>すぐやること: 不具合を直します。リダイレクトを直します。時間がかかること: 速度を改善します（画像の圧縮、不要なスクリプトの削除）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>速度は、LP の利便性の評価にも効きます。品質スコアとクリック単価にも響きます</p></div></div>
 <p class="src">根拠: 公式 07§2／経験則 T5-38、T5-40〜T5-44</p></details>
-<details class="fr" id="CVR-下-18" data-g="C"><summary><span class="rid">CVR-下-18</span><span class="rg">C</span><span class="rw">フォーム・決済・カート・予約システム・LINE 連携が壊れた、外部サービスの障害、入力チェックが厳しすぎる、CAPTCHA の追加</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">完了できない</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>実機で最後まで送る（スマホと PC、複数ブラウザ）。フォームの「入力開始率」「完了率」「項目ごとの離脱」「入力エラー」。CRM にリードが届いているか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>不具合を直す。障害の期間をデータの除外に</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>障害期間に自動入札が「この検索は成果が出ない」と学ぶ</p></div></div>
+<details class="fr" id="CVR-下-18" data-g="C"><summary><span class="rid">CVR-下-18</span><span class="rg">C</span><span class="rw">フォーム・決済・カート・予約システム・LINE 連携が壊れました。外部サービスで障害が起きました。入力チェックが厳しすぎます。CAPTCHA を追加しました</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">完了できません</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>実機で最後まで送ります（スマホと PC、複数のブラウザ）。フォームの「入力開始率」「完了率」「項目ごとの離脱」「入力エラー」を見ます。CRM にリードが届いているかを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>不具合を直します。障害の期間を、データの除外に入れます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>障害の期間に、自動入札が「この検索は成果が出ない」と学んでしまいます</p></div></div>
 <p class="src">根拠: 経験則 T5-35、T5-38、T5-139／公式 10276486</p></details>
-<details class="fr" id="CVR-下-19" data-g="C"><summary><span class="rid">CVR-下-19</span><span class="rg">C</span><span class="rw">A/B テスト・LPO ツールの導入（同期型タグの遅延、ちらつき、リダイレクト型テストでの gclid の欠落、成果の弱い案への配分）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">表示が遅れる・パラメータが落ちる・弱い案に人が流れる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>テスト開始日との段差。案別の率。テスト対象外のページの率は落ちていないか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>非同期・サーバー側の方式に変える、弱い案の配分を止める</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>テストを止めると学びも止まる。ちらつき防止スクリプトは体感速度を落とす</p></div></div>
+<details class="fr" id="CVR-下-19" data-g="C"><summary><span class="rid">CVR-下-19</span><span class="rg">C</span><span class="rw">A/B テスト・LPO ツールを入れました（同期型タグの遅れ、ちらつき、リダイレクト型テストでの gclid の欠落、成果の弱い案への配分）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">表示が遅れます。パラメータが落ちます。弱い案に人が流れます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>テストを始めた日との段差を見ます。案別の率を見ます。テスト対象外のページの率が落ちていないかを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>非同期・サーバー側の方式に変えます。弱い案の配分を止めます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>テストを止めると、学びも止まります。ちらつき防止スクリプトは、体感の速さを落とします</p></div></div>
 <p class="src">根拠: 公式 07§3／経験則 T5-45</p></details>
-<details class="fr" id="CVR-下-20" data-g="D"><summary><span class="rid">CVR-下-20</span><span class="rg">D</span><span class="rw">値上げ、キャンペーン・特典の終了、在庫切れ、人気商品の販売終了、配送日数の悪化、価格表示の変更</span><span class="rd"><i class="d d-exp"></i><i class="d d-inf"></i></span></summary>
-<div class="why">同じ人でも買わなくなる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>社内の販促カレンダー・在庫・価格の変更日。商品別（フィードがあれば商品別）の率。GA4 で広告以外の流入の率も下がっていないか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>在庫のない商品への配信を止める、特典の再開を検討、広告文から終わった特典を消す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>特典終了による下落は広告の不調ではない。目標を急に変えない</p></div></div>
+<details class="fr" id="CVR-下-20" data-g="D"><summary><span class="rid">CVR-下-20</span><span class="rg">D</span><span class="rw">値上げ、キャンペーン・特典の終了、在庫切れ、人気商品の販売終了、配送日数の悪化、価格表示の変更です</span><span class="rd"><i class="d d-exp"></i><i class="d d-inf"></i></span></summary>
+<div class="why">同じ人でも、買わなくなります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>社内の販促カレンダー・在庫・価格の変更日を見ます。商品別の率を見ます（フィードがあれば商品別）。GA4 で、広告以外の流入の率も下がっていないかを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>在庫のない商品への配信を止めます。特典の再開を考えます。広告文から、終わった特典を消します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>特典が終わって下がったのは、広告の不調ではありません。目標を急に変えません</p></div></div>
 <p class="src">根拠: 経験則 T5-113、T3-11-12／推測</p></details>
-<details class="fr" id="CVR-下-21" data-g="E"><summary><span class="rid">CVR-下-21</span><span class="rg">E</span><span class="rw">競合の値下げ・強い特典・新規参入、比較サイトの台頭、競合が自社名で入札</span><span class="rd"><i class="d d-exp"></i></span></summary>
-<div class="why">比較されて負ける。クリックはしても他で買う</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[オークション分析] の新しい競合、重複率・上位掲載率の上昇。実際の検索結果と競合の LP・価格</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>提供内容・訴求の見直し（価格、特典、保証、速さ）。広告文で差を明示</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>入札を上げても、比較で負けていれば率は戻らない</p></div></div>
+<details class="fr" id="CVR-下-21" data-g="E"><summary><span class="rid">CVR-下-21</span><span class="rg">E</span><span class="rw">競合が値下げしました。強い特典や、新規参入がありました。比較サイトが力をつけました。競合が自社名で入札しました</span><span class="rd"><i class="d d-exp"></i></span></summary>
+<div class="why">比べられて負けます。クリックはしても、他で買います</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>[オークション分析] で、新しい競合、重複率・上位掲載率の上昇を見ます。実際の検索結果と、競合の LP・価格を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>提供内容と訴求を見直します（価格、特典、保証、速さ）。広告文で、差をはっきり書きます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>入札を上げても、比べられて負けているなら、率は戻りません</p></div></div>
 <p class="src">根拠: 経験則 T5-117、T5-132</p></details>
-<details class="fr" id="CVR-下-22" data-g="E"><summary><span class="rid">CVR-下-22</span><span class="rg">E</span><span class="rw">繁忙期の終わり、連休（検討はするが買わない時期）、給料日前、月初、天候、ニュース、行事（確定申告・選挙など行動が変わる出来事）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">検討段階の人の比率が上がる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>前年同期、曜日・日付別、Google トレンド、GA4 で広告以外の流入の率</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>普段の季節変動は自動入札に任せる。短い催事なら季節性の調整</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>季節の下落に反応して何度も直すと悪化しやすい</p></div></div>
+<details class="fr" id="CVR-下-22" data-g="E"><summary><span class="rid">CVR-下-22</span><span class="rg">E</span><span class="rw">繁忙期の終わり、連休（検討はするが買わない時期）、給料日前、月初、天候、ニュース、行事（確定申告・選挙など、行動が変わる出来事）です</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">検討の段階にいる人の比率が上がります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>前年同期、曜日・日付別、Google トレンドを見ます。GA4 で、広告以外の流入の率を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>普段の季節変動は、自動入札に任せます。短い催事なら、季節性の調整を使います</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>季節の下がり方に反応して何度も直すと、悪くなりやすいです</p></div></div>
 <p class="src">根拠: 公式 02§7／経験則 T5-131、T2-5-14</p></details>
-<details class="fr" id="CVR-下-23" data-g="E"><summary><span class="rid">CVR-下-23</span><span class="rg">E</span><span class="rw">自動入札が追う対象が変わった（目標・入札戦略・予算の変更で学習中に戻った、媒体側の入札の仕様変更、推定の仕様変更）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">学習中は探索のため確度の低いオークションにも入る</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「入札戦略」レポートのステータス（学習中・制限あり）、「説明を表示」、Google の更新情報（例: 2026-08-17 の予算制限つき目標入札の変更）</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>学習が終わるまで待つ（7 日・1〜2 コンバージョン サイクル）。続けて変更しない</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>学習中に判断して戻すと、さらに学習がやり直しになる</p></div></div>
+<details class="fr" id="CVR-下-23" data-g="E"><summary><span class="rid">CVR-下-23</span><span class="rg">E</span><span class="rw">自動入札が追う対象が変わりました（目標・入札戦略・予算の変更で学習中に戻った、媒体側の入札の仕様変更、推定の仕様変更）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
+<div class="why">学習中は、探るために、確度の低いオークションにも入ります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>「入札戦略」レポートのステータス（学習中・制限あり）、「説明を表示」、Google の更新情報を見ます（例: 2026-08-17 の予算制限つき目標入札の変更）</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>学習が終わるまで待ちます（7 日・1〜2 コンバージョン サイクル）。続けて変更しません</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>学習中に判断して元に戻すと、さらに学習がやり直しになります</p></div></div>
 <p class="src">根拠: 公式 02§3、02§4、08§3-3／経験則 T2-12-5</p></details></div></div></section>
 <p class="cap" id="src">[ 元 ] <code>ロジックツリー/L3_コンバージョン率と獲得単価.md</code> §1 ／ 確認日 2026-11-17 ／ 各要因の根拠は「要因ごとの確かめ方」の行の中</p>
 <div class="pager"><a class="btn ghost" href="L3-CVR-up.html">↑ コンバージョン率が上がった ›</a><a class="btn ghost" href="index.html">すべての症状 ›</a></div>
@@ -401,7 +401,7 @@ document.querySelectorAll('.seg button').forEach(function(x){x.classList.remove(
 document.querySelectorAll('.fr').forEach(function(c){c.hidden=!(f==='all'||c.dataset.g===f)});});});</script>
 
 </main>
-<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="../index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="../shindan/index.html">すべての症状</a><a href="../shindan/L3-CVR-down.html">CVR が下がった</a><a href="../shindan/L3-CPA-up.html">CPA が上がった</a><a href="../shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="../menu/index.html">メニューの選び方</a><a href="../check/index.html">入稿前の点検</a><a href="../kata/index.html">判断の型 14 章</a><a href="../kata/06.html">状態の判定</a><a href="../kata/07.html">優先順位</a><a href="../kata/08.html">判断の規則集</a><a href="../kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="../shikiichi.html">しきい値</a><a href="../kata/90.html">式の一覧</a><a href="../shiyou.html">仕様の規則</a><a href="../dekiru.html">できる・できない 早見表</a><a href="../kata/92.html">食い違いと裁定</a><a href="../kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="../yogo.html">用語集</a><a href="../mondai.html">問題集</a><a href="../sim/index.html">試算（CPA・配分・曲線）</a><a href="../kaisetsu/index.html">解説（知識メモ）</a><a href="../search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="../baitai/index.html">媒体の一覧</a><a href="../baitai/meta/index.html">Meta</a><a href="../baitai/lineyahoo/index.html">LINEヤフー</a><a href="../baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-19</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-19 に作りました。</span></div></footer>
+<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="../index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="../shindan/index.html">すべての症状</a><a href="../shindan/L3-CVR-down.html">CVR が下がった</a><a href="../shindan/L3-CPA-up.html">CPA が上がった</a><a href="../shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="../menu/index.html">メニューの選び方</a><a href="../check/index.html">入稿前の点検</a><a href="../kata/index.html">判断の型 14 章</a><a href="../kata/06.html">状態の判定</a><a href="../kata/07.html">優先順位</a><a href="../kata/08.html">判断の規則集</a><a href="../kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="../shikiichi.html">しきい値</a><a href="../kata/90.html">式の一覧</a><a href="../shiyou.html">仕様の規則</a><a href="../dekiru.html">できる・できない 早見表</a><a href="../kata/92.html">食い違いと裁定</a><a href="../kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="../yogo.html">用語集</a><a href="../mondai.html">問題集</a><a href="../sim/index.html">試算（CPA・配分・曲線）</a><a href="../kaisetsu/index.html">解説（知識メモ）</a><a href="../search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="../baitai/index.html">媒体の一覧</a><a href="../baitai/meta/index.html">Meta</a><a href="../baitai/lineyahoo/index.html">LINEヤフー</a><a href="../baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-21</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-21 に作りました。</span></div></footer>
 <script>
 document.querySelectorAll('[data-open]').forEach(function(b){b.addEventListener('click',function(){var o=b.dataset.state!=='1';
  document.querySelectorAll('details').forEach(function(d){if(!d.hidden)d.open=o});b.dataset.state=o?'1':'0';b.textContent=o?'すべて閉じる':'すべて開く'})});

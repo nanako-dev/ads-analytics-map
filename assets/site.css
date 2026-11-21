@@ -1972,3 +1972,20 @@ td.nb{background-image:linear-gradient(90deg,var(--signal-pale) var(--w),transpa
 .gc header{flex-wrap:wrap}
 .gc-k{flex:0 1 auto;min-width:0;font-size:11.5px;overflow-wrap:anywhere}
 .gc-grid{grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr))}
+
+
+.th-ans th,.th-ans td{white-space:nowrap}
+.th-ans td b{font-family:var(--mono);font-size:15px}
+.th-ans td small{display:block;font-size:11px;color:#A1124B;font-weight:400}
+.th-ans td.ng{color:#A1124B}
+.th-ans td.ok b{background:rgba(25,231,110,.18);padding:0 3px}
+.tc-out{display:flex;flex-direction:column;gap:10px;min-width:0}
+.tc-card{border:1px solid #000;background:#fff;padding:12px 14px}
+.tc-k{font-size:12.5px;font-weight:700;margin:0 0 2px}
+.tc-v{font-family:var(--mono);font-size:24px;font-weight:600;margin:0 0 6px;line-height:1.2}
+.tc-v small{font-family:var(--sans);font-size:12px;font-weight:400;color:var(--sub)}
+.tc-s{font-size:12.5px;line-height:1.7;margin:0;color:var(--sub)}
+.tc-s b{color:#000}
+.tc-w{font-size:12.5px;line-height:1.65;margin:8px 0 0;color:#A1124B}
+@media (max-width:860px){.th-calc{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:560px){.th-calc .sg2{grid-template-columns:minmax(0,1fr)}}

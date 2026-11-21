@@ -3,9 +3,9 @@
 <title>クリック率が下がった｜運用の地図</title>
 
 <meta name="robots" content="noindex,nofollow">
-<link rel="stylesheet" href="../assets/site.css?v=1795080744">
+<link rel="stylesheet" href="../assets/site.css?v=1795269944">
 </head><body>
-<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-19 に作成</div>
+<div class="signal">非公式の個人メモ · 知識ベースから 2026-11-21 に作成</div>
 <header class="nav"><div class="nav-in"><a class="brand" href="../index.html"><i></i>運用の地図</a><nav><a href="../index.html">入口</a><a href="../shindan/index.html" class="on">症状</a><a href="../kata/index.html">判断の型</a><a href="../shikiichi.html">しきい値</a><a href="../shiyou.html">規則</a><a href="../yogo.html">用語</a><a href="../mondai.html">問題</a><a href="../menu/index.html">メニュー</a><a href="../check/index.html">点検</a><a href="../sim/index.html">試算</a><a href="../kaisetsu/index.html">解説</a><a href="../baitai/index.html">媒体</a><a href="../search.html">検索</a></nav></div></header>
 <main>
 <p class="crumb"><a href="../index.html">入口</a> / <a href="index.html">症状</a> / L1 表示とクリック / CTR-下</p>
@@ -16,7 +16,7 @@
 <nav class="quick" aria-label="実務の近道"><span>実務の近道</span><a href="#flow">切り分ける順番</a><a href="#tree">要因の木</a><a href="#rows">要因ごとの確かめ方（21）</a><a href="#src">出典</a></nav>
 <div class="ribbon" aria-hidden="true"><i style="left:4%;width:9%"></i><i class="p" style="left:16%;width:3%"></i><i style="left:41%;width:14%"></i><i class="s" style="left:63%;width:20%"></i><i style="left:88%;width:5%"></i></div>
 <section class="sec" id="learn"><p class="num">01</p><div><h2>図で見る: クリック率が下がったとは</h2><p class="desc">左右で同じものは同じ位置・同じ大きさ。変わった所だけ緑にしています。</p><div class="cc"><p class="cc-ex">学習用の例（数字は仮。トップの流れの図と同じ出発点）</p><div class="cc-g"><div class="cc-s"><p class="cc-l">先月</p><div class="cc-row same"><span class="k">表示回数</span><b>10,000 回</b></div><div class="cc-row diff"><span class="k">クリック</span><b>100 回</b></div><div class="cc-row diff big"><span class="k">クリック率（CTR）</span><b>1%</b><span class="bar"><i style="width:100%"></i></span><em>100 ÷ 10,000</em></div></div><div class="cc-mid" aria-hidden="true">→</div><div class="cc-s"><p class="cc-l">今月</p><div class="cc-row same"><span class="k">表示回数</span><b>10,000 回</b></div><div class="cc-row diff"><span class="k">クリック</span><b>50 回</b></div><div class="cc-row diff big"><span class="k">クリック率（CTR）</span><b>0.5%</b><span class="bar"><i style="width:50%"></i></span><em>50 ÷ 10,000</em></div></div></div><p class="cc-k"><b>同じ</b>: 灰色の行　<b>変わった</b>: 緑の行</p><p class="cc-take">表示の回数は同じでも、押される回数が半分になると、CTR は 1% から 0.5% へ半分になります。表示が減ったのではなく、押されにくくなったのです。</p></div></div></section>
-<section class="sec" id="check"><p class="num">02</p><div><h2>自分のアカウントなら、この順に確かめる</h2><p class="desc">上から順に。上の段が原因なら、下の段の数字は読めません（元は下の「切り分ける順番」と同じ）。</p><ol class="steps chk"><li><span class="n">①</span><div><b>計測・集計・期間の取り方</b><p><span class="lk">最初に見る画面</span>管理画面の期間設定、［分割］（日・曜日・ネットワーク・デバイス）、レポートの反映時刻</p></div></li><li><span class="n">②</span><div><b>自分が行った変更</b><p><span class="lk">最初に見る画面</span>［変更履歴］（ツール &gt; 変更履歴）、入札戦略レポート、キャンペーンの「ステータス」列</p></div></li><li><span class="n">③</span><div><b>媒体側の変更（仕様・自動化・審査）</b><p><span class="lk">最初に見る画面</span>「説明を表示」（青い点線の数字にカーソル）、ポリシー マネージャー、［推奨事項］の自動適用の履歴、Google 広告の告知</p></div></li><li><span class="n">④</span><div><b>競合</b><p><span class="lk">最初に見る画面</span>オークション分析（インプレッション シェア 10% 以上で出る）</p></div></li><li><span class="n">⑤</span><div><b>需要・季節・世の中</b><p><span class="lk">最初に見る画面</span>キーワード プランナー（月別の検索数）、Google トレンド、前年同期</p></div></li><li><span class="n">⑥</span><div><b>LP・提供内容</b><p><span class="lk">最初に見る画面</span>ランディング ページ レポート、PageSpeed Insights、サイトの更新履歴</p></div></li></ol><div class="ask"><p class="ts-l">Claude に聞くなら（<a href="https://github.com/nanako-dev/ochinana-ads-mcp" rel="noopener">ochinana_ads</a> を登録済みの Claude Code で。実績を読めるのは Google 広告だけ）</p><p class="ts-q">「先週、うちのアカウントのクリック率が下がった理由を、この順番で調べて」</p><p class="ts-tools">Claude は <code>kb_logic_tree</code>（この症状の木）で順番と基準を引き、<code>get_performance</code>・<code>get_search_terms</code>・<code>run_checks</code> で実績を読んで（読むだけ）、どの段で変わったかを答えます。<a href="../index.html#scenes">つながり方を見る ›</a></p></div></div></section>
+<section class="sec" id="check"><p class="num">02</p><div><h2>自分のアカウントなら、この順に確かめる</h2><p class="desc">上から順に。上の段が原因なら、下の段の数字は読めません（元は下の「切り分ける順番」と同じ）。</p><ol class="steps chk"><li><span class="n">①</span><div><b>計測・集計・期間の取り方</b><p><span class="lk">最初に見る画面</span>管理画面の期間設定、［分割］（日・曜日・ネットワーク・デバイス）、レポートに数字が入る時刻</p></div></li><li><span class="n">②</span><div><b>自分が行った変更</b><p><span class="lk">最初に見る画面</span>［変更履歴］（ツール &gt; 変更履歴）、入札戦略レポート、キャンペーンの「ステータス」列</p></div></li><li><span class="n">③</span><div><b>媒体側の変更（仕様・自動化・審査）</b><p><span class="lk">最初に見る画面</span>「説明を表示」（青い点線の数字にカーソルを合わせる）、ポリシー マネージャー、［推奨事項］の自動適用の履歴、Google 広告のお知らせ</p></div></li><li><span class="n">④</span><div><b>競合</b><p><span class="lk">最初に見る画面</span>オークション分析（インプレッション シェア 10% 以上で出る）</p></div></li><li><span class="n">⑤</span><div><b>需要・季節・世の中</b><p><span class="lk">最初に見る画面</span>キーワード プランナー（月別の検索数）、Google トレンド、前年同期</p></div></li><li><span class="n">⑥</span><div><b>LP・提供内容</b><p><span class="lk">最初に見る画面</span>ランディング ページ レポート、PageSpeed Insights、サイトの更新履歴</p></div></li></ol><div class="ask"><p class="ts-l">Claude に聞くなら（<a href="https://github.com/nanako-dev/ochinana-ads-mcp" rel="noopener">ochinana_ads</a> を登録済みの Claude Code で。実績を読めるのは Google 広告だけ）</p><p class="ts-q">「先週、うちのアカウントのクリック率が下がった理由を、この順番で調べて」</p><p class="ts-tools">Claude は <code>kb_logic_tree</code>（この症状の木）で順番と基準を引き、<code>get_performance</code>・<code>get_search_terms</code>・<code>run_checks</code> で実績を読んで（読むだけ）、どの段で変わったかを答えます。<a href="../index.html#scenes">つながり方を見る ›</a></p></div></div></section>
 <section class="sec" id="flow"><p class="num">03</p><div><h2>切り分ける順番</h2><p class="desc">STEP 1 から右へ。元はこのファイル冒頭の「共通の切り分けの順番」。</p><div class="fig-box"><svg viewBox="0 0 960 284" class="fig" role="img" aria-label="切り分ける順番: 上の段で当たれば、その分類の要因を見る。当たらなければ次へ">
 <rect x="20.0" y="40" width="131.7" height="104" rx="0" fill="#000000" stroke="#000000"/>
 <text x="32.0" y="64" font-family="'Chivo Mono',monospace" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="start">STEP 1</text>
@@ -246,88 +246,88 @@
 </a>
 </svg></div><p class="cap">[ 根拠 ] <span class="lg"><i class="d d-off"></i>公式 <b>14</b></span><span class="lg"><i class="d d-dat"></i>データあり <b>2</b></span><span class="lg"><i class="d d-exp"></i>経験則 <b>10</b></span><span class="lg"><i class="d d-inf"></i>推測 <b>4</b></span></p></div></section>
 <section class="sec" id="rows"><p class="num">05</p><div><h2>要因ごとの確かめ方 <button data-open class="btn sm">すべて開く</button></h2><div class="toolbar"><div class="seg" role="group" aria-label="分類で絞る"><button class="on" data-f="all">すべて 21</button><button data-f="①">① 計測</button><button data-f="②">② 自分の変更</button><button data-f="③">③ 媒体</button><button data-f="④">④ 競合</button><button data-f="⑤">⑤ 需要</button><button data-f="⑥">⑥ 提供内容</button></div></div><div class="rows"><details class="fr" id="CTR-下-01" data-g="①"><summary><span class="rid">CTR-下-01</span><span class="rg">①</span><span class="rw">表示回数が増え、クリックの低い表示が増えた</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">分母の質の変化</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>表示回数 ↑・クリック数 一定か ↑</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>クリック数で判断</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>公式も「クリック率が下がってもクリック数が増えることがある」と書く</p></div></div>
+<div class="why">分母の質が変わりました</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>表示回数 ↑・クリック数 一定か ↑ かを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>クリック数で判断します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>公式も「クリック率が下がってもクリック数が増えることがある」と書いています</p></div></div>
 <p class="src">根拠: KB05-8 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-02" data-g="①"><summary><span class="rid">CTR-下-02</span><span class="rg">①</span><span class="rw">検索パートナー・デバイスの混ざり方の変化</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">面とデバイスでクリック率が違う</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>［分割］&gt;［ネットワーク］［デバイス］</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>区分ごとに比べる。パートナーが低すぎるなら外す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>外すと量が減る</p></div></div>
+<div class="why">面とデバイスで、クリック率が違います</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>［分割］&gt;［ネットワーク］［デバイス］を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>区分ごとに比べます。パートナーが低すぎるなら、外します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>外すと、量が減ります</p></div></div>
 <p class="src">根拠: T1 2-19 <code>経験則</code>、KB04-8 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-03" data-g="①"><summary><span class="rid">CTR-下-03</span><span class="rg">①</span><span class="rw">ロボットの表示が混ざった</span><span class="rd"><i class="d d-inf"></i></span></summary>
-<div class="why">クリックされない表示が増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>特定の地域・時間・デバイスに表示が集中し、クリック率がほぼ 0</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>地域の除外など</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">クリックされない表示が増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>特定の地域・時間・デバイスに表示が集中し、クリック率がほぼ 0 です</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>地域を除外するなどします</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: <code>推測</code></p></details>
 <details class="fr" id="CTR-下-04" data-g="②"><summary><span class="rid">CTR-下-04</span><span class="rg">②</span><span class="rw">範囲を広げた（AI Max・インテント マッチ・一般語のキーワード）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">意図の合わない検索の割合が増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>マッチタイプ別・ソース列別のクリック率、検索語句レポートの新しい語句</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>合わない語句を除外。テーマの違う広告グループは「検索語句のマッチング」をオフ</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>範囲を戻すと量が減る</p></div></div>
+<div class="why">意図の合わない検索の割合が増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>マッチタイプ別・ソース列別のクリック率と、検索語句レポートの新しい語句を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>合わない語句を除外します。テーマの違う広告グループは、「検索語句のマッチング」をオフにします</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>範囲を戻すと、量が減ります</p></div></div>
 <p class="src">根拠: KB04-1・8 <code>公式</code>、T1 1-4〜1-6 <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-05" data-g="②"><summary><span class="rid">CTR-下-05</span><span class="rg">②</span><span class="rw">除外キーワードを外した・リストのキャンペーンへの適用が外れた</span><span class="rd"><i class="d d-exp"></i></span></summary>
-<div class="why">止めていた検索が戻る</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>変更履歴、共有ライブラリの適用先</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>付け直す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">止めていた検索が戻ります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>変更履歴と、共有ライブラリの適用先を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>付け直します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: T6 1-8 <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-06" data-g="②"><summary><span class="rid">CTR-下-06</span><span class="rg">②</span><span class="rw">広告文を一斉に差し替えた、実績のある見出しを止めた</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">組み合わせの学習が初めからになり、強い見出しが消える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>差し替えた日を境に下がったか。アセット別レポート</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>古い広告を残して新しい広告を足し、比べる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>一斉に替えると原因が分からない</p></div></div>
+<div class="why">組み合わせの学習が最初からになり、強い見出しが消えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>差し替えた日を境に下がったかを見ます。アセット別レポートも見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>古い広告を残して、新しい広告を足し、比べます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>一斉に替えると、原因が分かりません</p></div></div>
 <p class="src">根拠: SEJ（2026-02-08） <code>経験則</code>、KB05-13 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-07" data-g="②"><summary><span class="rid">CTR-下-07</span><span class="rg">②</span><span class="rw">ピン留めを増やした</span><span class="rd"><i class="d d-dat"></i></span></summary>
-<div class="why">組み合わせが減り、検索に合わせられない</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>ピン留めの変更前後</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>必須の文言だけピン。1 つの位置に 2〜3 本</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>法務上のピンは外せない</p></div></div>
+<div class="why">組み合わせが減って、検索に合わせられません</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>ピン留めの変更前後を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>必須の文言だけピン留めします。1 つの位置に 2〜3 本ずつ置きます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>法務上のピン留めは、外せません</p></div></div>
 <p class="src">根拠: T1 4-8・4-9 <code>データあり</code>（Lebesgue）</p></details>
 <details class="fr" id="CTR-下-08" data-g="②"><summary><span class="rid">CTR-下-08</span><span class="rg">②</span><span class="rw">アセットが出なくなった（不承認、広告グループに 1 つ置くとキャンペーンのアセットが出なくなる階層の落とし穴、スケジュールの不一致、似すぎ）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">広告の面積が減る</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アセット レポートの表示回数、ステータス</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>階層とスケジュールを直す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>アセットは広告ランクと位置が足りないと出ない</p></div></div>
+<div class="why">広告の面積が減ります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アセット レポートの表示回数と、ステータスを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>階層とスケジュールを直します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>アセットは、広告ランクと位置が足りないと出ません</p></div></div>
 <p class="src">根拠: T1 5-5・5-7 <code>経験則</code>、KB05-11 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-09" data-g="②"><summary><span class="rid">CTR-下-09</span><span class="rg">②</span><span class="rw">入札・目標を下げた、上限を付けた</span><span class="rd"><i class="d d-off"></i><i class="d d-inf"></i></span></summary>
-<div class="why">下の位置の表示が増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>［分割］&gt;［上部と下部］</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>位置の価値を見て判断</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">下の位置の表示が増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>［分割］&gt;［上部と下部］を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>位置の価値を見て、判断します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: KB01-6-2 <code>公式</code>、<code>推測</code></p></details>
 <details class="fr" id="CTR-下-10" data-g="②"><summary><span class="rid">CTR-下-10</span><span class="rg">②</span><span class="rw">地域を「所在地やインタレスト」へ戻した、地域・時間帯を広げた</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">関心の低い人・遠い人への表示が増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>［地域］レポートの「一致した地域」</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>「所在地」を検討</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>表示が減る</p></div></div>
+<div class="why">関心の低い人・遠い人への表示が増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>［地域］レポートの「一致した地域」を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>「所在地」を検討します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>表示が減ります</p></div></div>
 <p class="src">根拠: KB04-8 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-11" data-g="②"><summary><span class="rid">CTR-下-11</span><span class="rg">②</span><span class="rw">広告文を具体的にした（対象外の人に押させない）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">公式自身が「クリック率が下がって成果率が上がることもある」と書く</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>成果率の変化を同時に見る</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>成果率が上がっていれば成功</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>悪化と誤読しない</p></div></div>
+<div class="why">公式自身が、「クリック率が下がって成果率が上がることもある」と書いています</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>成果率の変化を、同時に見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>成果率が上がっていれば、成功です</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>悪化と、読み違えないでください</p></div></div>
 <p class="src">根拠: KB01-5-1 <code>公式</code>、T1 4-26 <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-12" data-g="③"><summary><span class="rid">CTR-下-12</span><span class="rg">③</span><span class="rw">AI による概要など検索結果ページの変化（答えがページの上で済む、広告が回答の上下に分かれる）</span><span class="rd"><i class="d d-off"></i><i class="d d-dat"></i></span></summary>
-<div class="why">検索した人が広告まで来ない・押さない。広告代理店 Seer Interactive の自社顧客データの調査（Tracy McDonald、2025-11-04 公開「September 2025 Update」）では、AI による概要が出た情報収集の検索で、広告のクリック率が 2024-06 の 19.70% から 2025-09 の 6.34% に下がった（顧客 42 組織・3,119 語句・広告の表示 110 万回）</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>情報収集の語句（〜とは、やり方など）でだけ下がっているか。Search Console の自然検索のクリック率も同時に下がっていないか</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>情報収集の語句は予算を寄せない。買う気の強い語句に寄せる</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>1 社の顧客データで、国・言語は本文に記載なし（英語圏とみられるが未確認）。調査者は商用・取引・地域の検索では結果が違いうると書く。日本語では回答の「中」の広告は無く、上下の通常の広告だけ（2026-11 時点）。前後比較なので AI による概要が原因とは断定できない <code>推測</code></p></div></div>
+<div class="why">検索した人が、広告まで来ません。押しません。広告代理店 Seer Interactive が、自社の顧客データで調べました（Tracy McDonald、2025-11-04 公開「September 2025 Update」）。AI による概要が出た情報収集の検索で、広告のクリック率が、2024-06 の 19.70% から 2025-09 の 6.34% に下がりました（顧客 42 組織・3,119 語句・広告の表示 110 万回）</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>情報収集の語句（〜とは、やり方など）でだけ下がっているかを見ます。Search Console の自然検索のクリック率も、同時に下がっていないかを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>情報収集の語句には、予算を寄せません。買う気の強い語句に寄せます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>1 社の顧客データです。国・言語は、本文に記載がありません（英語圏とみられますが、未確認です）。調査者は、商用・取引・地域の検索では結果が違うことがある、と書いています。日本語では、回答の「中」の広告はなく、上下の通常の広告だけです（2026-11 時点）。前後の比較なので、AI による概要が原因とは言い切れません <code>推測</code></p></div></div>
 <p class="src">根拠: Seer Interactive（2025-11-04 公開、2026-11-17 本ページ取得） <code>データあり（第三者）</code>、KB13-5 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-13" data-g="③"><summary><span class="rid">CTR-下-13</span><span class="rg">③</span><span class="rw">マッチングの拡大（類似パターン、意味での一致、AI 経由の検索）、部分一致の AI Max への自動移行（2026-09）</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">自分で広げていなくても、合わない検索が増える</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>変更履歴に自分の変更がない。検索語句レポートの新しい言い回し、マッチタイプ「AI 最大化設定」</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>除外を足す</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">自分で広げていなくても、合わない検索が増えます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>変更履歴に、自分の変更がありません。検索語句レポートの新しい言い回しと、マッチタイプ「AI 最大化設定」を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>除外を足します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: KB04-1-3 <code>公式</code>、KB13 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-14" data-g="③"><summary><span class="rid">CTR-下-14</span><span class="rg">③</span><span class="rw">テキストのカスタマイズ（AI Max の生成文）・最終ページ URL の拡張が出るようになった</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">自分で書いた文より成果が高いと予測されたときだけ出るはずだが、ずれることもある</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アセット レポートの生成文の行、ランディング ページ レポートの「選択方法」</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>合わないなら機能をオフ、または LP の文言を直す（生成の材料）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>オフにすると AI Max の効果も減りうる</p></div></div>
+<div class="why">自分で書いた文より成果が高いと予測されたときだけ出るはずです。しかし、ずれることもあります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アセット レポートの生成文の行と、ランディング ページ レポートの「選択方法」を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>合わないなら、機能をオフにします。または、LP の文言を直します（生成の材料になります）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>オフにすると、AI Max の効果も減ることがあります</p></div></div>
 <p class="src">根拠: KB00-2 <code>公式</code>、T1 4-25 <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-15" data-g="③"><summary><span class="rid">CTR-下-15</span><span class="rg">③</span><span class="rw">強い見出し・アセットが不承認・制限付きになった</span><span class="rd"><i class="d d-off"></i></span></summary>
 <div class="why">出せる組み合わせが減る</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アセット別のステータス、［ポリシーの詳細］</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>直して再審査</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>アセット別のステータスと、［ポリシーの詳細］を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>直して再審査を出します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: KB05-10 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-16" data-g="④"><summary><span class="rid">CTR-下-16</span><span class="rg">④</span><span class="rw">競合の強い広告文・オファー・値引き</span><span class="rd"><i class="d d-exp"></i></span></summary>
-<div class="why">比べられて負ける</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>広告プレビューと診断、オークション分析で新しい相手</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>独自の強み、具体的な数字、アセット</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>値引きで張り合うと利益を削る</p></div></div>
+<div class="why">比べられて、負けます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>広告プレビューと診断、オークション分析で、新しい相手を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>独自の強み、具体的な数字、アセットを入れます</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>値引きで張り合うと、利益を削ります</p></div></div>
 <p class="src">根拠: SEJ（2026-02-08） <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-17" data-g="④"><summary><span class="rid">CTR-下-17</span><span class="rg">④</span><span class="rw">競合が増え、自分の位置が下がった</span><span class="rd"><i class="d d-off"></i></span></summary>
-<div class="why">下の位置ほど見られない</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>上部インプレッション率 ↓、上部掲載率 ↑</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>品質・入札（TOP の木へ）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">下の位置ほど、見られません</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>上部インプレッション率 ↓、上部掲載率 ↑ を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>品質・入札を見直します（TOP の木へ）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: KB01-7 <code>公式</code></p></details>
 <details class="fr" id="CTR-下-18" data-g="⑤"><summary><span class="rid">CTR-下-18</span><span class="rg">⑤</span><span class="rw">調べ物・一般語の検索の割合が増えた（季節・ニュース）</span><span class="rd"><i class="d d-inf"></i></span></summary>
-<div class="why">買う気の弱い検索はクリック率が低い</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>検索語句カテゴリ別、キーワード別の表示の割合</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>合わない語句は除外</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">買う気の弱い検索は、クリック率が低いです</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>検索語句カテゴリ別、キーワード別の表示の割合を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>合わない語句は、除外します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: <code>推測</code></p></details>
 <details class="fr" id="CTR-下-19" data-g="⑤"><summary><span class="rid">CTR-下-19</span><span class="rg">⑤</span><span class="rw">指名の検索の割合が減った</span><span class="rd"><i class="d d-exp"></i></span></summary>
-<div class="why">指名はクリック率が高いので、全体が下がる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>指名と非指名の表示の割合</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>分けて評価</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">指名はクリック率が高いので、全体が下がります</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>指名と指名でないものの、表示の割合を見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>分けて評価します</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: T1 7-7 <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-20" data-g="⑤"><summary><span class="rid">CTR-下-20</span><span class="rg">⑤</span><span class="rw">広告文の陳腐化（同じ人が何度も見る）</span><span class="rd"><i class="d d-off"></i><i class="d d-exp"></i></span></summary>
-<div class="why">見慣れると反応が落ちる。判決文はオークションの式に「広告への慣れによる将来の反応低下」の近似を入れていると認定</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>同じ広告のクリック率がじわじわ下がる</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>見出しの入れ替え（1〜2 本ずつ）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>入れ替えすぎると学習が遅れる</p></div></div>
+<div class="why">見慣れると、反応が落ちます。判決文は、オークションの式に「広告への慣れによる将来の反応低下」の近似が入っていると認めています</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>同じ広告のクリック率が、じわじわ下がります</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>見出しを入れ替えます（1〜2 本ずつ）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p>入れ替えすぎると、学習が遅れます</p></div></div>
 <p class="src">根拠: KB01-10-2 <code>公式</code>（判決文）、T2 11-3 <code>経験則</code></p></details>
 <details class="fr" id="CTR-下-21" data-g="⑥"><summary><span class="rid">CTR-下-21</span><span class="rg">⑥</span><span class="rw">価格・在庫・提供内容が競合より弱くなった</span><span class="rd"><i class="d d-inf"></i></span></summary>
-<div class="why">広告文・アセット（価格、プロモーション）で比べられる</div>
-<div class="mini"><div class="m m1"><em>1 確かめる</em><p>競合の広告、価格アセット</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>提供内容の見直し（広告の外の判断）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
+<div class="why">広告文・アセット（価格、プロモーション）で、比べられます</div>
+<div class="mini"><div class="m m1"><em>1 確かめる</em><p>競合の広告と、価格アセットを見ます</p></div><div class="arr">→</div><div class="m m2"><em>2 直す</em><p>提供内容を見直します（広告の外の判断です）</p></div><div class="arr">→</div><div class="m m3"><em>3 気をつける</em><p><code>推測</code></p></div></div>
 <p class="src">根拠: <code>推測</code></p></details></div></div></section>
 <p class="cap" id="src">[ 元 ] <code>ロジックツリー/L1_表示回数とクリック率.md</code> §5 ／ 確認日 2026-11-17 ／ 各要因の根拠は「要因ごとの確かめ方」の行の中</p>
 <div class="pager"><a class="btn ghost" href="L1-CTR-up.html">↑ クリック率が上がった ›</a><a class="btn ghost" href="index.html">すべての症状 ›</a></div>
@@ -336,7 +336,7 @@ document.querySelectorAll('.seg button').forEach(function(x){x.classList.remove(
 document.querySelectorAll('.fr').forEach(function(c){c.hidden=!(f==='all'||c.dataset.g===f)});});});</script>
 
 </main>
-<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="../index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="../shindan/index.html">すべての症状</a><a href="../shindan/L3-CVR-down.html">CVR が下がった</a><a href="../shindan/L3-CPA-up.html">CPA が上がった</a><a href="../shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="../menu/index.html">メニューの選び方</a><a href="../check/index.html">入稿前の点検</a><a href="../kata/index.html">判断の型 14 章</a><a href="../kata/06.html">状態の判定</a><a href="../kata/07.html">優先順位</a><a href="../kata/08.html">判断の規則集</a><a href="../kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="../shikiichi.html">しきい値</a><a href="../kata/90.html">式の一覧</a><a href="../shiyou.html">仕様の規則</a><a href="../dekiru.html">できる・できない 早見表</a><a href="../kata/92.html">食い違いと裁定</a><a href="../kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="../yogo.html">用語集</a><a href="../mondai.html">問題集</a><a href="../sim/index.html">試算（CPA・配分・曲線）</a><a href="../kaisetsu/index.html">解説（知識メモ）</a><a href="../search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="../baitai/index.html">媒体の一覧</a><a href="../baitai/meta/index.html">Meta</a><a href="../baitai/lineyahoo/index.html">LINEヤフー</a><a href="../baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-19</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-19 に作りました。</span></div></footer>
+<footer class="dir"><div class="dir-in"><div class="dir-brand"><a class="brand" href="../index.html"><i></i>運用の地図</a><p>広告運用の知識を、図と表で引けるようにまとめたメモ。</p></div><div class="dir-cols"><div><p>数字が動いた</p><a href="../shindan/index.html">すべての症状</a><a href="../shindan/L3-CVR-down.html">CVR が下がった</a><a href="../shindan/L3-CPA-up.html">CPA が上がった</a><a href="../shindan/L1-IMP-down.html">表示回数が下がった</a></div><div><p>判断する</p><a href="../menu/index.html">メニューの選び方</a><a href="../check/index.html">入稿前の点検</a><a href="../kata/index.html">判断の型 14 章</a><a href="../kata/06.html">状態の判定</a><a href="../kata/07.html">優先順位</a><a href="../kata/08.html">判断の規則集</a><a href="../kata/10.html">問題解決の型</a></div><div><p>数と仕様</p><a href="../shikiichi.html">しきい値</a><a href="../kata/90.html">式の一覧</a><a href="../shiyou.html">仕様の規則</a><a href="../dekiru.html">できる・できない 早見表</a><a href="../kata/92.html">食い違いと裁定</a><a href="../kata/93.html">未確認の点</a></div><div><p>学ぶ・引く</p><a href="../yogo.html">用語集</a><a href="../mondai.html">問題集</a><a href="../sim/index.html">試算（CPA・配分・曲線）</a><a href="../kaisetsu/index.html">解説（知識メモ）</a><a href="../search.html">サイト内の検索</a></div><div><p>ほかの媒体</p><a href="../baitai/index.html">媒体の一覧</a><a href="../baitai/meta/index.html">Meta</a><a href="../baitai/lineyahoo/index.html">LINEヤフー</a><a href="../baitai/chatgpt/index.html">ChatGPT</a></div></div></div><div class="dir-bot"><span class="status"><i></i>2026-11-21</span><span>個人がまとめた非公式のメモです。Google・Meta・LINEヤフー・OpenAI の公式の資料ではありません。設定や入稿の前に、各媒体の公式ヘルプで確かめてください。数値と規則は各ページの確認日の時点のもので、このページは 2026-11-21 に作りました。</span></div></footer>
 <script>
 document.querySelectorAll('[data-open]').forEach(function(b){b.addEventListener('click',function(){var o=b.dataset.state!=='1';
  document.querySelectorAll('details').forEach(function(d){if(!d.hidden)d.open=o});b.dataset.state=o?'1':'0';b.textContent=o?'すべて閉じる':'すべて開く'})});
