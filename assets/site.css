@@ -1989,3 +1989,35 @@ td.nb{background-image:linear-gradient(90deg,var(--signal-pale) var(--w),transpa
 .tc-w{font-size:12.5px;line-height:1.65;margin:8px 0 0;color:#A1124B}
 @media (max-width:860px){.th-calc{grid-template-columns:minmax(0,1fr)}}
 @media (max-width:560px){.th-calc .sg2{grid-template-columns:minmax(0,1fr)}}
+
+
+.h-about{margin:0 0 20px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid #000;border-bottom:1px solid #000}
+.h-about>div{padding:12px 18px 14px 0;min-width:0}
+.h-about>div+div{padding-left:18px;border-left:1px solid var(--rule)}
+.h-about dt{font-family:var(--mono);font-size:12px;color:var(--muted);margin:0 0 4px}
+.h-about dd{margin:0;font-size:14.5px;line-height:1.7}
+.h2-paths .pf{margin:0 0 10px}
+.h-goals{padding:56px 0 64px;border-top:1px dashed #D9D9D9}
+.h-goals h2{font-size:40px;line-height:1.2;font-weight:700;letter-spacing:-.02em;margin:0 0 24px;font-feature-settings:"palt"}
+.goals{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;border-top:1px solid #000;border-left:1px solid #000}
+.goals li{border-right:1px solid #000;border-bottom:1px solid #000;min-width:0}
+.goals a{display:grid;grid-template-columns:36px minmax(0,1fr) auto;grid-template-areas:"n q to" "n d d";gap:4px 12px;padding:16px 18px;height:100%;box-sizing:border-box;text-decoration:none;color:#000;background:#fff}
+.goals a:hover{background:var(--sage)}
+.gl-n{grid-area:n;font-family:var(--mono);font-size:12px;color:var(--muted);padding-top:4px}
+.gl-q{grid-area:q;font-size:18px;font-weight:700;line-height:1.45}
+.gl-to{grid-area:to;font-family:var(--mono);font-size:12.5px;white-space:nowrap;align-self:start;padding-top:4px;text-decoration:underline;text-underline-offset:3px}
+.gl-d{grid-area:d;font-size:13.5px;line-height:1.65;color:var(--sub)}
+.goals .gl-mcp a{background:var(--sage)}
+.goals .gl-mcp a:hover{background:var(--signal-pale)}
+.mcp-who{margin:0 0 20px;padding-left:20px;font-size:15px;line-height:1.8}
+.mcp-who li{margin:0 0 8px}
+.mcp-who b{display:block}
+@media (max-width:760px){
+  .goals{grid-template-columns:1fr}
+  .goals a{grid-template-columns:28px minmax(0,1fr);grid-template-areas:"n q" "n to" "n d"}
+  .gl-q{font-size:16.5px}
+  .h-goals h2{font-size:30px}
+  .h-about{grid-template-columns:1fr}
+  .h-about>div,.h-about>div+div{padding:10px 0;border-left:0}
+  .h-about>div+div{border-top:1px solid var(--rule)}
+}
